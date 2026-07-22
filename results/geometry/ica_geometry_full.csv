@@ -1,0 +1,1801 @@
+mean_abs_corr,amari_error,runtime_sec,success,error,dataset,seed,epsilon,geometry,method
+0.07238799653498082,0.22374915615184557,0.02767181396484375,True,,Digits,0,0.1,dense,Proposed IRLS-l12
+0.2510188729050785,0.42870060616957667,0.014251470565795898,True,,Digits,0,0.1,dense,FastICA-exp
+0.2362830994571897,0.4468892760367746,0.007409334182739258,True,,Digits,0,0.1,dense,FastICA-deflation-cube
+0.23618210614468613,0.4693999138094359,0.02714061737060547,True,,Digits,0,0.1,dense,Picard-nonorthogonal
+0.24552488963128338,0.480440522392097,0.011312484741210938,True,,Digits,0,0.1,dense,JADE
+0.24895385723349336,0.42058773225748547,0.0065457820892333984,True,,Digits,0,0.1,dense,SOBI
+0.12173705075148115,0.10161755682658677,0.06468343734741211,True,,Digits,0,0.2,dense,Proposed IRLS-l12
+0.21060822998481274,0.3822585843155007,0.006485939025878906,True,,Digits,0,0.2,dense,FastICA-exp
+0.2325811593480021,0.3586896024512994,0.004076242446899414,True,,Digits,0,0.2,dense,FastICA-deflation-cube
+0.2218159950718194,0.39922355712402524,0.02690744400024414,True,,Digits,0,0.2,dense,Picard-nonorthogonal
+0.21173099158779712,0.43238076605219,0.010749340057373047,True,,Digits,0,0.2,dense,JADE
+0.23184104500154296,0.31615887711086926,0.011156320571899414,True,,Digits,0,0.2,dense,SOBI
+0.13772236349910671,0.28114611850720134,0.07251191139221191,True,,Digits,0,0.1,single-channel,Proposed IRLS-l12
+0.27824473034516617,0.3361242488448857,0.012348175048828125,True,,Digits,0,0.1,single-channel,FastICA-exp
+0.27647946049531014,0.33688075311472937,0.0037555694580078125,True,,Digits,0,0.1,single-channel,FastICA-deflation-cube
+0.27819207214025593,0.3398588602527107,0.02405095100402832,True,,Digits,0,0.1,single-channel,Picard-nonorthogonal
+0.2764501422939178,0.3346469356980653,0.003443479537963867,True,,Digits,0,0.1,single-channel,JADE
+0.25998951868356135,0.44465984998857594,0.009089231491088867,True,,Digits,0,0.1,single-channel,SOBI
+0.21928591037227246,0.27376568944282786,0.060013771057128906,True,,Digits,0,0.2,single-channel,Proposed IRLS-l12
+0.2050319927408583,0.4287793545129809,0.003695249557495117,True,,Digits,0,0.2,single-channel,FastICA-exp
+0.2195916269214951,0.3629215413815007,0.002882242202758789,True,,Digits,0,0.2,single-channel,FastICA-deflation-cube
+0.2197569005107291,0.36970933944534246,0.009463787078857422,True,,Digits,0,0.2,single-channel,Picard-nonorthogonal
+0.21976735731984914,0.369923416045309,0.0035750865936279297,True,,Digits,0,0.2,single-channel,JADE
+0.20992102695330037,0.5216635337598239,0.010742902755737305,True,,Digits,0,0.2,single-channel,SOBI
+0.7038427837991545,0.1890189502588428,0.04269766807556152,True,,Digits,0,0.1,coherent,Proposed IRLS-l12
+0.6822281416561952,0.24960321713338168,0.00640106201171875,True,,Digits,0,0.1,coherent,FastICA-exp
+0.7127434146386206,0.22525442001102566,0.004824638366699219,True,,Digits,0,0.1,coherent,FastICA-deflation-cube
+0.718471652300013,0.2628221706587627,0.06484413146972656,True,,Digits,0,0.1,coherent,Picard-nonorthogonal
+0.6956697658295435,0.2320861280597208,0.004421710968017578,True,,Digits,0,0.1,coherent,JADE
+0.6740388092850657,0.406699343044928,0.012547969818115234,True,,Digits,0,0.1,coherent,SOBI
+0.7484647383544089,0.2112699013419173,0.07091522216796875,True,,Digits,0,0.2,coherent,Proposed IRLS-l12
+0.6628253107931702,0.2221750539669997,0.008093595504760742,True,,Digits,0,0.2,coherent,FastICA-exp
+0.7456029002533159,0.1837086397173741,0.00412297248840332,True,,Digits,0,0.2,coherent,FastICA-deflation-cube
+0.633467439169255,0.23522694176494738,0.02922201156616211,True,,Digits,0,0.2,coherent,Picard-nonorthogonal
+0.7308256066247087,0.16674428214349346,0.004630088806152344,True,,Digits,0,0.2,coherent,JADE
+0.5898800756573728,0.34332287450559995,0.007930755615234375,True,,Digits,0,0.2,coherent,SOBI
+0.11412323917785865,0.10590348469981706,0.09218907356262207,True,,Digits,1,0.1,dense,Proposed IRLS-l12
+0.2550277192373329,0.4235266116156241,0.013546466827392578,True,,Digits,1,0.1,dense,FastICA-exp
+0.2694841507168032,0.439506912680424,0.0065135955810546875,True,,Digits,1,0.1,dense,FastICA-deflation-cube
+0.2727118909938039,0.39418768405554266,0.01861262321472168,True,,Digits,1,0.1,dense,Picard-nonorthogonal
+0.27354557070145813,0.47316325773439044,0.008946895599365234,True,,Digits,1,0.1,dense,JADE
+0.2707812514111651,0.38080668811064394,0.031943559646606445,True,,Digits,1,0.1,dense,SOBI
+0.18340458819287359,0.40259546191223416,0.04053187370300293,True,,Digits,1,0.2,dense,Proposed IRLS-l12
+0.15540534256460953,0.3920940979729638,0.005124807357788086,True,,Digits,1,0.2,dense,FastICA-exp
+0.15709081443312178,0.41650440048968174,0.004812717437744141,True,,Digits,1,0.2,dense,FastICA-deflation-cube
+0.1517926894117081,0.3453268308300602,0.03086686134338379,True,,Digits,1,0.2,dense,Picard-nonorthogonal
+0.1569653655039604,0.35264591240201437,0.005465507507324219,True,,Digits,1,0.2,dense,JADE
+0.1501708947176047,0.4960456274307896,0.010967016220092773,True,,Digits,1,0.2,dense,SOBI
+0.15726901140264027,0.14053639068057927,0.04012441635131836,True,,Digits,1,0.1,single-channel,Proposed IRLS-l12
+0.35742944211816285,0.4256707332434533,0.004878997802734375,True,,Digits,1,0.1,single-channel,FastICA-exp
+0.3379624020530017,0.43762518121089233,0.004332065582275391,True,,Digits,1,0.1,single-channel,FastICA-deflation-cube
+0.35379361627931416,0.43739019670935664,0.016887664794921875,True,,Digits,1,0.1,single-channel,Picard-nonorthogonal
+0.33914665267502314,0.4446360177302234,0.0044710636138916016,True,,Digits,1,0.1,single-channel,JADE
+0.339390879915363,0.4718855640945529,0.009664535522460938,True,,Digits,1,0.1,single-channel,SOBI
+0.2171055698897796,0.26981603845955304,0.07929635047912598,True,,Digits,1,0.2,single-channel,Proposed IRLS-l12
+0.21150158286383722,0.40913962278005445,0.004806995391845703,True,,Digits,1,0.2,single-channel,FastICA-exp
+0.21510193141906037,0.4096792753089124,0.00316619873046875,True,,Digits,1,0.2,single-channel,FastICA-deflation-cube
+0.21139061852496138,0.411598869690193,0.019867420196533203,True,,Digits,1,0.2,single-channel,Picard-nonorthogonal
+0.21230211732208287,0.40585429667919276,0.0036766529083251953,True,,Digits,1,0.2,single-channel,JADE
+0.29023085834290413,0.36514398559365985,0.023255109786987305,True,,Digits,1,0.2,single-channel,SOBI
+0.5306367945575948,0.2841228693289057,0.05909538269042969,True,,Digits,1,0.1,coherent,Proposed IRLS-l12
+0.7508277134695028,0.2653502230401106,0.004036903381347656,True,,Digits,1,0.1,coherent,FastICA-exp
+0.7839706837533893,0.23257302145474257,0.004502296447753906,True,,Digits,1,0.1,coherent,FastICA-deflation-cube
+0.7159859673681516,0.29002493757726533,0.017134904861450195,True,,Digits,1,0.1,coherent,Picard-nonorthogonal
+0.7136987895458795,0.2705945368800783,0.004938602447509766,True,,Digits,1,0.1,coherent,JADE
+0.8009799873543741,0.2292145985551369,0.011154890060424805,True,,Digits,1,0.1,coherent,SOBI
+0.35305368812746496,0.2514832079117072,0.06072735786437988,True,,Digits,1,0.2,coherent,Proposed IRLS-l12
+0.694741210996279,0.21499577021415722,0.0037980079650878906,True,,Digits,1,0.2,coherent,FastICA-exp
+0.7064731148253177,0.2184336363944269,0.0045964717864990234,True,,Digits,1,0.2,coherent,FastICA-deflation-cube
+0.6627142873648073,0.23563271597203633,0.04277491569519043,True,,Digits,1,0.2,coherent,Picard-nonorthogonal
+0.6853416602864156,0.22129472743536863,0.005746364593505859,True,,Digits,1,0.2,coherent,JADE
+0.6595216205742638,0.34471420754042886,0.005262613296508789,True,,Digits,1,0.2,coherent,SOBI
+,,0.04731941223144531,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,dense,Proposed IRLS-l12
+,,0.006351470947265625,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,dense,FastICA-exp
+,,0.005953311920166016,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,dense,FastICA-deflation-cube
+,,0.02770543098449707,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,dense,Picard-nonorthogonal
+,,0.005767822265625,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,dense,JADE
+,,0.008822441101074219,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,dense,SOBI
+,,0.04899263381958008,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,dense,Proposed IRLS-l12
+,,0.014127254486083984,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,dense,FastICA-exp
+,,0.0040721893310546875,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,dense,FastICA-deflation-cube
+,,0.017252445220947266,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,dense,Picard-nonorthogonal
+,,0.0061702728271484375,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,dense,JADE
+,,0.006562948226928711,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,dense,SOBI
+,,0.04119992256164551,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,single-channel,Proposed IRLS-l12
+,,0.01544809341430664,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,single-channel,FastICA-exp
+,,0.0035202503204345703,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,single-channel,FastICA-deflation-cube
+,,0.018215656280517578,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,single-channel,Picard-nonorthogonal
+,,0.003101825714111328,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,single-channel,JADE
+,,0.009984970092773438,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,single-channel,SOBI
+,,0.051430463790893555,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,single-channel,Proposed IRLS-l12
+,,0.010930061340332031,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,single-channel,FastICA-exp
+,,0.0029096603393554688,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,single-channel,FastICA-deflation-cube
+,,0.013091802597045898,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,single-channel,Picard-nonorthogonal
+,,0.003269195556640625,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,single-channel,JADE
+,,0.008466243743896484,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,single-channel,SOBI
+,,0.059552669525146484,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,coherent,Proposed IRLS-l12
+,,0.0028395652770996094,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,coherent,FastICA-exp
+,,0.002744913101196289,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,coherent,FastICA-deflation-cube
+,,0.030898094177246094,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,coherent,Picard-nonorthogonal
+,,0.003718137741088867,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,coherent,JADE
+,,0.007988452911376953,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.1,coherent,SOBI
+,,0.01943206787109375,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,coherent,Proposed IRLS-l12
+,,0.002908468246459961,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,coherent,FastICA-exp
+,,0.0037889480590820312,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,coherent,FastICA-deflation-cube
+,,0.06269168853759766,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,coherent,Picard-nonorthogonal
+,,0.004276275634765625,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,coherent,JADE
+,,0.021860361099243164,False,ValueError:matrix contains invalid numeric entries,Digits,2,0.2,coherent,SOBI
+0.06769084970443282,0.1293826524238975,0.059522390365600586,True,,Digits,3,0.1,dense,Proposed IRLS-l12
+0.31669593709488464,0.4469405837523418,0.0055179595947265625,True,,Digits,3,0.1,dense,FastICA-exp
+0.2981405553097584,0.33367700273978296,0.0040090084075927734,True,,Digits,3,0.1,dense,FastICA-deflation-cube
+0.31627767911466254,0.29003824609744777,0.04110527038574219,True,,Digits,3,0.1,dense,Picard-nonorthogonal
+0.32945235944233475,0.274070092759081,0.006011486053466797,True,,Digits,3,0.1,dense,JADE
+0.3284846814014065,0.3646622557537447,0.015478849411010742,True,,Digits,3,0.1,dense,SOBI
+0.20515922960646601,0.18293829262830347,0.09581422805786133,True,,Digits,3,0.2,dense,Proposed IRLS-l12
+0.23808791707667631,0.3487498926807869,0.01606440544128418,True,,Digits,3,0.2,dense,FastICA-exp
+0.24831001422970048,0.3347097973960253,0.00415349006652832,True,,Digits,3,0.2,dense,FastICA-deflation-cube
+0.24666505612534712,0.33133853639519867,0.03034496307373047,True,,Digits,3,0.2,dense,Picard-nonorthogonal
+0.24834118861741256,0.33038672274432,0.005434513092041016,True,,Digits,3,0.2,dense,JADE
+0.21645437372438642,0.3208197357434142,0.007357597351074219,True,,Digits,3,0.2,dense,SOBI
+0.16071083890977628,0.15725483009660962,0.060172080993652344,True,,Digits,3,0.1,single-channel,Proposed IRLS-l12
+0.27306128589825623,0.4880899085227462,0.014436721801757812,True,,Digits,3,0.1,single-channel,FastICA-exp
+0.2751165563698719,0.4893710524664863,0.00433659553527832,True,,Digits,3,0.1,single-channel,FastICA-deflation-cube
+0.2696297919388737,0.4994548339746611,0.04005098342895508,True,,Digits,3,0.1,single-channel,Picard-nonorthogonal
+0.2672236619797615,0.48888928488544786,0.0036377906799316406,True,,Digits,3,0.1,single-channel,JADE
+0.34176389662600487,0.4463083364427513,0.012320280075073242,True,,Digits,3,0.1,single-channel,SOBI
+0.2520461070908543,0.2862736006895993,0.08851265907287598,True,,Digits,3,0.2,single-channel,Proposed IRLS-l12
+0.21346301616319135,0.47590071498975306,0.004896640777587891,True,,Digits,3,0.2,single-channel,FastICA-exp
+0.22166419861930392,0.4691247878496812,0.002909421920776367,True,,Digits,3,0.2,single-channel,FastICA-deflation-cube
+0.21464020046869137,0.4824746633142446,0.01999664306640625,True,,Digits,3,0.2,single-channel,Picard-nonorthogonal
+0.2217286049158808,0.465462676996294,0.003736257553100586,True,,Digits,3,0.2,single-channel,JADE
+0.23734194122227628,0.328110379432509,0.016419410705566406,True,,Digits,3,0.2,single-channel,SOBI
+0.6245604814665568,0.23143609286332936,0.06331801414489746,True,,Digits,3,0.1,coherent,Proposed IRLS-l12
+0.7223789525062794,0.21319641063138833,0.0033326148986816406,True,,Digits,3,0.1,coherent,FastICA-exp
+0.6403831666925832,0.2848987121916114,0.004471540451049805,True,,Digits,3,0.1,coherent,FastICA-deflation-cube
+0.7478757143000367,0.20397453099292479,0.03772926330566406,True,,Digits,3,0.1,coherent,Picard-nonorthogonal
+0.6366370234213472,0.28378120338860996,0.005143880844116211,True,,Digits,3,0.1,coherent,JADE
+0.596890232778615,0.4278954667441431,0.0067746639251708984,True,,Digits,3,0.1,coherent,SOBI
+0.3557805486548682,0.3057847994391401,0.0851130485534668,True,,Digits,3,0.2,coherent,Proposed IRLS-l12
+0.6953818355213801,0.2540950460511869,0.0041468143463134766,True,,Digits,3,0.2,coherent,FastICA-exp
+0.5988773045681521,0.3445552281521117,0.003298044204711914,True,,Digits,3,0.2,coherent,FastICA-deflation-cube
+0.7199214257836425,0.22481003377369063,0.06704521179199219,True,,Digits,3,0.2,coherent,Picard-nonorthogonal
+0.6297621599361027,0.34698835199164135,0.0041255950927734375,True,,Digits,3,0.2,coherent,JADE
+0.5255933314008656,0.5057163536181631,0.01126861572265625,True,,Digits,3,0.2,coherent,SOBI
+,,0.07467508316040039,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,dense,Proposed IRLS-l12
+,,0.005846500396728516,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,dense,FastICA-exp
+,,0.0052509307861328125,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,dense,FastICA-deflation-cube
+,,0.02820897102355957,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,dense,Picard-nonorthogonal
+,,0.007125139236450195,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,dense,JADE
+,,0.013094663619995117,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,dense,SOBI
+,,0.05665302276611328,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,dense,Proposed IRLS-l12
+,,0.006768465042114258,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,dense,FastICA-exp
+,,0.006222248077392578,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,dense,FastICA-deflation-cube
+,,0.02809739112854004,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,dense,Picard-nonorthogonal
+,,0.009437084197998047,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,dense,JADE
+,,0.010767936706542969,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,dense,SOBI
+,,0.10419678688049316,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,single-channel,Proposed IRLS-l12
+,,0.004754543304443359,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,single-channel,FastICA-exp
+,,0.003008127212524414,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,single-channel,FastICA-deflation-cube
+,,0.013702392578125,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,single-channel,Picard-nonorthogonal
+,,0.005488872528076172,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,single-channel,JADE
+,,0.019547700881958008,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,single-channel,SOBI
+,,0.054059743881225586,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,single-channel,Proposed IRLS-l12
+,,0.004998207092285156,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,single-channel,FastICA-exp
+,,0.002656698226928711,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,single-channel,FastICA-deflation-cube
+,,0.011853456497192383,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,single-channel,Picard-nonorthogonal
+,,0.003885030746459961,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,single-channel,JADE
+,,0.008498191833496094,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,single-channel,SOBI
+,,0.059232473373413086,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,coherent,Proposed IRLS-l12
+,,0.002910137176513672,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,coherent,FastICA-exp
+,,0.0042073726654052734,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,coherent,FastICA-deflation-cube
+,,0.04631638526916504,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,coherent,Picard-nonorthogonal
+,,0.0042591094970703125,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,coherent,JADE
+,,0.012224912643432617,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.1,coherent,SOBI
+,,0.02060675621032715,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,coherent,Proposed IRLS-l12
+,,0.0029735565185546875,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,coherent,FastICA-exp
+,,0.003816843032836914,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,coherent,FastICA-deflation-cube
+,,0.029813289642333984,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,coherent,Picard-nonorthogonal
+,,0.007185935974121094,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,coherent,JADE
+,,0.014511346817016602,False,ValueError:matrix contains invalid numeric entries,Digits,4,0.2,coherent,SOBI
+0.3456847126660431,0.16373063630926515,0.12080812454223633,True,,Digits,5,0.1,dense,Proposed IRLS-l12
+0.22727933203757456,0.37049689529379226,0.016427993774414062,True,,Digits,5,0.1,dense,FastICA-exp
+0.24291902959907458,0.3610277809069634,0.006045103073120117,True,,Digits,5,0.1,dense,FastICA-deflation-cube
+0.2323233702974487,0.41577941349691194,0.023819923400878906,True,,Digits,5,0.1,dense,Picard-nonorthogonal
+0.24328603504372942,0.4145617639395251,0.010759115219116211,True,,Digits,5,0.1,dense,JADE
+0.2647933989655237,0.2723017201580761,0.011744260787963867,True,,Digits,5,0.1,dense,SOBI
+0.27878768649442787,0.1078357344235196,0.07603216171264648,True,,Digits,5,0.2,dense,Proposed IRLS-l12
+0.2266680268221099,0.3865953098769885,0.03099966049194336,True,,Digits,5,0.2,dense,FastICA-exp
+0.20841261874906594,0.43496898825892494,0.008217573165893555,True,,Digits,5,0.2,dense,FastICA-deflation-cube
+0.22362146577606906,0.44729334431992773,0.02966904640197754,True,,Digits,5,0.2,dense,Picard-nonorthogonal
+0.2067907864082931,0.44148122701547415,0.007270097732543945,True,,Digits,5,0.2,dense,JADE
+0.22233448083839186,0.4416344638789866,0.01757335662841797,True,,Digits,5,0.2,dense,SOBI
+0.24614676651491774,0.13740152125442567,0.06883621215820312,True,,Digits,5,0.1,single-channel,Proposed IRLS-l12
+0.22630609662016093,0.36872089275273306,0.005016803741455078,True,,Digits,5,0.1,single-channel,FastICA-exp
+0.22754045188542507,0.3188923805327911,0.004049062728881836,True,,Digits,5,0.1,single-channel,FastICA-deflation-cube
+0.22670329925702246,0.3143705853096347,0.025490760803222656,True,,Digits,5,0.1,single-channel,Picard-nonorthogonal
+0.2271704241516443,0.3167456932071728,0.003515481948852539,True,,Digits,5,0.1,single-channel,JADE
+0.21148496362387315,0.42877001055903163,0.009387969970703125,True,,Digits,5,0.1,single-channel,SOBI
+0.20045215870249491,0.26735907335117626,0.06620597839355469,True,,Digits,5,0.2,single-channel,Proposed IRLS-l12
+0.18511777256197876,0.37520590730514325,0.0045740604400634766,True,,Digits,5,0.2,single-channel,FastICA-exp
+0.18562116851756963,0.3762779277623542,0.0034482479095458984,True,,Digits,5,0.2,single-channel,FastICA-deflation-cube
+0.18490574185868205,0.3772230224512252,0.015941381454467773,True,,Digits,5,0.2,single-channel,Picard-nonorthogonal
+0.18585051352741327,0.37343747648481357,0.003625631332397461,True,,Digits,5,0.2,single-channel,JADE
+0.19346992120339618,0.3705517928212857,0.008198738098144531,True,,Digits,5,0.2,single-channel,SOBI
+0.7082290167546234,0.13260490154879215,0.04350757598876953,True,,Digits,5,0.1,coherent,Proposed IRLS-l12
+0.6923411519989255,0.2393340782385147,0.04485368728637695,True,,Digits,5,0.1,coherent,FastICA-exp
+0.7126505006424863,0.2341075986379287,0.005907535552978516,True,,Digits,5,0.1,coherent,FastICA-deflation-cube
+0.7393069994779734,0.1935634356796745,0.016695261001586914,True,,Digits,5,0.1,coherent,Picard-nonorthogonal
+0.7129202659941976,0.2257075891612083,0.0036995410919189453,True,,Digits,5,0.1,coherent,JADE
+0.5508281927699636,0.4118548251949086,0.027393102645874023,True,,Digits,5,0.1,coherent,SOBI
+0.650274970450756,0.20935325318681536,0.03928041458129883,True,,Digits,5,0.2,coherent,Proposed IRLS-l12
+0.7827457854686314,0.11638752407654787,0.004161357879638672,True,,Digits,5,0.2,coherent,FastICA-exp
+0.7145506778514708,0.21684536691317194,0.0238649845123291,True,,Digits,5,0.2,coherent,FastICA-deflation-cube
+0.7810832768915248,0.1443681567022302,0.03889966011047363,True,,Digits,5,0.2,coherent,Picard-nonorthogonal
+0.6364537665550569,0.2920591380497669,0.005684614181518555,True,,Digits,5,0.2,coherent,JADE
+0.577416317278,0.39164970040971714,0.018219709396362305,True,,Digits,5,0.2,coherent,SOBI
+,,0.05456137657165527,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,dense,Proposed IRLS-l12
+,,0.008703231811523438,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,dense,FastICA-exp
+,,0.004357576370239258,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,dense,FastICA-deflation-cube
+,,0.03160810470581055,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,dense,Picard-nonorthogonal
+,,0.006651401519775391,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,dense,JADE
+,,0.012420654296875,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,dense,SOBI
+,,0.11493968963623047,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,dense,Proposed IRLS-l12
+,,0.007325410842895508,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,dense,FastICA-exp
+,,0.005336284637451172,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,dense,FastICA-deflation-cube
+,,0.01660442352294922,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,dense,Picard-nonorthogonal
+,,0.005964517593383789,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,dense,JADE
+,,0.013370990753173828,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,dense,SOBI
+,,0.03875017166137695,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,single-channel,Proposed IRLS-l12
+,,0.007346391677856445,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,single-channel,FastICA-exp
+,,0.002566099166870117,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,single-channel,FastICA-deflation-cube
+,,0.013697385787963867,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,single-channel,Picard-nonorthogonal
+,,0.0037603378295898438,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,single-channel,JADE
+,,0.008865594863891602,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,single-channel,SOBI
+,,0.06073951721191406,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,single-channel,Proposed IRLS-l12
+,,0.006724119186401367,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,single-channel,FastICA-exp
+,,0.0026259422302246094,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,single-channel,FastICA-deflation-cube
+,,0.007858037948608398,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,single-channel,Picard-nonorthogonal
+,,0.002963542938232422,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,single-channel,JADE
+,,0.014743328094482422,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,single-channel,SOBI
+,,0.048426151275634766,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,coherent,Proposed IRLS-l12
+,,0.00249481201171875,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,coherent,FastICA-exp
+,,0.002985715866088867,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,coherent,FastICA-deflation-cube
+,,0.05146384239196777,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,coherent,Picard-nonorthogonal
+,,0.0043447017669677734,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,coherent,JADE
+,,0.011882543563842773,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.1,coherent,SOBI
+,,0.04219412803649902,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,coherent,Proposed IRLS-l12
+,,0.002945423126220703,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,coherent,FastICA-exp
+,,0.0035009384155273438,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,coherent,FastICA-deflation-cube
+,,0.035756587982177734,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,coherent,Picard-nonorthogonal
+,,0.0036470890045166016,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,coherent,JADE
+,,0.015555381774902344,False,ValueError:matrix contains invalid numeric entries,Digits,6,0.2,coherent,SOBI
+,,0.06203174591064453,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,dense,Proposed IRLS-l12
+,,0.013433218002319336,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,dense,FastICA-exp
+,,0.005196332931518555,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,dense,FastICA-deflation-cube
+,,0.018032550811767578,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,dense,Picard-nonorthogonal
+,,0.011114835739135742,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,dense,JADE
+,,0.01064157485961914,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,dense,SOBI
+,,0.08011054992675781,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,dense,Proposed IRLS-l12
+,,0.007923364639282227,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,dense,FastICA-exp
+,,0.0051746368408203125,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,dense,FastICA-deflation-cube
+,,0.023289203643798828,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,dense,Picard-nonorthogonal
+,,0.009307146072387695,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,dense,JADE
+,,0.014034748077392578,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,dense,SOBI
+,,0.08043909072875977,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,single-channel,Proposed IRLS-l12
+,,0.007770061492919922,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,single-channel,FastICA-exp
+,,0.0037081241607666016,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,single-channel,FastICA-deflation-cube
+,,0.024579286575317383,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,single-channel,Picard-nonorthogonal
+,,0.0035097599029541016,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,single-channel,JADE
+,,0.01218557357788086,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,single-channel,SOBI
+,,0.06289505958557129,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,single-channel,Proposed IRLS-l12
+,,0.0026445388793945312,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,single-channel,FastICA-exp
+,,0.0035598278045654297,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,single-channel,FastICA-deflation-cube
+,,0.011355400085449219,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,single-channel,Picard-nonorthogonal
+,,0.003430604934692383,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,single-channel,JADE
+,,0.014319658279418945,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,single-channel,SOBI
+,,0.05052828788757324,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,coherent,Proposed IRLS-l12
+,,0.0032253265380859375,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,coherent,FastICA-exp
+,,0.004029273986816406,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,coherent,FastICA-deflation-cube
+,,0.049515485763549805,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,coherent,Picard-nonorthogonal
+,,0.004517316818237305,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,coherent,JADE
+,,0.015959501266479492,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.1,coherent,SOBI
+,,0.04257655143737793,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,coherent,Proposed IRLS-l12
+,,0.0032846927642822266,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,coherent,FastICA-exp
+,,0.0038712024688720703,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,coherent,FastICA-deflation-cube
+,,0.04918336868286133,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,coherent,Picard-nonorthogonal
+,,0.005933284759521484,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,coherent,JADE
+,,0.009392023086547852,False,ValueError:matrix contains invalid numeric entries,Digits,7,0.2,coherent,SOBI
+0.366301359278845,0.14893181701785463,0.059465885162353516,True,,Digits,8,0.1,dense,Proposed IRLS-l12
+0.24564133625899948,0.4587064244110913,0.00833272933959961,True,,Digits,8,0.1,dense,FastICA-exp
+0.24558919886012925,0.5013577587465543,0.004074573516845703,True,,Digits,8,0.1,dense,FastICA-deflation-cube
+0.25505125564576286,0.4802346914747083,0.03637099266052246,True,,Digits,8,0.1,dense,Picard-nonorthogonal
+0.2566572214623556,0.4462378459687823,0.005553007125854492,True,,Digits,8,0.1,dense,JADE
+0.24686759766749383,0.46552558056774157,0.030092716217041016,True,,Digits,8,0.1,dense,SOBI
+0.19960671719507883,0.34279112292760655,0.07638049125671387,True,,Digits,8,0.2,dense,Proposed IRLS-l12
+0.21829042323688688,0.3691727769986147,0.01005864143371582,True,,Digits,8,0.2,dense,FastICA-exp
+0.20241460166947442,0.32912655986875955,0.008132219314575195,True,,Digits,8,0.2,dense,FastICA-deflation-cube
+0.20881042440401779,0.3919259638506346,0.026444196701049805,True,,Digits,8,0.2,dense,Picard-nonorthogonal
+0.20236957366764563,0.355360471280743,0.014970541000366211,True,,Digits,8,0.2,dense,JADE
+0.19410976742578218,0.4624825085390415,0.014084815979003906,True,,Digits,8,0.2,dense,SOBI
+0.379841646693042,0.19503869483220165,0.04705166816711426,True,,Digits,8,0.1,single-channel,Proposed IRLS-l12
+0.2760727520609073,0.4030042067674022,0.004507303237915039,True,,Digits,8,0.1,single-channel,FastICA-exp
+0.2733675697640379,0.40575721389277425,0.002531766891479492,True,,Digits,8,0.1,single-channel,FastICA-deflation-cube
+0.27479896458460745,0.4046584274967874,0.01758098602294922,True,,Digits,8,0.1,single-channel,Picard-nonorthogonal
+0.2763279010587938,0.40497279437357736,0.0034291744232177734,True,,Digits,8,0.1,single-channel,JADE
+0.3013593730377846,0.3500702156776091,0.006597995758056641,True,,Digits,8,0.1,single-channel,SOBI
+0.2537918643069982,0.41845720512136503,0.03467822074890137,True,,Digits,8,0.2,single-channel,Proposed IRLS-l12
+0.25463275388251005,0.3785879509681475,0.007260799407958984,True,,Digits,8,0.2,single-channel,FastICA-exp
+0.24274819707109305,0.3832249543320363,0.0038781166076660156,True,,Digits,8,0.2,single-channel,FastICA-deflation-cube
+0.24272128399141887,0.3893846997059227,0.019411325454711914,True,,Digits,8,0.2,single-channel,Picard-nonorthogonal
+0.24257291982130097,0.3846678555155758,0.003138303756713867,True,,Digits,8,0.2,single-channel,JADE
+0.24751193952476971,0.3838963231848728,0.021674633026123047,True,,Digits,8,0.2,single-channel,SOBI
+0.753200700436358,0.1917197241671758,0.06157064437866211,True,,Digits,8,0.1,coherent,Proposed IRLS-l12
+0.7534770153826619,0.1727857534765586,0.002794504165649414,True,,Digits,8,0.1,coherent,FastICA-exp
+0.7510613679459992,0.14122450911680134,0.0030655860900878906,True,,Digits,8,0.1,coherent,FastICA-deflation-cube
+0.7539155050842727,0.16447512454707136,0.04143643379211426,True,,Digits,8,0.1,coherent,Picard-nonorthogonal
+0.752783688093632,0.13959583707430345,0.0035729408264160156,True,,Digits,8,0.1,coherent,JADE
+0.6205539066465101,0.4389991683565221,0.011211156845092773,True,,Digits,8,0.1,coherent,SOBI
+0.7671798142045143,0.24073673792480405,0.06379556655883789,True,,Digits,8,0.2,coherent,Proposed IRLS-l12
+0.7343440711012936,0.24326441674270977,0.006710052490234375,True,,Digits,8,0.2,coherent,FastICA-exp
+0.7725833186062566,0.2568525409116603,0.003650665283203125,True,,Digits,8,0.2,coherent,FastICA-deflation-cube
+0.8224173260768122,0.1924531383346318,0.027953624725341797,True,,Digits,8,0.2,coherent,Picard-nonorthogonal
+0.747276924100986,0.27126360568745905,0.004801511764526367,True,,Digits,8,0.2,coherent,JADE
+0.5657869002587532,0.5906703891924694,0.017812728881835938,True,,Digits,8,0.2,coherent,SOBI
+0.05326598627674308,0.06798889110685408,0.0997776985168457,True,,Digits,9,0.1,dense,Proposed IRLS-l12
+0.26608812352885336,0.3900681870062218,0.007424354553222656,True,,Digits,9,0.1,dense,FastICA-exp
+0.24923869905282228,0.3967817200359788,0.00553131103515625,True,,Digits,9,0.1,dense,FastICA-deflation-cube
+0.2320034835807724,0.41526180911475175,0.02655482292175293,True,,Digits,9,0.1,dense,Picard-nonorthogonal
+0.25573580844381133,0.4059299869910758,0.00666356086730957,True,,Digits,9,0.1,dense,JADE
+0.2115107526559933,0.4505214668171888,0.006841421127319336,True,,Digits,9,0.1,dense,SOBI
+0.18876163457469539,0.22740888001353596,0.049855947494506836,True,,Digits,9,0.2,dense,Proposed IRLS-l12
+0.20177448063658118,0.342420449774677,0.007579326629638672,True,,Digits,9,0.2,dense,FastICA-exp
+0.2144985506605412,0.4485478135812052,0.005369901657104492,True,,Digits,9,0.2,dense,FastICA-deflation-cube
+0.21008069616056751,0.44210923157175996,0.01571488380432129,True,,Digits,9,0.2,dense,Picard-nonorthogonal
+0.2072905289875135,0.42896525024532917,0.0062944889068603516,True,,Digits,9,0.2,dense,JADE
+0.20214394785233664,0.4724804152283862,0.005403757095336914,True,,Digits,9,0.2,dense,SOBI
+0.3561383381280703,0.15247102072524327,0.07143402099609375,True,,Digits,9,0.1,single-channel,Proposed IRLS-l12
+0.26375218914938625,0.2699250388279386,0.002947092056274414,True,,Digits,9,0.1,single-channel,FastICA-exp
+0.25650007007701764,0.3386530103418529,0.0025708675384521484,True,,Digits,9,0.1,single-channel,FastICA-deflation-cube
+0.2567269483648883,0.3368663481367711,0.013966560363769531,True,,Digits,9,0.1,single-channel,Picard-nonorthogonal
+0.25758590994406416,0.335936874833204,0.0033974647521972656,True,,Digits,9,0.1,single-channel,JADE
+0.22194923998289715,0.3387287631351273,0.010931968688964844,True,,Digits,9,0.1,single-channel,SOBI
+0.17209951367717133,0.3474452017738446,0.3214435577392578,True,,Digits,9,0.2,single-channel,Proposed IRLS-l12
+0.20731968858816757,0.3971933678772238,0.0029799938201904297,True,,Digits,9,0.2,single-channel,FastICA-exp
+0.1823808069143391,0.3651486872766797,0.0035822391510009766,True,,Digits,9,0.2,single-channel,FastICA-deflation-cube
+0.18202950712579516,0.3652726197612425,0.01228022575378418,True,,Digits,9,0.2,single-channel,Picard-nonorthogonal
+0.18128501398753255,0.36708684029712635,0.0034084320068359375,True,,Digits,9,0.2,single-channel,JADE
+0.19191705247152785,0.3822953820342418,0.011368751525878906,True,,Digits,9,0.2,single-channel,SOBI
+0.5609774217038382,0.15819646678297966,0.08541202545166016,True,,Digits,9,0.1,coherent,Proposed IRLS-l12
+0.7450863180484776,0.16413189687287152,0.0036163330078125,True,,Digits,9,0.1,coherent,FastICA-exp
+0.7426772732450447,0.2034996204423501,0.004357576370239258,True,,Digits,9,0.1,coherent,FastICA-deflation-cube
+0.751991487663853,0.1666456970413337,0.023120641708374023,True,,Digits,9,0.1,coherent,Picard-nonorthogonal
+0.7409004855164085,0.17222410560911944,0.00511479377746582,True,,Digits,9,0.1,coherent,JADE
+0.6009737997393452,0.44990354586215686,0.008317232131958008,True,,Digits,9,0.1,coherent,SOBI
+0.7822305161429377,0.13982130789620978,0.10228848457336426,True,,Digits,9,0.2,coherent,Proposed IRLS-l12
+0.7827095867958149,0.12861031079925772,0.0030364990234375,True,,Digits,9,0.2,coherent,FastICA-exp
+0.7751991652119493,0.1732662756707774,0.002833843231201172,True,,Digits,9,0.2,coherent,FastICA-deflation-cube
+0.7840262367770958,0.1531870489102306,0.03711342811584473,True,,Digits,9,0.2,coherent,Picard-nonorthogonal
+0.7756516937198454,0.1495944039411161,0.004273891448974609,True,,Digits,9,0.2,coherent,JADE
+0.6934801535322999,0.3906992008206333,0.00911402702331543,True,,Digits,9,0.2,coherent,SOBI
+0.2922137291715289,0.26196524780492164,0.11104965209960938,True,,Wine,0,0.1,dense,Proposed IRLS-l12
+0.284527822806812,0.40183835436340126,0.012811422348022461,True,,Wine,0,0.1,dense,FastICA-exp
+0.2667921734709948,0.4048329996849834,0.00733637809753418,True,,Wine,0,0.1,dense,FastICA-deflation-cube
+0.26187058983006295,0.35540158826650126,0.041049957275390625,True,,Wine,0,0.1,dense,Picard-nonorthogonal
+0.2790033297299331,0.37868880234416147,0.015584945678710938,True,,Wine,0,0.1,dense,JADE
+0.26147513990485216,0.4405292553320047,0.0072667598724365234,True,,Wine,0,0.1,dense,SOBI
+0.18576492936858377,0.22501283961507806,0.24866938591003418,True,,Wine,0,0.2,dense,Proposed IRLS-l12
+0.19089400941348497,0.41427247082101815,0.005783557891845703,True,,Wine,0,0.2,dense,FastICA-exp
+0.20141944446255583,0.5015767777917002,0.005299806594848633,True,,Wine,0,0.2,dense,FastICA-deflation-cube
+0.19609168075697989,0.40917879545013447,0.016392946243286133,True,,Wine,0,0.2,dense,Picard-nonorthogonal
+0.2064512410558526,0.4343964301095292,0.0075643062591552734,True,,Wine,0,0.2,dense,JADE
+0.2207141900236944,0.5153399364855805,0.008543968200683594,True,,Wine,0,0.2,dense,SOBI
+0.2420547244243081,0.24589639588337167,0.09027695655822754,True,,Wine,0,0.1,single-channel,Proposed IRLS-l12
+0.22739569338207635,0.3220199670072786,0.008074522018432617,True,,Wine,0,0.1,single-channel,FastICA-exp
+0.21891709080374927,0.32459677068694304,0.002649545669555664,True,,Wine,0,0.1,single-channel,FastICA-deflation-cube
+0.2206599407594922,0.3170666536835827,0.014632940292358398,True,,Wine,0,0.1,single-channel,Picard-nonorthogonal
+0.21988483973609685,0.31779390188908,0.003064870834350586,True,,Wine,0,0.1,single-channel,JADE
+0.20963084611595012,0.4866810348029146,0.00834035873413086,True,,Wine,0,0.1,single-channel,SOBI
+0.17396619320951184,0.34033461561516803,0.03944516181945801,True,,Wine,0,0.2,single-channel,Proposed IRLS-l12
+0.176627797929456,0.4741154247801772,0.0029265880584716797,True,,Wine,0,0.2,single-channel,FastICA-exp
+0.17755363519560383,0.3450613753607888,0.0024042129516601562,True,,Wine,0,0.2,single-channel,FastICA-deflation-cube
+0.17816868521130405,0.3409211913611358,0.00983119010925293,True,,Wine,0,0.2,single-channel,Picard-nonorthogonal
+0.17827710206829944,0.336599759628586,0.004571676254272461,True,,Wine,0,0.2,single-channel,JADE
+0.1928809738159505,0.40220129857729975,0.007004499435424805,True,,Wine,0,0.2,single-channel,SOBI
+0.6167561082831753,0.3376105414944142,0.10847806930541992,True,,Wine,0,0.1,coherent,Proposed IRLS-l12
+0.7170680559707808,0.2127863804241068,0.004480838775634766,True,,Wine,0,0.1,coherent,FastICA-exp
+0.7233662308672814,0.22549703807037624,0.021585702896118164,True,,Wine,0,0.1,coherent,FastICA-deflation-cube
+0.6531501506025335,0.2710274392164453,0.04398989677429199,True,,Wine,0,0.1,coherent,Picard-nonorthogonal
+0.6726992434105407,0.24713492537072757,0.0063266754150390625,True,,Wine,0,0.1,coherent,JADE
+0.5974871011504107,0.49539700325500835,0.012180805206298828,True,,Wine,0,0.1,coherent,SOBI
+0.6801853833260434,0.2499067548814157,0.08786988258361816,True,,Wine,0,0.2,coherent,Proposed IRLS-l12
+0.6620549675934546,0.2687845210561993,0.0037462711334228516,True,,Wine,0,0.2,coherent,FastICA-exp
+0.6316896418628082,0.37149314572841174,0.02331995964050293,True,,Wine,0,0.2,coherent,FastICA-deflation-cube
+0.6737771867091713,0.31634115549231945,0.03378748893737793,True,,Wine,0,0.2,coherent,Picard-nonorthogonal
+0.6821119188273693,0.2287888324430532,0.008620977401733398,True,,Wine,0,0.2,coherent,JADE
+0.5849219398179135,0.43863950879479763,0.005011081695556641,True,,Wine,0,0.2,coherent,SOBI
+0.3100424866282572,0.1813862097893228,0.11400794982910156,True,,Wine,1,0.1,dense,Proposed IRLS-l12
+0.24729491708121074,0.3469867655684303,0.005800724029541016,True,,Wine,1,0.1,dense,FastICA-exp
+0.20348688156518904,0.41001299376089495,0.004202365875244141,True,,Wine,1,0.1,dense,FastICA-deflation-cube
+0.22310247369380823,0.44924409191230624,0.029787540435791016,True,,Wine,1,0.1,dense,Picard-nonorthogonal
+0.21078002623817707,0.4935252012336148,0.006859540939331055,True,,Wine,1,0.1,dense,JADE
+0.2560167381635521,0.27351940970801153,0.0064008235931396484,True,,Wine,1,0.1,dense,SOBI
+0.19885167123060415,0.340888685784018,0.19925570487976074,True,,Wine,1,0.2,dense,Proposed IRLS-l12
+0.15912887702473322,0.5053423188596033,0.010139703750610352,True,,Wine,1,0.2,dense,FastICA-exp
+0.15665428427282,0.39809551080734706,0.004392385482788086,True,,Wine,1,0.2,dense,FastICA-deflation-cube
+0.1456998036435056,0.4786430527404547,0.03271675109863281,True,,Wine,1,0.2,dense,Picard-nonorthogonal
+0.16026215220407555,0.40020849491645494,0.0059719085693359375,True,,Wine,1,0.2,dense,JADE
+0.13969632141760788,0.4936624415242668,0.0062711238861083984,True,,Wine,1,0.2,dense,SOBI
+0.27407794279185543,0.2383633872557978,0.09525132179260254,True,,Wine,1,0.1,single-channel,Proposed IRLS-l12
+0.18899542245037587,0.36892547701967066,0.005762815475463867,True,,Wine,1,0.1,single-channel,FastICA-exp
+0.20357570264460184,0.36465496067984715,0.0028638839721679688,True,,Wine,1,0.1,single-channel,FastICA-deflation-cube
+0.20525674083415607,0.35642930108959425,0.016200542449951172,True,,Wine,1,0.1,single-channel,Picard-nonorthogonal
+0.2062534512655892,0.35161860800866884,0.00421452522277832,True,,Wine,1,0.1,single-channel,JADE
+0.20743592437359024,0.5202821058876692,0.015783071517944336,True,,Wine,1,0.1,single-channel,SOBI
+0.1864321986984998,0.2867045599769561,0.2168288230895996,True,,Wine,1,0.2,single-channel,Proposed IRLS-l12
+0.20872060820229904,0.442618262298509,0.005469799041748047,True,,Wine,1,0.2,single-channel,FastICA-exp
+0.20944663374713413,0.43832685516042547,0.004388332366943359,True,,Wine,1,0.2,single-channel,FastICA-deflation-cube
+0.20861857757829766,0.44473410963878324,0.008913755416870117,True,,Wine,1,0.2,single-channel,Picard-nonorthogonal
+0.2103031764371596,0.43950523081040827,0.004938602447509766,True,,Wine,1,0.2,single-channel,JADE
+0.21708754911382985,0.4516364541752968,0.006361246109008789,True,,Wine,1,0.2,single-channel,SOBI
+0.7125837665586073,0.2059756984226606,0.1011347770690918,True,,Wine,1,0.1,coherent,Proposed IRLS-l12
+0.6353351628975158,0.3583816556581897,0.011712312698364258,True,,Wine,1,0.1,coherent,FastICA-exp
+0.6214651624273382,0.28771433161245685,0.006703615188598633,True,,Wine,1,0.1,coherent,FastICA-deflation-cube
+0.6865925885500915,0.21808501762069285,0.23215293884277344,True,,Wine,1,0.1,coherent,Picard-nonorthogonal
+0.7054167314181126,0.23507717748902118,0.006372213363647461,True,,Wine,1,0.1,coherent,JADE
+0.6846433372592812,0.3287926568266301,0.008771896362304688,True,,Wine,1,0.1,coherent,SOBI
+0.7019528593804394,0.21709164607702408,0.06859445571899414,True,,Wine,1,0.2,coherent,Proposed IRLS-l12
+0.6938609419269979,0.23410441487243455,0.005226850509643555,True,,Wine,1,0.2,coherent,FastICA-exp
+0.633713817221031,0.3282890641844943,0.02700185775756836,True,,Wine,1,0.2,coherent,FastICA-deflation-cube
+0.7270354437820998,0.2515642673302067,0.04491114616394043,True,,Wine,1,0.2,coherent,Picard-nonorthogonal
+0.6335504813233539,0.3448021540585191,0.006446123123168945,True,,Wine,1,0.2,coherent,JADE
+0.6076505397978977,0.3998676967821878,0.014873981475830078,True,,Wine,1,0.2,coherent,SOBI
+0.27338766308638146,0.3944822801938564,0.16551971435546875,True,,Wine,2,0.1,dense,Proposed IRLS-l12
+0.2516406766019901,0.441189086771106,0.008966922760009766,True,,Wine,2,0.1,dense,FastICA-exp
+0.25222008408065505,0.4012739633294073,0.004988908767700195,True,,Wine,2,0.1,dense,FastICA-deflation-cube
+0.2375581212122953,0.43456886293107483,0.04329204559326172,True,,Wine,2,0.1,dense,Picard-nonorthogonal
+0.2567582481451868,0.47100717742674103,0.017277956008911133,True,,Wine,2,0.1,dense,JADE
+0.2350759061517483,0.34226865627736264,0.0055980682373046875,True,,Wine,2,0.1,dense,SOBI
+0.1687356276108385,0.2980699196495167,0.05055642127990723,True,,Wine,2,0.2,dense,Proposed IRLS-l12
+0.15195148204341616,0.41376595625050605,0.01078486442565918,True,,Wine,2,0.2,dense,FastICA-exp
+0.15708557912100624,0.537176700127176,0.005084991455078125,True,,Wine,2,0.2,dense,FastICA-deflation-cube
+0.15197797622515719,0.4320005762700124,0.028270244598388672,True,,Wine,2,0.2,dense,Picard-nonorthogonal
+0.14579328523363924,0.544504212188458,0.005991220474243164,True,,Wine,2,0.2,dense,JADE
+0.17985036471420796,0.43874112780151026,0.006182432174682617,True,,Wine,2,0.2,dense,SOBI
+0.32873982214045483,0.26309972003755167,0.06924057006835938,True,,Wine,2,0.1,single-channel,Proposed IRLS-l12
+0.24388256637232003,0.35708612001070433,0.007300615310668945,True,,Wine,2,0.1,single-channel,FastICA-exp
+0.2410936690127238,0.34271353208117994,0.0032706260681152344,True,,Wine,2,0.1,single-channel,FastICA-deflation-cube
+0.2432339249017479,0.3590760802708234,0.016641616821289062,True,,Wine,2,0.1,single-channel,Picard-nonorthogonal
+0.24472709530447379,0.35707853093275127,0.005522489547729492,True,,Wine,2,0.1,single-channel,JADE
+0.2644297469843676,0.4146771021384755,0.006927013397216797,True,,Wine,2,0.1,single-channel,SOBI
+0.2003751149423061,0.3323870928362168,0.03875112533569336,True,,Wine,2,0.2,single-channel,Proposed IRLS-l12
+0.20245606860611604,0.3759238483692523,0.0030870437622070312,True,,Wine,2,0.2,single-channel,FastICA-exp
+0.20215406130779803,0.3717558546318151,0.0026397705078125,True,,Wine,2,0.2,single-channel,FastICA-deflation-cube
+0.20223050950382043,0.3791893289850912,0.016092300415039062,True,,Wine,2,0.2,single-channel,Picard-nonorthogonal
+0.20159371256489597,0.3743322949405578,0.0032804012298583984,True,,Wine,2,0.2,single-channel,JADE
+0.20519630896846994,0.3677721508278706,0.007202863693237305,True,,Wine,2,0.2,single-channel,SOBI
+0.6048531331648548,0.3221337955821426,0.09746122360229492,True,,Wine,2,0.1,coherent,Proposed IRLS-l12
+0.5413785461197854,0.41449638268412325,0.046361446380615234,True,,Wine,2,0.1,coherent,FastICA-exp
+0.6278391424472304,0.3126712831740215,0.03992581367492676,True,,Wine,2,0.1,coherent,FastICA-deflation-cube
+0.569400550117192,0.4265377439862602,0.17983150482177734,True,,Wine,2,0.1,coherent,Picard-nonorthogonal
+0.5607747315366839,0.38367878372689573,0.008419990539550781,True,,Wine,2,0.1,coherent,JADE
+0.6422124325391947,0.358043191101914,0.011931896209716797,True,,Wine,2,0.1,coherent,SOBI
+0.6480448620558581,0.3561261741542827,0.05545830726623535,True,,Wine,2,0.2,coherent,Proposed IRLS-l12
+0.6085174180625664,0.3829087781292437,0.04013657569885254,True,,Wine,2,0.2,coherent,FastICA-exp
+0.6153576836711919,0.3747893422667864,0.05117154121398926,True,,Wine,2,0.2,coherent,FastICA-deflation-cube
+0.6856398924953646,0.23683836276680786,0.15749740600585938,True,,Wine,2,0.2,coherent,Picard-nonorthogonal
+0.6230934249567033,0.360254839216104,0.010124444961547852,True,,Wine,2,0.2,coherent,JADE
+0.6013309361156951,0.38325701075544877,0.012279272079467773,True,,Wine,2,0.2,coherent,SOBI
+0.24662265649021586,0.410123032042613,0.0513763427734375,True,,Wine,3,0.1,dense,Proposed IRLS-l12
+0.22870430413351217,0.3959626936676587,0.014361858367919922,True,,Wine,3,0.1,dense,FastICA-exp
+0.23010930683665048,0.2926263170834611,0.005309581756591797,True,,Wine,3,0.1,dense,FastICA-deflation-cube
+0.24044541662648994,0.23854786459918706,0.023053884506225586,True,,Wine,3,0.1,dense,Picard-nonorthogonal
+0.22126167171247307,0.26976351283963407,0.005906581878662109,True,,Wine,3,0.1,dense,JADE
+0.21533281786548092,0.38923112742791044,0.010541915893554688,True,,Wine,3,0.1,dense,SOBI
+0.14497161918490614,0.3308452382691917,0.05275869369506836,True,,Wine,3,0.2,dense,Proposed IRLS-l12
+0.13532273259518376,0.470221871499737,0.011401176452636719,True,,Wine,3,0.2,dense,FastICA-exp
+0.1372393896198819,0.36444296540190174,0.003747224807739258,True,,Wine,3,0.2,dense,FastICA-deflation-cube
+0.15342336066033274,0.33388880834659806,0.022921323776245117,True,,Wine,3,0.2,dense,Picard-nonorthogonal
+0.14249362645077762,0.3517706512271414,0.005833148956298828,True,,Wine,3,0.2,dense,JADE
+0.16095319484562448,0.29173961463316556,0.01097416877746582,True,,Wine,3,0.2,dense,SOBI
+0.3395806773875988,0.20590444953353618,0.29410648345947266,True,,Wine,3,0.1,single-channel,Proposed IRLS-l12
+0.26045579223309384,0.4695488939258704,0.00635981559753418,True,,Wine,3,0.1,single-channel,FastICA-exp
+0.26142468714626965,0.47346581065008264,0.0029914379119873047,True,,Wine,3,0.1,single-channel,FastICA-deflation-cube
+0.26036868291465526,0.4745466251908218,0.027491331100463867,True,,Wine,3,0.1,single-channel,Picard-nonorthogonal
+0.2598153678590118,0.47178930743043085,0.0033121109008789062,True,,Wine,3,0.1,single-channel,JADE
+0.2452325943312086,0.43200367195385764,0.005676746368408203,True,,Wine,3,0.1,single-channel,SOBI
+0.1636363432276197,0.36125383712958997,0.04550051689147949,True,,Wine,3,0.2,single-channel,Proposed IRLS-l12
+0.13664473923104137,0.4583831256942387,0.004462242126464844,True,,Wine,3,0.2,single-channel,FastICA-exp
+0.1365906825113004,0.4591020898493012,0.002446413040161133,True,,Wine,3,0.2,single-channel,FastICA-deflation-cube
+0.13617653751457215,0.4606613393535401,0.013554096221923828,True,,Wine,3,0.2,single-channel,Picard-nonorthogonal
+0.13575552738443886,0.45684613863239115,0.003211498260498047,True,,Wine,3,0.2,single-channel,JADE
+0.1704177611488478,0.3838776818544329,0.015602588653564453,True,,Wine,3,0.2,single-channel,SOBI
+0.6501703275601807,0.35733003501663524,0.05628633499145508,True,,Wine,3,0.1,coherent,Proposed IRLS-l12
+0.5922756327766334,0.41769281160674365,0.00411224365234375,True,,Wine,3,0.1,coherent,FastICA-exp
+0.5577465320249482,0.43361748588485005,0.03814268112182617,True,,Wine,3,0.1,coherent,FastICA-deflation-cube
+0.5970791903884966,0.39930596032218196,0.12929463386535645,True,,Wine,3,0.1,coherent,Picard-nonorthogonal
+0.7196700983056694,0.2474032537261059,0.005749940872192383,True,,Wine,3,0.1,coherent,JADE
+0.6287056691354453,0.3640651123306235,0.013875246047973633,True,,Wine,3,0.1,coherent,SOBI
+0.5062460287173748,0.5058519039231895,0.15908026695251465,True,,Wine,3,0.2,coherent,Proposed IRLS-l12
+0.5647115813516164,0.37147199191820346,0.04874062538146973,True,,Wine,3,0.2,coherent,FastICA-exp
+0.6452517169454356,0.3347391137314674,0.02404499053955078,True,,Wine,3,0.2,coherent,FastICA-deflation-cube
+0.49911439760936044,0.49320938112845925,0.0738973617553711,True,,Wine,3,0.2,coherent,Picard-nonorthogonal
+0.6265505819439688,0.3115861273297277,0.008562088012695312,True,,Wine,3,0.2,coherent,JADE
+0.7167853777116462,0.35850991697420437,0.010122299194335938,True,,Wine,3,0.2,coherent,SOBI
+0.2994520309580949,0.2419913909702421,0.09031295776367188,True,,Wine,4,0.1,dense,Proposed IRLS-l12
+0.21339496410770015,0.4047474908851615,0.01264190673828125,True,,Wine,4,0.1,dense,FastICA-exp
+0.2213415005830127,0.37424680844487124,0.0035767555236816406,True,,Wine,4,0.1,dense,FastICA-deflation-cube
+0.21075697759774958,0.3786216473311621,0.04013967514038086,True,,Wine,4,0.1,dense,Picard-nonorthogonal
+0.22214112834380187,0.46356657761680253,0.008117914199829102,True,,Wine,4,0.1,dense,JADE
+0.2135150020473553,0.4501117660468556,0.006794929504394531,True,,Wine,4,0.1,dense,SOBI
+0.15359085225119923,0.4002304454863134,0.0384366512298584,True,,Wine,4,0.2,dense,Proposed IRLS-l12
+0.1658296627033342,0.43023445223954315,0.014330625534057617,True,,Wine,4,0.2,dense,FastICA-exp
+0.16760735981260433,0.3404442583908333,0.0044708251953125,True,,Wine,4,0.2,dense,FastICA-deflation-cube
+0.16954455613936428,0.41629638717099615,0.027218103408813477,True,,Wine,4,0.2,dense,Picard-nonorthogonal
+0.16520123607899687,0.3694965286432203,0.013889312744140625,True,,Wine,4,0.2,dense,JADE
+0.161238604248432,0.4146340665195817,0.007471323013305664,True,,Wine,4,0.2,dense,SOBI
+0.279572316085233,0.33218132939495076,0.08671164512634277,True,,Wine,4,0.1,single-channel,Proposed IRLS-l12
+0.22074485976048636,0.3983954065743985,0.007861614227294922,True,,Wine,4,0.1,single-channel,FastICA-exp
+0.22260241195848915,0.3947423014982311,0.0028023719787597656,True,,Wine,4,0.1,single-channel,FastICA-deflation-cube
+0.21965976622123176,0.39904537937666196,0.029064178466796875,True,,Wine,4,0.1,single-channel,Picard-nonorthogonal
+0.22141146396990657,0.398540441303661,0.003250598907470703,True,,Wine,4,0.1,single-channel,JADE
+0.18758192478869903,0.5111137412503777,0.009171724319458008,True,,Wine,4,0.1,single-channel,SOBI
+0.21642814290030848,0.25553838718705135,0.04191899299621582,True,,Wine,4,0.2,single-channel,Proposed IRLS-l12
+0.1477470070932666,0.40264178159318165,0.007129669189453125,True,,Wine,4,0.2,single-channel,FastICA-exp
+0.1479338201810553,0.39908277574251333,0.003015756607055664,True,,Wine,4,0.2,single-channel,FastICA-deflation-cube
+0.14764484381404008,0.4025164345255883,0.017213106155395508,True,,Wine,4,0.2,single-channel,Picard-nonorthogonal
+0.14820594344319557,0.4038707375566698,0.004319190979003906,True,,Wine,4,0.2,single-channel,JADE
+0.16316117236770836,0.3894076945308555,0.01523137092590332,True,,Wine,4,0.2,single-channel,SOBI
+0.6065659930950335,0.32878960474199814,0.10111069679260254,True,,Wine,4,0.1,coherent,Proposed IRLS-l12
+0.5884733268191432,0.4144394611507612,0.003648519515991211,True,,Wine,4,0.1,coherent,FastICA-exp
+0.6449587703526378,0.31229444966923003,0.023021221160888672,True,,Wine,4,0.1,coherent,FastICA-deflation-cube
+0.6392975883421494,0.28755269092978514,0.047867536544799805,True,,Wine,4,0.1,coherent,Picard-nonorthogonal
+0.592224533008215,0.43017334646536726,0.00589299201965332,True,,Wine,4,0.1,coherent,JADE
+0.6096667798901219,0.415927965813061,0.007851600646972656,True,,Wine,4,0.1,coherent,SOBI
+0.7087252981370553,0.24373479663107922,0.049321651458740234,True,,Wine,4,0.2,coherent,Proposed IRLS-l12
+0.6903884137405114,0.21543312129597028,0.00463104248046875,True,,Wine,4,0.2,coherent,FastICA-exp
+0.6181890869760668,0.40037734589323215,0.020724058151245117,True,,Wine,4,0.2,coherent,FastICA-deflation-cube
+0.7326567998673201,0.33040114829246753,0.042711496353149414,True,,Wine,4,0.2,coherent,Picard-nonorthogonal
+0.6363405736237132,0.2634637060575166,0.012169837951660156,True,,Wine,4,0.2,coherent,JADE
+0.6023120018206447,0.35879761939620136,0.008351802825927734,True,,Wine,4,0.2,coherent,SOBI
+0.2373797875200591,0.35084065298521816,0.061339616775512695,True,,Wine,5,0.1,dense,Proposed IRLS-l12
+0.29309891293565193,0.4319095933455987,0.005606889724731445,True,,Wine,5,0.1,dense,FastICA-exp
+0.2897426119284929,0.3551714105931306,0.005283355712890625,True,,Wine,5,0.1,dense,FastICA-deflation-cube
+0.28581680239062174,0.3848483833597604,0.01895427703857422,True,,Wine,5,0.1,dense,Picard-nonorthogonal
+0.28278029131282456,0.37690198920134327,0.0054318904876708984,True,,Wine,5,0.1,dense,JADE
+0.2237113089070589,0.3690457114636656,0.00968623161315918,True,,Wine,5,0.1,dense,SOBI
+0.13796541001357723,0.2581608772418337,0.18046355247497559,True,,Wine,5,0.2,dense,Proposed IRLS-l12
+0.1586193552532827,0.4158144159577719,0.009400129318237305,True,,Wine,5,0.2,dense,FastICA-exp
+0.1613878500621772,0.4154433386456187,0.003881692886352539,True,,Wine,5,0.2,dense,FastICA-deflation-cube
+0.16148187790131194,0.40966841022041356,0.03334307670593262,True,,Wine,5,0.2,dense,Picard-nonorthogonal
+0.16141277469620424,0.40429006705788206,0.0050885677337646484,True,,Wine,5,0.2,dense,JADE
+0.12326174594163848,0.4854178186137944,0.0510103702545166,True,,Wine,5,0.2,dense,SOBI
+0.28262209740383726,0.3201169648566477,0.04838752746582031,True,,Wine,5,0.1,single-channel,Proposed IRLS-l12
+0.21322108413385807,0.3338747716393035,0.0032668113708496094,True,,Wine,5,0.1,single-channel,FastICA-exp
+0.2178598458422699,0.31366415195060904,0.0021555423736572266,True,,Wine,5,0.1,single-channel,FastICA-deflation-cube
+0.21823670138020948,0.3093598742737201,0.013442754745483398,True,,Wine,5,0.1,single-channel,Picard-nonorthogonal
+0.21863246521625607,0.31044118148062044,0.003244638442993164,True,,Wine,5,0.1,single-channel,JADE
+0.20203047208183494,0.3824802479369457,0.01571965217590332,True,,Wine,5,0.1,single-channel,SOBI
+0.19796669559765734,0.29722234895587973,0.053020477294921875,True,,Wine,5,0.2,single-channel,Proposed IRLS-l12
+0.19560513989313508,0.3819518846929456,0.00637507438659668,True,,Wine,5,0.2,single-channel,FastICA-exp
+0.1958153630421322,0.3843412842044671,0.002532482147216797,True,,Wine,5,0.2,single-channel,FastICA-deflation-cube
+0.19580882176917616,0.3830079707519361,0.023767471313476562,True,,Wine,5,0.2,single-channel,Picard-nonorthogonal
+0.1972566060691836,0.3823882543659014,0.0030295848846435547,True,,Wine,5,0.2,single-channel,JADE
+0.19003462694872694,0.43104887834343675,0.009758949279785156,True,,Wine,5,0.2,single-channel,SOBI
+0.7148491537281684,0.25365899295422506,0.0685889720916748,True,,Wine,5,0.1,coherent,Proposed IRLS-l12
+0.6495406202913141,0.29326977092956713,0.0042324066162109375,True,,Wine,5,0.1,coherent,FastICA-exp
+0.6836796241543025,0.27721604182464976,0.004575967788696289,True,,Wine,5,0.1,coherent,FastICA-deflation-cube
+0.6632136312812691,0.26320926394925703,0.025273799896240234,True,,Wine,5,0.1,coherent,Picard-nonorthogonal
+0.6477468425749826,0.30886124113055796,0.005994319915771484,True,,Wine,5,0.1,coherent,JADE
+0.5457920576604327,0.5203180479103306,0.00615692138671875,True,,Wine,5,0.1,coherent,SOBI
+0.7117249728923862,0.27689731707185244,0.05124640464782715,True,,Wine,5,0.2,coherent,Proposed IRLS-l12
+0.5728556635864464,0.3819382667145332,0.0054264068603515625,True,,Wine,5,0.2,coherent,FastICA-exp
+0.6297203369093394,0.3210450218897436,0.00470733642578125,True,,Wine,5,0.2,coherent,FastICA-deflation-cube
+0.6295742454131787,0.3360815263236544,0.0800168514251709,True,,Wine,5,0.2,coherent,Picard-nonorthogonal
+0.6191627550291792,0.3325894148638554,0.008209943771362305,True,,Wine,5,0.2,coherent,JADE
+0.5554348593738172,0.47450155988911014,0.012763500213623047,True,,Wine,5,0.2,coherent,SOBI
+0.2955547373057318,0.3930129067267068,0.06268715858459473,True,,Wine,6,0.1,dense,Proposed IRLS-l12
+0.2657105781515933,0.36555759823946354,0.005135774612426758,True,,Wine,6,0.1,dense,FastICA-exp
+0.2290190425796091,0.3385051723525673,0.004543304443359375,True,,Wine,6,0.1,dense,FastICA-deflation-cube
+0.2526827099398505,0.3775876708310655,0.017499446868896484,True,,Wine,6,0.1,dense,Picard-nonorthogonal
+0.23547370038788182,0.38974813340357783,0.005608558654785156,True,,Wine,6,0.1,dense,JADE
+0.22781884645993614,0.4833313274962686,0.00638890266418457,True,,Wine,6,0.1,dense,SOBI
+0.19090294393220753,0.33056483574324336,0.08459019660949707,True,,Wine,6,0.2,dense,Proposed IRLS-l12
+0.1933431558524892,0.33639687117209777,0.00878596305847168,True,,Wine,6,0.2,dense,FastICA-exp
+0.20351181979353344,0.4194795250345701,0.005103588104248047,True,,Wine,6,0.2,dense,FastICA-deflation-cube
+0.20248077979070755,0.3307843322555112,0.015986919403076172,True,,Wine,6,0.2,dense,Picard-nonorthogonal
+0.20297506062040677,0.33655566534826636,0.005215883255004883,True,,Wine,6,0.2,dense,JADE
+0.17969299035372477,0.3600540342608304,0.0095977783203125,True,,Wine,6,0.2,dense,SOBI
+0.3078586495890252,0.3491115163482394,0.06316852569580078,True,,Wine,6,0.1,single-channel,Proposed IRLS-l12
+0.1805827518980933,0.4322659132456924,0.0036170482635498047,True,,Wine,6,0.1,single-channel,FastICA-exp
+0.18594218195637918,0.46493302823286087,0.0026085376739501953,True,,Wine,6,0.1,single-channel,FastICA-deflation-cube
+0.18083311399535956,0.4285373218399021,0.010869503021240234,True,,Wine,6,0.1,single-channel,Picard-nonorthogonal
+0.18526334618094548,0.4460547004569002,0.0033164024353027344,True,,Wine,6,0.1,single-channel,JADE
+0.17106860689744613,0.5258338499632534,0.006388664245605469,True,,Wine,6,0.1,single-channel,SOBI
+0.15598208386791823,0.4400796733260723,0.04072737693786621,True,,Wine,6,0.2,single-channel,Proposed IRLS-l12
+0.15832492556277694,0.5253071021162505,0.0030324459075927734,True,,Wine,6,0.2,single-channel,FastICA-exp
+0.17735652392732992,0.45372522260992376,0.002789020538330078,True,,Wine,6,0.2,single-channel,FastICA-deflation-cube
+0.17811991884429562,0.45012338254394263,0.013410806655883789,True,,Wine,6,0.2,single-channel,Picard-nonorthogonal
+0.17746981640728426,0.4502831392703297,0.0032873153686523438,True,,Wine,6,0.2,single-channel,JADE
+0.17143219972300278,0.416831839370849,0.012559175491333008,True,,Wine,6,0.2,single-channel,SOBI
+0.633727551065947,0.32802038697322244,0.03979778289794922,True,,Wine,6,0.1,coherent,Proposed IRLS-l12
+0.6264870294490008,0.33623067973107174,0.003298521041870117,True,,Wine,6,0.1,coherent,FastICA-exp
+0.6065727220062774,0.38432114569575304,0.0038156509399414062,True,,Wine,6,0.1,coherent,FastICA-deflation-cube
+0.6275616952877341,0.33745538484645393,0.07129168510437012,True,,Wine,6,0.1,coherent,Picard-nonorthogonal
+0.6122082681607679,0.3051134324329473,0.0064809322357177734,True,,Wine,6,0.1,coherent,JADE
+0.6661045088795985,0.4039525994552995,0.010921955108642578,True,,Wine,6,0.1,coherent,SOBI
+0.6099748994611172,0.3177815902005327,0.040334224700927734,True,,Wine,6,0.2,coherent,Proposed IRLS-l12
+0.6997301604127765,0.22437811551382278,0.0027544498443603516,True,,Wine,6,0.2,coherent,FastICA-exp
+0.6897382961963332,0.23462356718534041,0.003134489059448242,True,,Wine,6,0.2,coherent,FastICA-deflation-cube
+0.6960048869006266,0.23022268481588753,0.020441293716430664,True,,Wine,6,0.2,coherent,Picard-nonorthogonal
+0.6856683095595093,0.2382651540388067,0.0048694610595703125,True,,Wine,6,0.2,coherent,JADE
+0.5783916575502099,0.46320601568828634,0.042946815490722656,True,,Wine,6,0.2,coherent,SOBI
+0.24836084011394616,0.32117672920947443,0.10077548027038574,True,,Wine,7,0.1,dense,Proposed IRLS-l12
+0.24266067663204707,0.39537063261507355,0.010315656661987305,True,,Wine,7,0.1,dense,FastICA-exp
+0.23425288713629788,0.37976623350527194,0.004423618316650391,True,,Wine,7,0.1,dense,FastICA-deflation-cube
+0.22285733437027005,0.4357227439359964,0.027849435806274414,True,,Wine,7,0.1,dense,Picard-nonorthogonal
+0.2339114154967858,0.40770472204531194,0.008435249328613281,True,,Wine,7,0.1,dense,JADE
+0.25593595389944995,0.42763595581617275,0.01319742202758789,True,,Wine,7,0.1,dense,SOBI
+0.16270724344620582,0.4770485283342665,0.09114885330200195,True,,Wine,7,0.2,dense,Proposed IRLS-l12
+0.1716767834593585,0.36027391140165016,0.0060520172119140625,True,,Wine,7,0.2,dense,FastICA-exp
+0.18411524253468822,0.47728966708520754,0.0048482418060302734,True,,Wine,7,0.2,dense,FastICA-deflation-cube
+0.17846433566297454,0.36510507307864226,0.012944221496582031,True,,Wine,7,0.2,dense,Picard-nonorthogonal
+0.18527183442694112,0.4721481791267149,0.012690544128417969,True,,Wine,7,0.2,dense,JADE
+0.19969071479591266,0.5566640748435456,0.010060787200927734,True,,Wine,7,0.2,dense,SOBI
+0.2713678489217285,0.33196213243745837,0.10552191734313965,True,,Wine,7,0.1,single-channel,Proposed IRLS-l12
+0.2290481041878647,0.4657765807474951,0.00406336784362793,True,,Wine,7,0.1,single-channel,FastICA-exp
+0.23053397324500874,0.37662779608416097,0.0026068687438964844,True,,Wine,7,0.1,single-channel,FastICA-deflation-cube
+0.22743310253820467,0.3826457669508179,0.017928361892700195,True,,Wine,7,0.1,single-channel,Picard-nonorthogonal
+0.22822844468716652,0.38565957066537854,0.0033495426177978516,True,,Wine,7,0.1,single-channel,JADE
+0.2038787539411097,0.4701731369732192,0.01924872398376465,True,,Wine,7,0.1,single-channel,SOBI
+0.16499265674936897,0.37499461393423256,0.0396425724029541,True,,Wine,7,0.2,single-channel,Proposed IRLS-l12
+0.18024920094471344,0.31216372279630256,0.0044820308685302734,True,,Wine,7,0.2,single-channel,FastICA-exp
+0.18151260700829278,0.30921685381229935,0.002640962600708008,True,,Wine,7,0.2,single-channel,FastICA-deflation-cube
+0.18027199620422457,0.3121628940798518,0.008167266845703125,True,,Wine,7,0.2,single-channel,Picard-nonorthogonal
+0.18153254731788876,0.31192484854361546,0.003236532211303711,True,,Wine,7,0.2,single-channel,JADE
+0.18155201188187722,0.3621811914077592,0.011759757995605469,True,,Wine,7,0.2,single-channel,SOBI
+0.7498331181984768,0.14910966594269565,0.12469148635864258,True,,Wine,7,0.1,coherent,Proposed IRLS-l12
+0.742629649492318,0.17164639525592573,0.002816915512084961,True,,Wine,7,0.1,coherent,FastICA-exp
+0.6999124738547652,0.20956764531295563,0.020975112915039062,True,,Wine,7,0.1,coherent,FastICA-deflation-cube
+0.7433757888200792,0.16306564388529057,0.12436628341674805,True,,Wine,7,0.1,coherent,Picard-nonorthogonal
+0.607431479597723,0.3421769537637312,0.025821924209594727,True,,Wine,7,0.1,coherent,JADE
+0.6652987652993607,0.3542119100157388,0.014158487319946289,True,,Wine,7,0.1,coherent,SOBI
+0.5786966446571401,0.4173454234546153,0.0731041431427002,True,,Wine,7,0.2,coherent,Proposed IRLS-l12
+0.6011643746379475,0.3248435050448957,0.0033283233642578125,True,,Wine,7,0.2,coherent,FastICA-exp
+0.6330495606750144,0.3052728645726629,0.007121562957763672,True,,Wine,7,0.2,coherent,FastICA-deflation-cube
+0.567341070727394,0.3413525961098528,0.03454089164733887,True,,Wine,7,0.2,coherent,Picard-nonorthogonal
+0.5724031856602367,0.3639030955591651,0.0051233768463134766,True,,Wine,7,0.2,coherent,JADE
+0.5719943794053158,0.4457328240066287,0.012233495712280273,True,,Wine,7,0.2,coherent,SOBI
+0.33782389781540995,0.3507420754611253,0.08198261260986328,True,,Wine,8,0.1,dense,Proposed IRLS-l12
+0.25102348004650776,0.3347047897780276,0.0063114166259765625,True,,Wine,8,0.1,dense,FastICA-exp
+0.25726760771455925,0.3170119484021846,0.005901336669921875,True,,Wine,8,0.1,dense,FastICA-deflation-cube
+0.25177560779699537,0.34460600316403195,0.033648014068603516,True,,Wine,8,0.1,dense,Picard-nonorthogonal
+0.2526226773150439,0.34707580063025295,0.006585121154785156,True,,Wine,8,0.1,dense,JADE
+0.22849788615433572,0.5785845677558414,0.007391929626464844,True,,Wine,8,0.1,dense,SOBI
+0.19129073803052185,0.35428489498969773,0.05375099182128906,True,,Wine,8,0.2,dense,Proposed IRLS-l12
+0.19444338362927416,0.38521151478658366,0.009612560272216797,True,,Wine,8,0.2,dense,FastICA-exp
+0.21728638192316416,0.41093581559345854,0.00536346435546875,True,,Wine,8,0.2,dense,FastICA-deflation-cube
+0.21019261753671364,0.3911872899740111,0.0230100154876709,True,,Wine,8,0.2,dense,Picard-nonorthogonal
+0.20484918133959135,0.4221292361847424,0.008189916610717773,True,,Wine,8,0.2,dense,JADE
+0.18094612692905682,0.4701661240809182,0.006459236145019531,True,,Wine,8,0.2,dense,SOBI
+0.30789920469226273,0.23836680637836571,0.060134172439575195,True,,Wine,8,0.1,single-channel,Proposed IRLS-l12
+0.30788362416359216,0.32849903870494634,0.012036800384521484,True,,Wine,8,0.1,single-channel,FastICA-exp
+0.3046294364391353,0.40519362418005783,0.0032515525817871094,True,,Wine,8,0.1,single-channel,FastICA-deflation-cube
+0.3052663187191329,0.39535343740291085,0.017588376998901367,True,,Wine,8,0.1,single-channel,Picard-nonorthogonal
+0.3062361343680065,0.3938799708084466,0.0036690235137939453,True,,Wine,8,0.1,single-channel,JADE
+0.32546898369638916,0.2931500593303138,0.011166572570800781,True,,Wine,8,0.1,single-channel,SOBI
+0.2377964184711118,0.35848835181576366,0.13557839393615723,True,,Wine,8,0.2,single-channel,Proposed IRLS-l12
+0.19840871132148638,0.4489591098059276,0.0068683624267578125,True,,Wine,8,0.2,single-channel,FastICA-exp
+0.19931776407888646,0.4457247347991654,0.0027265548706054688,True,,Wine,8,0.2,single-channel,FastICA-deflation-cube
+0.19821614668086174,0.45190733756655843,0.008414983749389648,True,,Wine,8,0.2,single-channel,Picard-nonorthogonal
+0.1983388156962949,0.449242255695461,0.0028014183044433594,True,,Wine,8,0.2,single-channel,JADE
+0.19074296137401753,0.3535386803790764,0.025683164596557617,True,,Wine,8,0.2,single-channel,SOBI
+0.711688424207594,0.27460725065042435,0.09490156173706055,True,,Wine,8,0.1,coherent,Proposed IRLS-l12
+0.7171648461268691,0.22388680745185444,0.0036764144897460938,True,,Wine,8,0.1,coherent,FastICA-exp
+0.7306073932944652,0.23284844163070312,0.004384756088256836,True,,Wine,8,0.1,coherent,FastICA-deflation-cube
+0.7409490813332805,0.21195591464440233,0.026267528533935547,True,,Wine,8,0.1,coherent,Picard-nonorthogonal
+0.7257677086685133,0.21628148262430322,0.0051441192626953125,True,,Wine,8,0.1,coherent,JADE
+0.659240452118085,0.4167477258634231,0.012454986572265625,True,,Wine,8,0.1,coherent,SOBI
+0.7106829207688616,0.24483989361242386,0.05837297439575195,True,,Wine,8,0.2,coherent,Proposed IRLS-l12
+0.6738613706112269,0.2958321671791301,0.011180877685546875,True,,Wine,8,0.2,coherent,FastICA-exp
+0.6929588690529348,0.29040633102640256,0.004179477691650391,True,,Wine,8,0.2,coherent,FastICA-deflation-cube
+0.7057729712714497,0.25641103161118706,0.09307742118835449,True,,Wine,8,0.2,coherent,Picard-nonorthogonal
+0.684927287374536,0.2706094938363389,0.004351139068603516,True,,Wine,8,0.2,coherent,JADE
+0.5796550072715542,0.36216732947212005,0.007055997848510742,True,,Wine,8,0.2,coherent,SOBI
+0.2734921425909566,0.33727915855469287,0.1238551139831543,True,,Wine,9,0.1,dense,Proposed IRLS-l12
+0.25795706108535665,0.3505320368735353,0.007990121841430664,True,,Wine,9,0.1,dense,FastICA-exp
+0.26853308594194175,0.34966392671072616,0.004864215850830078,True,,Wine,9,0.1,dense,FastICA-deflation-cube
+0.2550904312113994,0.3916365172260508,0.022435903549194336,True,,Wine,9,0.1,dense,Picard-nonorthogonal
+0.2749435175162561,0.34857422911159897,0.0057485103607177734,True,,Wine,9,0.1,dense,JADE
+0.24213242430484866,0.4512835897388362,0.009951114654541016,True,,Wine,9,0.1,dense,SOBI
+0.1997795879718432,0.3709194331438582,0.25689053535461426,True,,Wine,9,0.2,dense,Proposed IRLS-l12
+0.1962985969942691,0.39220165223484965,0.00684809684753418,True,,Wine,9,0.2,dense,FastICA-exp
+0.16841341389950584,0.48318149336641536,0.005402803421020508,True,,Wine,9,0.2,dense,FastICA-deflation-cube
+0.18607166028495675,0.3735114708775965,0.02051067352294922,True,,Wine,9,0.2,dense,Picard-nonorthogonal
+0.16272630189059303,0.4185953290287374,0.008825063705444336,True,,Wine,9,0.2,dense,JADE
+0.17293151435877496,0.45096906406420245,0.025025606155395508,True,,Wine,9,0.2,dense,SOBI
+0.24866810618036025,0.4139364592855165,0.3727893829345703,True,,Wine,9,0.1,single-channel,Proposed IRLS-l12
+0.2546311947539649,0.4253195280029603,0.004225015640258789,True,,Wine,9,0.1,single-channel,FastICA-exp
+0.2555651680780665,0.3613099152992237,0.0030906200408935547,True,,Wine,9,0.1,single-channel,FastICA-deflation-cube
+0.2525014298201561,0.3582958315198751,0.012009620666503906,True,,Wine,9,0.1,single-channel,Picard-nonorthogonal
+0.2536216909043262,0.3565550870354148,0.0033483505249023438,True,,Wine,9,0.1,single-channel,JADE
+0.325945183423345,0.25339385051997587,0.011196374893188477,True,,Wine,9,0.1,single-channel,SOBI
+0.18504149732356012,0.28472646602857477,0.17421364784240723,True,,Wine,9,0.2,single-channel,Proposed IRLS-l12
+0.20336451722839782,0.35837622635527033,0.004615306854248047,True,,Wine,9,0.2,single-channel,FastICA-exp
+0.2160950641959754,0.36893630724323345,0.002639293670654297,True,,Wine,9,0.2,single-channel,FastICA-deflation-cube
+0.2161818012897178,0.3700507635518203,0.013617753982543945,True,,Wine,9,0.2,single-channel,Picard-nonorthogonal
+0.216918394408229,0.36871026356556014,0.0033435821533203125,True,,Wine,9,0.2,single-channel,JADE
+0.21402492157456807,0.4349993227006868,0.006289482116699219,True,,Wine,9,0.2,single-channel,SOBI
+0.5969628224241157,0.37597987992667437,0.07412242889404297,True,,Wine,9,0.1,coherent,Proposed IRLS-l12
+0.5530169737782258,0.42072707256274544,0.041109323501586914,True,,Wine,9,0.1,coherent,FastICA-exp
+0.6114813310364963,0.3715358865438537,0.02239513397216797,True,,Wine,9,0.1,coherent,FastICA-deflation-cube
+0.5620685072973192,0.37363022649577193,0.09927701950073242,True,,Wine,9,0.1,coherent,Picard-nonorthogonal
+0.6350451054726415,0.3267269974368944,0.005040407180786133,True,,Wine,9,0.1,coherent,JADE
+0.5713438341870981,0.5118007252047461,0.013588666915893555,True,,Wine,9,0.1,coherent,SOBI
+0.7673641452549872,0.1573016976851081,0.08742809295654297,True,,Wine,9,0.2,coherent,Proposed IRLS-l12
+0.6418445756728991,0.31421601477648753,0.05258941650390625,True,,Wine,9,0.2,coherent,FastICA-exp
+0.6655353320981167,0.2555536259112322,0.02256298065185547,True,,Wine,9,0.2,coherent,FastICA-deflation-cube
+0.6269594636666136,0.3084723466009264,0.028684139251708984,True,,Wine,9,0.2,coherent,Picard-nonorthogonal
+0.6342424804300395,0.31643723106496763,0.007756710052490234,True,,Wine,9,0.2,coherent,JADE
+0.620066106788131,0.37580392881283514,0.007244110107421875,True,,Wine,9,0.2,coherent,SOBI
+0.2876299556902573,0.36217278994167407,0.05017542839050293,True,,BreastCancer,0,0.1,dense,Proposed IRLS-l12
+0.2574743845200087,0.35518932101391265,0.01362466812133789,True,,BreastCancer,0,0.1,dense,FastICA-exp
+0.23343088316435479,0.4695722094420445,0.00688624382019043,True,,BreastCancer,0,0.1,dense,FastICA-deflation-cube
+0.22752426862765077,0.4664559860275414,0.016701936721801758,True,,BreastCancer,0,0.1,dense,Picard-nonorthogonal
+0.24531778182398162,0.4646008916588369,0.0071103572845458984,True,,BreastCancer,0,0.1,dense,JADE
+0.24676946476372894,0.41689398878285644,0.009629487991333008,True,,BreastCancer,0,0.1,dense,SOBI
+0.2623434531587549,0.4587542806041098,0.07879972457885742,True,,BreastCancer,0,0.2,dense,Proposed IRLS-l12
+0.22074095039905064,0.4505567512844896,0.008735895156860352,True,,BreastCancer,0,0.2,dense,FastICA-exp
+0.22748543154154238,0.4889343768420399,0.004168272018432617,True,,BreastCancer,0,0.2,dense,FastICA-deflation-cube
+0.21654456573614617,0.45949240384312795,0.0287015438079834,True,,BreastCancer,0,0.2,dense,Picard-nonorthogonal
+0.2233134645902873,0.4280871992962979,0.00737762451171875,True,,BreastCancer,0,0.2,dense,JADE
+0.21025624176448582,0.4001648390713952,0.013754129409790039,True,,BreastCancer,0,0.2,dense,SOBI
+0.2641083729396719,0.4301629248941305,0.0428774356842041,True,,BreastCancer,0,0.1,single-channel,Proposed IRLS-l12
+0.2655336923200292,0.32433057304087554,0.010451316833496094,True,,BreastCancer,0,0.1,single-channel,FastICA-exp
+0.2665336376253239,0.31901196582067,0.002576589584350586,True,,BreastCancer,0,0.1,single-channel,FastICA-deflation-cube
+0.2649858899686938,0.32699371552945755,0.015690088272094727,True,,BreastCancer,0,0.1,single-channel,Picard-nonorthogonal
+0.2679472777106904,0.32743479436775436,0.003359079360961914,True,,BreastCancer,0,0.1,single-channel,JADE
+0.2705698570224149,0.40359556597334467,0.007302045822143555,True,,BreastCancer,0,0.1,single-channel,SOBI
+0.21669603554270306,0.32303035728756513,0.0617067813873291,True,,BreastCancer,0,0.2,single-channel,Proposed IRLS-l12
+0.22406937631226423,0.2981810053004341,0.005994081497192383,True,,BreastCancer,0,0.2,single-channel,FastICA-exp
+0.23604629459096724,0.3466824667945301,0.0027828216552734375,True,,BreastCancer,0,0.2,single-channel,FastICA-deflation-cube
+0.23528399428738228,0.3330826320267054,0.012716293334960938,True,,BreastCancer,0,0.2,single-channel,Picard-nonorthogonal
+0.23549880165896814,0.3325478123649512,0.0031197071075439453,True,,BreastCancer,0,0.2,single-channel,JADE
+0.22124422988198714,0.4331735412182063,0.00906991958618164,True,,BreastCancer,0,0.2,single-channel,SOBI
+0.651530102766946,0.2987903374367966,0.0692894458770752,True,,BreastCancer,0,0.1,coherent,Proposed IRLS-l12
+0.647228406104815,0.2871796185940819,0.005112648010253906,True,,BreastCancer,0,0.1,coherent,FastICA-exp
+0.7335382837311024,0.15736594617252025,0.0038909912109375,True,,BreastCancer,0,0.1,coherent,FastICA-deflation-cube
+0.6433538532588368,0.2718392281856458,0.022223949432373047,True,,BreastCancer,0,0.1,coherent,Picard-nonorthogonal
+0.7302399801305957,0.16437615411250356,0.004474639892578125,True,,BreastCancer,0,0.1,coherent,JADE
+0.5213006568972782,0.5022533924577777,0.004915952682495117,True,,BreastCancer,0,0.1,coherent,SOBI
+0.653491590351743,0.2715138613059832,0.09955668449401855,True,,BreastCancer,0,0.2,coherent,Proposed IRLS-l12
+0.5941617782193664,0.35064259926739433,0.040210723876953125,True,,BreastCancer,0,0.2,coherent,FastICA-exp
+0.7179963021851055,0.22360148926051587,0.00444483757019043,True,,BreastCancer,0,0.2,coherent,FastICA-deflation-cube
+0.7181170598233277,0.21866278639406828,0.017344236373901367,True,,BreastCancer,0,0.2,coherent,Picard-nonorthogonal
+0.7123941981683382,0.22121670247002548,0.0061626434326171875,True,,BreastCancer,0,0.2,coherent,JADE
+0.6011519319949907,0.42297387789056484,0.02238774299621582,True,,BreastCancer,0,0.2,coherent,SOBI
+0.2948018244016451,0.3162166283222736,0.07436108589172363,True,,BreastCancer,1,0.1,dense,Proposed IRLS-l12
+0.3309083057289978,0.36914391080671816,0.0124053955078125,True,,BreastCancer,1,0.1,dense,FastICA-exp
+0.2921323490514442,0.3979076849358239,0.006049633026123047,True,,BreastCancer,1,0.1,dense,FastICA-deflation-cube
+0.2663105283387576,0.3919461602510254,0.039730072021484375,True,,BreastCancer,1,0.1,dense,Picard-nonorthogonal
+0.27736286463282595,0.3852484461992611,0.008565664291381836,True,,BreastCancer,1,0.1,dense,JADE
+0.2693080361640928,0.35256561715528345,0.009509801864624023,True,,BreastCancer,1,0.1,dense,SOBI
+0.19676109798022573,0.26170719269842363,0.11016178131103516,True,,BreastCancer,1,0.2,dense,Proposed IRLS-l12
+0.17320159087254608,0.45424892925267935,0.009264230728149414,True,,BreastCancer,1,0.2,dense,FastICA-exp
+0.15587317099270495,0.4151554130136047,0.004461050033569336,True,,BreastCancer,1,0.2,dense,FastICA-deflation-cube
+0.16691552802333046,0.40586251284065966,0.03073906898498535,True,,BreastCancer,1,0.2,dense,Picard-nonorthogonal
+0.15769780311864665,0.41082203520791605,0.0052073001861572266,True,,BreastCancer,1,0.2,dense,JADE
+0.1560059504998181,0.40872281165599755,0.0058269500732421875,True,,BreastCancer,1,0.2,dense,SOBI
+0.26700739852330646,0.12294056196850889,0.11144471168518066,True,,BreastCancer,1,0.1,single-channel,Proposed IRLS-l12
+0.2318240664629146,0.32027132412551174,0.006147861480712891,True,,BreastCancer,1,0.1,single-channel,FastICA-exp
+0.23318341050774993,0.326723422085358,0.0027344226837158203,True,,BreastCancer,1,0.1,single-channel,FastICA-deflation-cube
+0.23182148342222528,0.32009165375786486,0.022972583770751953,True,,BreastCancer,1,0.1,single-channel,Picard-nonorthogonal
+0.2324335168187112,0.31894710295105605,0.00395655632019043,True,,BreastCancer,1,0.1,single-channel,JADE
+0.1996572264614884,0.40529747305460867,0.007737398147583008,True,,BreastCancer,1,0.1,single-channel,SOBI
+0.21020199410627102,0.3938465191537803,0.03799319267272949,True,,BreastCancer,1,0.2,single-channel,Proposed IRLS-l12
+0.21741951530711331,0.427276363259097,0.00409245491027832,True,,BreastCancer,1,0.2,single-channel,FastICA-exp
+0.23072576276798848,0.3949989380459027,0.0032041072845458984,True,,BreastCancer,1,0.2,single-channel,FastICA-deflation-cube
+0.23148252542832792,0.40133818685736833,0.021596193313598633,True,,BreastCancer,1,0.2,single-channel,Picard-nonorthogonal
+0.23263309057291756,0.39711160656499284,0.003594636917114258,True,,BreastCancer,1,0.2,single-channel,JADE
+0.18927530751731916,0.40619403602120663,0.06471872329711914,True,,BreastCancer,1,0.2,single-channel,SOBI
+0.6721479552966612,0.2544063340785974,0.07358980178833008,True,,BreastCancer,1,0.1,coherent,Proposed IRLS-l12
+0.6740300692429579,0.26178372542108186,0.03974628448486328,True,,BreastCancer,1,0.1,coherent,FastICA-exp
+0.623958680978512,0.33534715031200524,0.0037741661071777344,True,,BreastCancer,1,0.1,coherent,FastICA-deflation-cube
+0.6981679402282429,0.2671488810813926,0.14162707328796387,True,,BreastCancer,1,0.1,coherent,Picard-nonorthogonal
+0.6103611888882221,0.3261848531693719,0.0049626827239990234,True,,BreastCancer,1,0.1,coherent,JADE
+0.6796885557334443,0.2942232191732272,0.008223772048950195,True,,BreastCancer,1,0.1,coherent,SOBI
+0.6739285106942794,0.30886496503379196,0.05476689338684082,True,,BreastCancer,1,0.2,coherent,Proposed IRLS-l12
+0.6035092547045744,0.34438321433226726,0.04416942596435547,True,,BreastCancer,1,0.2,coherent,FastICA-exp
+0.7137396282060988,0.25169529157733395,0.003352642059326172,True,,BreastCancer,1,0.2,coherent,FastICA-deflation-cube
+0.7309769356671493,0.2589958581980463,0.021289587020874023,True,,BreastCancer,1,0.2,coherent,Picard-nonorthogonal
+0.6930263534527455,0.2621251673455688,0.004058361053466797,True,,BreastCancer,1,0.2,coherent,JADE
+0.5858366619692158,0.4762304046003262,0.008959054946899414,True,,BreastCancer,1,0.2,coherent,SOBI
+0.3650039395457078,0.3516691619353193,0.09694314002990723,True,,BreastCancer,2,0.1,dense,Proposed IRLS-l12
+0.2408386362292984,0.3940870682176182,0.013447284698486328,True,,BreastCancer,2,0.1,dense,FastICA-exp
+0.24248276723269,0.41900985138938884,0.003519773483276367,True,,BreastCancer,2,0.1,dense,FastICA-deflation-cube
+0.2513496718763757,0.4418778091465385,0.017316341400146484,True,,BreastCancer,2,0.1,dense,Picard-nonorthogonal
+0.24227023939962739,0.4470839542246739,0.004889011383056641,True,,BreastCancer,2,0.1,dense,JADE
+0.2354303275003898,0.43074179207466373,0.03706169128417969,True,,BreastCancer,2,0.1,dense,SOBI
+0.14206034581712668,0.3986944430010433,0.07261157035827637,True,,BreastCancer,2,0.2,dense,Proposed IRLS-l12
+0.195879901894009,0.3587575763573847,0.02024555206298828,True,,BreastCancer,2,0.2,dense,FastICA-exp
+0.21372348566975888,0.444954900620744,0.005163431167602539,True,,BreastCancer,2,0.2,dense,FastICA-deflation-cube
+0.19927186261092275,0.3720784678912266,0.02137613296508789,True,,BreastCancer,2,0.2,dense,Picard-nonorthogonal
+0.23119983588344123,0.41685885307331094,0.012183666229248047,True,,BreastCancer,2,0.2,dense,JADE
+0.20555084983515726,0.4312946346424704,0.008465051651000977,True,,BreastCancer,2,0.2,dense,SOBI
+0.25209069711190335,0.3684487766587585,0.12363958358764648,True,,BreastCancer,2,0.1,single-channel,Proposed IRLS-l12
+0.251614556822269,0.391367938052608,0.004463911056518555,True,,BreastCancer,2,0.1,single-channel,FastICA-exp
+0.23001598396436318,0.3717182151535877,0.0033042430877685547,True,,BreastCancer,2,0.1,single-channel,FastICA-deflation-cube
+0.22944994195100196,0.369585028957351,0.013051986694335938,True,,BreastCancer,2,0.1,single-channel,Picard-nonorthogonal
+0.2302707715028554,0.37801503178087137,0.0031058788299560547,True,,BreastCancer,2,0.1,single-channel,JADE
+0.21939849888018798,0.44426199312341,0.006247520446777344,True,,BreastCancer,2,0.1,single-channel,SOBI
+0.21472371706811963,0.3852802818051009,0.04456686973571777,True,,BreastCancer,2,0.2,single-channel,Proposed IRLS-l12
+0.24655251757120783,0.36983366391157296,0.0032036304473876953,True,,BreastCancer,2,0.2,single-channel,FastICA-exp
+0.2473703425983642,0.37659623549201904,0.0025146007537841797,True,,BreastCancer,2,0.2,single-channel,FastICA-deflation-cube
+0.24692226435257156,0.3732444137109761,0.017540693283081055,True,,BreastCancer,2,0.2,single-channel,Picard-nonorthogonal
+0.24856021968928607,0.3670364026836252,0.003276824951171875,True,,BreastCancer,2,0.2,single-channel,JADE
+0.19912573957660012,0.35528894162278657,0.004366636276245117,True,,BreastCancer,2,0.2,single-channel,SOBI
+0.6407627392858235,0.228668327319497,0.052786827087402344,True,,BreastCancer,2,0.1,coherent,Proposed IRLS-l12
+0.6227125890325035,0.3357419317780014,0.046844482421875,True,,BreastCancer,2,0.1,coherent,FastICA-exp
+0.6784002218019352,0.287164703139146,0.021228551864624023,True,,BreastCancer,2,0.1,coherent,FastICA-deflation-cube
+0.7110906542236112,0.21788332584541198,0.04881644248962402,True,,BreastCancer,2,0.1,coherent,Picard-nonorthogonal
+0.7090425801023797,0.20564775409774602,0.003785848617553711,True,,BreastCancer,2,0.1,coherent,JADE
+0.6206312815337419,0.4335439049013089,0.02010059356689453,True,,BreastCancer,2,0.1,coherent,SOBI
+0.6671103675619021,0.28071623999956985,0.06361627578735352,True,,BreastCancer,2,0.2,coherent,Proposed IRLS-l12
+0.7088880778585172,0.23163147849047955,0.012469053268432617,True,,BreastCancer,2,0.2,coherent,FastICA-exp
+0.6697953761873612,0.30566086691859584,0.022794485092163086,True,,BreastCancer,2,0.2,coherent,FastICA-deflation-cube
+0.69266060300941,0.3102716383968617,0.05941057205200195,True,,BreastCancer,2,0.2,coherent,Picard-nonorthogonal
+0.7205527582974577,0.2514361804866339,0.0035049915313720703,True,,BreastCancer,2,0.2,coherent,JADE
+0.6445576671644351,0.446280192742443,0.01703166961669922,True,,BreastCancer,2,0.2,coherent,SOBI
+0.3520111361115791,0.3620739265154274,0.041931867599487305,True,,BreastCancer,3,0.1,dense,Proposed IRLS-l12
+0.4082627536058593,0.25031215409830176,0.0167386531829834,True,,BreastCancer,3,0.1,dense,FastICA-exp
+0.3936828449834699,0.2691167366864572,0.004129886627197266,True,,BreastCancer,3,0.1,dense,FastICA-deflation-cube
+0.39002861450096454,0.22072911590972075,0.014513731002807617,True,,BreastCancer,3,0.1,dense,Picard-nonorthogonal
+0.39244446999603644,0.293426865498733,0.009912490844726562,True,,BreastCancer,3,0.1,dense,JADE
+0.2851785562017751,0.42680574234073176,0.007948160171508789,True,,BreastCancer,3,0.1,dense,SOBI
+0.13133050153945186,0.34568041517052917,0.13788628578186035,True,,BreastCancer,3,0.2,dense,Proposed IRLS-l12
+0.21497251507996315,0.3363095956495893,0.007888317108154297,True,,BreastCancer,3,0.2,dense,FastICA-exp
+0.22619737232448442,0.3184132654088218,0.008104562759399414,True,,BreastCancer,3,0.2,dense,FastICA-deflation-cube
+0.21875655622956872,0.36467308215523236,0.02524733543395996,True,,BreastCancer,3,0.2,dense,Picard-nonorthogonal
+0.20917327126436924,0.40790247367762744,0.010170936584472656,True,,BreastCancer,3,0.2,dense,JADE
+0.21189644642095393,0.32980958931319704,0.011082649230957031,True,,BreastCancer,3,0.2,dense,SOBI
+0.3715035847853744,0.2657264552351778,0.02544879913330078,True,,BreastCancer,3,0.1,single-channel,Proposed IRLS-l12
+0.2557940409032999,0.458787129803128,0.005282163619995117,True,,BreastCancer,3,0.1,single-channel,FastICA-exp
+0.2728336125224045,0.465432598066353,0.0029840469360351562,True,,BreastCancer,3,0.1,single-channel,FastICA-deflation-cube
+0.26764369997390414,0.4702123111155432,0.011303424835205078,True,,BreastCancer,3,0.1,single-channel,Picard-nonorthogonal
+0.2701214214803958,0.46409838208900833,0.004168272018432617,True,,BreastCancer,3,0.1,single-channel,JADE
+0.29202680443052936,0.4316182210101391,0.0046312808990478516,True,,BreastCancer,3,0.1,single-channel,SOBI
+0.2022580218753692,0.46652999940842454,0.04344344139099121,True,,BreastCancer,3,0.2,single-channel,Proposed IRLS-l12
+0.17241284263242232,0.44237163295365994,0.003456592559814453,True,,BreastCancer,3,0.2,single-channel,FastICA-exp
+0.17164500781973457,0.44886965632176035,0.0025091171264648438,True,,BreastCancer,3,0.2,single-channel,FastICA-deflation-cube
+0.17190110675173959,0.4439270910040511,0.01060032844543457,True,,BreastCancer,3,0.2,single-channel,Picard-nonorthogonal
+0.17117656792430203,0.44448215745398,0.003240823745727539,True,,BreastCancer,3,0.2,single-channel,JADE
+0.2150823454984257,0.3944932163132337,0.0059986114501953125,True,,BreastCancer,3,0.2,single-channel,SOBI
+0.7333957465728058,0.18761663808590995,0.041254281997680664,True,,BreastCancer,3,0.1,coherent,Proposed IRLS-l12
+0.7185524892961243,0.24437103455700365,0.04372143745422363,True,,BreastCancer,3,0.1,coherent,FastICA-exp
+0.7345498832213198,0.19446893506704366,0.0038628578186035156,True,,BreastCancer,3,0.1,coherent,FastICA-deflation-cube
+0.7246285023315819,0.22200152919350052,0.09006142616271973,True,,BreastCancer,3,0.1,coherent,Picard-nonorthogonal
+0.7397698194464952,0.1750827294353916,0.005318164825439453,True,,BreastCancer,3,0.1,coherent,JADE
+0.6167511667936773,0.41117185465668815,0.0056400299072265625,True,,BreastCancer,3,0.1,coherent,SOBI
+0.6499335969336413,0.272955224266807,0.044052839279174805,True,,BreastCancer,3,0.2,coherent,Proposed IRLS-l12
+0.593538023215373,0.32162987364537277,0.04791069030761719,True,,BreastCancer,3,0.2,coherent,FastICA-exp
+0.6047707767497736,0.35637359326701923,0.005096435546875,True,,BreastCancer,3,0.2,coherent,FastICA-deflation-cube
+0.6496227097577262,0.2713005761177582,0.018776655197143555,True,,BreastCancer,3,0.2,coherent,Picard-nonorthogonal
+0.6228913566131841,0.31129483228282995,0.007208824157714844,True,,BreastCancer,3,0.2,coherent,JADE
+0.5869703821221651,0.38196254812248365,0.012116193771362305,True,,BreastCancer,3,0.2,coherent,SOBI
+0.3434700021416615,0.2494167959522242,0.09184813499450684,True,,BreastCancer,4,0.1,dense,Proposed IRLS-l12
+0.2736140380513783,0.4616454880214557,0.01603865623474121,True,,BreastCancer,4,0.1,dense,FastICA-exp
+0.31704846974862505,0.3305236687327831,0.0049190521240234375,True,,BreastCancer,4,0.1,dense,FastICA-deflation-cube
+0.3146944074117791,0.34289404277438773,0.028599023818969727,True,,BreastCancer,4,0.1,dense,Picard-nonorthogonal
+0.32977322196004033,0.3008804356464207,0.005865335464477539,True,,BreastCancer,4,0.1,dense,JADE
+0.250058915633362,0.48855644665315073,0.0063686370849609375,True,,BreastCancer,4,0.1,dense,SOBI
+0.27370197093418713,0.3237698442225021,0.04716682434082031,True,,BreastCancer,4,0.2,dense,Proposed IRLS-l12
+0.2514038984297539,0.37060594410700903,0.008854150772094727,True,,BreastCancer,4,0.2,dense,FastICA-exp
+0.23911729365569548,0.3608431580209991,0.010670185089111328,True,,BreastCancer,4,0.2,dense,FastICA-deflation-cube
+0.23611979276298972,0.36536420933948116,0.02196526527404785,True,,BreastCancer,4,0.2,dense,Picard-nonorthogonal
+0.23836304422287236,0.3514989628026646,0.005639553070068359,True,,BreastCancer,4,0.2,dense,JADE
+0.23781312162690646,0.41440529854683705,0.011080503463745117,True,,BreastCancer,4,0.2,dense,SOBI
+0.2873423922922691,0.26826954479271026,0.0516514778137207,True,,BreastCancer,4,0.1,single-channel,Proposed IRLS-l12
+0.24819360242460003,0.4055836475317559,0.005051374435424805,True,,BreastCancer,4,0.1,single-channel,FastICA-exp
+0.25093439923685107,0.4143847549735173,0.002656698226928711,True,,BreastCancer,4,0.1,single-channel,FastICA-deflation-cube
+0.2482470790654716,0.4081108106255419,0.02334880828857422,True,,BreastCancer,4,0.1,single-channel,Picard-nonorthogonal
+0.25103778173294683,0.4101676676054461,0.0040760040283203125,True,,BreastCancer,4,0.1,single-channel,JADE
+0.23560389007163854,0.42533190099187673,0.01639080047607422,True,,BreastCancer,4,0.1,single-channel,SOBI
+0.266880473707419,0.2747537837401488,0.04213404655456543,True,,BreastCancer,4,0.2,single-channel,Proposed IRLS-l12
+0.17131824599614887,0.4272391105490631,0.004038810729980469,True,,BreastCancer,4,0.2,single-channel,FastICA-exp
+0.17165873623231448,0.4203287096641441,0.002811908721923828,True,,BreastCancer,4,0.2,single-channel,FastICA-deflation-cube
+0.17089512359227094,0.4284426594688669,0.026323795318603516,True,,BreastCancer,4,0.2,single-channel,Picard-nonorthogonal
+0.1720613398603757,0.42638113668951777,0.003103017807006836,True,,BreastCancer,4,0.2,single-channel,JADE
+0.20016954020127145,0.463769021553016,0.010655641555786133,True,,BreastCancer,4,0.2,single-channel,SOBI
+0.6300461887231725,0.30503553055861266,0.05945277214050293,True,,BreastCancer,4,0.1,coherent,Proposed IRLS-l12
+0.6114455384778799,0.36309796292955676,0.03957986831665039,True,,BreastCancer,4,0.1,coherent,FastICA-exp
+0.6992186793032997,0.23063022242043973,0.0063250064849853516,True,,BreastCancer,4,0.1,coherent,FastICA-deflation-cube
+0.6966026131590896,0.2646597411909559,0.02269768714904785,True,,BreastCancer,4,0.1,coherent,Picard-nonorthogonal
+0.6953580056217589,0.2661334142601957,0.0038874149322509766,True,,BreastCancer,4,0.1,coherent,JADE
+0.6659067216081633,0.4083089610142131,0.006989240646362305,True,,BreastCancer,4,0.1,coherent,SOBI
+0.7188330186803844,0.23471748771445,0.034847259521484375,True,,BreastCancer,4,0.2,coherent,Proposed IRLS-l12
+0.7014671178733403,0.23176328973836774,0.005526065826416016,True,,BreastCancer,4,0.2,coherent,FastICA-exp
+0.7111543883041913,0.26317895873897046,0.0031235218048095703,True,,BreastCancer,4,0.2,coherent,FastICA-deflation-cube
+0.6265445585309679,0.3121420165010547,0.047760725021362305,True,,BreastCancer,4,0.2,coherent,Picard-nonorthogonal
+0.7095794427830329,0.26342527509027625,0.0059511661529541016,True,,BreastCancer,4,0.2,coherent,JADE
+0.6296325284327305,0.4683443853912884,0.011260032653808594,True,,BreastCancer,4,0.2,coherent,SOBI
+0.41232043644228594,0.19331690730160328,0.11781048774719238,True,,BreastCancer,5,0.1,dense,Proposed IRLS-l12
+0.3218428218865471,0.3492454761925505,0.003980875015258789,True,,BreastCancer,5,0.1,dense,FastICA-exp
+0.32430518435042605,0.40180488594790476,0.0059773921966552734,True,,BreastCancer,5,0.1,dense,FastICA-deflation-cube
+0.32905611187745587,0.31170425507759597,0.0364530086517334,True,,BreastCancer,5,0.1,dense,Picard-nonorthogonal
+0.32881613554891626,0.36378752393139435,0.007940292358398438,True,,BreastCancer,5,0.1,dense,JADE
+0.3219602231893727,0.31018960133881146,0.010684490203857422,True,,BreastCancer,5,0.1,dense,SOBI
+0.17476290862517288,0.29551294273647083,0.08962225914001465,True,,BreastCancer,5,0.2,dense,Proposed IRLS-l12
+0.1758810078931206,0.43874899068277173,0.008286237716674805,True,,BreastCancer,5,0.2,dense,FastICA-exp
+0.16889058199330034,0.4096204128704285,0.004241943359375,True,,BreastCancer,5,0.2,dense,FastICA-deflation-cube
+0.16774369416382537,0.39868386246684295,0.024394750595092773,True,,BreastCancer,5,0.2,dense,Picard-nonorthogonal
+0.17140536698502218,0.3937633404156959,0.0096282958984375,True,,BreastCancer,5,0.2,dense,JADE
+0.14380016731488948,0.4113832795815521,0.0071392059326171875,True,,BreastCancer,5,0.2,dense,SOBI
+0.2600897390598517,0.34879565314525773,0.05430960655212402,True,,BreastCancer,5,0.1,single-channel,Proposed IRLS-l12
+0.18018368918024336,0.4163559591884682,0.004866600036621094,True,,BreastCancer,5,0.1,single-channel,FastICA-exp
+0.19364110885335323,0.281474552000342,0.002673625946044922,True,,BreastCancer,5,0.1,single-channel,FastICA-deflation-cube
+0.1947206829167124,0.2806854234803738,0.020821809768676758,True,,BreastCancer,5,0.1,single-channel,Picard-nonorthogonal
+0.19543284308931014,0.2829832482880653,0.0045354366302490234,True,,BreastCancer,5,0.1,single-channel,JADE
+0.18126690683288127,0.3890271863129236,0.007402896881103516,True,,BreastCancer,5,0.1,single-channel,SOBI
+0.21125101942345456,0.3197534250039801,0.044971466064453125,True,,BreastCancer,5,0.2,single-channel,Proposed IRLS-l12
+0.25754924563590015,0.3651708926153564,0.002710103988647461,True,,BreastCancer,5,0.2,single-channel,FastICA-exp
+0.25550177609038915,0.39562616947439205,0.0025572776794433594,True,,BreastCancer,5,0.2,single-channel,FastICA-deflation-cube
+0.2537776810769413,0.39140537195831376,0.013194561004638672,True,,BreastCancer,5,0.2,single-channel,Picard-nonorthogonal
+0.252791784463954,0.3899499781560754,0.00426030158996582,True,,BreastCancer,5,0.2,single-channel,JADE
+0.25093180691664524,0.3962033215105718,0.006678342819213867,True,,BreastCancer,5,0.2,single-channel,SOBI
+0.6515371828134662,0.33998188383082767,0.04647016525268555,True,,BreastCancer,5,0.1,coherent,Proposed IRLS-l12
+0.6517095077414009,0.29069504058027756,0.0036613941192626953,True,,BreastCancer,5,0.1,coherent,FastICA-exp
+0.7321740406154233,0.2277512080368725,0.003542184829711914,True,,BreastCancer,5,0.1,coherent,FastICA-deflation-cube
+0.7568289405089912,0.18859132097256923,0.028237581253051758,True,,BreastCancer,5,0.1,coherent,Picard-nonorthogonal
+0.747498101091985,0.1995104271401538,0.004033565521240234,True,,BreastCancer,5,0.1,coherent,JADE
+0.5605407549239511,0.4072520267212269,0.004945516586303711,True,,BreastCancer,5,0.1,coherent,SOBI
+0.5443870109657953,0.4657969600501669,0.0754251480102539,True,,BreastCancer,5,0.2,coherent,Proposed IRLS-l12
+0.5990854457383461,0.3989201226027389,0.003616809844970703,True,,BreastCancer,5,0.2,coherent,FastICA-exp
+0.6484712967561691,0.28580016663887603,0.02124333381652832,True,,BreastCancer,5,0.2,coherent,FastICA-deflation-cube
+0.5745859177964449,0.39712628805277583,0.025955915451049805,True,,BreastCancer,5,0.2,coherent,Picard-nonorthogonal
+0.7426263741122489,0.20300314018814386,0.004397392272949219,True,,BreastCancer,5,0.2,coherent,JADE
+0.6496118992849655,0.3728716690842487,0.009361505508422852,True,,BreastCancer,5,0.2,coherent,SOBI
+0.28986070511110695,0.3361998040057309,0.0673210620880127,True,,BreastCancer,6,0.1,dense,Proposed IRLS-l12
+0.23147506602295223,0.39093047689227267,0.006661653518676758,True,,BreastCancer,6,0.1,dense,FastICA-exp
+0.22928517944797785,0.39143066607287896,0.0048100948333740234,True,,BreastCancer,6,0.1,dense,FastICA-deflation-cube
+0.22992802107913807,0.38119075860887003,0.026765108108520508,True,,BreastCancer,6,0.1,dense,Picard-nonorthogonal
+0.23159470865210702,0.41297820399533547,0.00473475456237793,True,,BreastCancer,6,0.1,dense,JADE
+0.2913748134920698,0.3544704525814354,0.005968332290649414,True,,BreastCancer,6,0.1,dense,SOBI
+0.2037516955023584,0.21403999364337536,0.09459042549133301,True,,BreastCancer,6,0.2,dense,Proposed IRLS-l12
+0.18037573596786838,0.41484669431998206,0.007079362869262695,True,,BreastCancer,6,0.2,dense,FastICA-exp
+0.18508111788216114,0.4426988060236008,0.006920337677001953,True,,BreastCancer,6,0.2,dense,FastICA-deflation-cube
+0.1814888195764531,0.41611787302692066,0.02245354652404785,True,,BreastCancer,6,0.2,dense,Picard-nonorthogonal
+0.18179625862839743,0.42508237319602127,0.005294084548950195,True,,BreastCancer,6,0.2,dense,JADE
+0.20440888760448503,0.48637002919729183,0.017320632934570312,True,,BreastCancer,6,0.2,dense,SOBI
+0.39155962755151064,0.2286892929367661,0.06208682060241699,True,,BreastCancer,6,0.1,single-channel,Proposed IRLS-l12
+0.2316346061244102,0.4067701638319142,0.008162736892700195,True,,BreastCancer,6,0.1,single-channel,FastICA-exp
+0.23334158620948392,0.42967388113035143,0.004088640213012695,True,,BreastCancer,6,0.1,single-channel,FastICA-deflation-cube
+0.23137047330638522,0.41597978754374426,0.018651723861694336,True,,BreastCancer,6,0.1,single-channel,Picard-nonorthogonal
+0.2343863452965543,0.419682195701742,0.0035512447357177734,True,,BreastCancer,6,0.1,single-channel,JADE
+0.23691936815224604,0.37271985709422273,0.00818181037902832,True,,BreastCancer,6,0.1,single-channel,SOBI
+0.20833558121288265,0.3898625998229342,0.039299964904785156,True,,BreastCancer,6,0.2,single-channel,Proposed IRLS-l12
+0.2001205667168419,0.3174812896137519,0.005457639694213867,True,,BreastCancer,6,0.2,single-channel,FastICA-exp
+0.2004413699534789,0.36282638391708755,0.0028607845306396484,True,,BreastCancer,6,0.2,single-channel,FastICA-deflation-cube
+0.20114631101502103,0.3632168180636148,0.022601842880249023,True,,BreastCancer,6,0.2,single-channel,Picard-nonorthogonal
+0.20144043456261634,0.3623024244607024,0.005827903747558594,True,,BreastCancer,6,0.2,single-channel,JADE
+0.18183391550023745,0.39566573634740576,0.008201360702514648,True,,BreastCancer,6,0.2,single-channel,SOBI
+0.6830435005048355,0.23723704419570485,0.10211658477783203,True,,BreastCancer,6,0.1,coherent,Proposed IRLS-l12
+0.6744563572530198,0.24794124559940983,0.04449748992919922,True,,BreastCancer,6,0.1,coherent,FastICA-exp
+0.6551434999288771,0.2583048016997929,0.003988981246948242,True,,BreastCancer,6,0.1,coherent,FastICA-deflation-cube
+0.5832527878718812,0.29734420827156305,0.1111748218536377,True,,BreastCancer,6,0.1,coherent,Picard-nonorthogonal
+0.6720388604871108,0.25369939108978884,0.004140615463256836,True,,BreastCancer,6,0.1,coherent,JADE
+0.6349579413270346,0.4615252903790107,0.010021686553955078,True,,BreastCancer,6,0.1,coherent,SOBI
+0.6138321979125283,0.34578912353418756,0.0517880916595459,True,,BreastCancer,6,0.2,coherent,Proposed IRLS-l12
+0.6663123383512882,0.2909932973556619,0.04161882400512695,True,,BreastCancer,6,0.2,coherent,FastICA-exp
+0.6964631870049803,0.2697351184507499,0.0045623779296875,True,,BreastCancer,6,0.2,coherent,FastICA-deflation-cube
+0.6551016579632952,0.2991594583726062,0.03037238121032715,True,,BreastCancer,6,0.2,coherent,Picard-nonorthogonal
+0.7419715347091891,0.23773804833555118,0.004634380340576172,True,,BreastCancer,6,0.2,coherent,JADE
+0.6841233136865318,0.3449685136123979,0.017922639846801758,True,,BreastCancer,6,0.2,coherent,SOBI
+0.20269171848815612,0.3791057288283799,0.12508630752563477,True,,BreastCancer,7,0.1,dense,Proposed IRLS-l12
+0.19864272489034634,0.37418999177057294,0.007206439971923828,True,,BreastCancer,7,0.1,dense,FastICA-exp
+0.2419892330131545,0.38334043443757265,0.004042387008666992,True,,BreastCancer,7,0.1,dense,FastICA-deflation-cube
+0.23334898551158495,0.4186596381936457,0.03042745590209961,True,,BreastCancer,7,0.1,dense,Picard-nonorthogonal
+0.24143446676083052,0.40831451411770514,0.0068857669830322266,True,,BreastCancer,7,0.1,dense,JADE
+0.20933315819053805,0.3750456009388226,0.005663156509399414,True,,BreastCancer,7,0.1,dense,SOBI
+0.18873384036357052,0.43666982098138823,0.07492733001708984,True,,BreastCancer,7,0.2,dense,Proposed IRLS-l12
+0.24317343684362877,0.37353231949795085,0.00630950927734375,True,,BreastCancer,7,0.2,dense,FastICA-exp
+0.23589999996799546,0.4083837582216086,0.005313396453857422,True,,BreastCancer,7,0.2,dense,FastICA-deflation-cube
+0.23356725867424757,0.39818823018172717,0.01910996437072754,True,,BreastCancer,7,0.2,dense,Picard-nonorthogonal
+0.21707296849263624,0.4328198915688784,0.008275508880615234,True,,BreastCancer,7,0.2,dense,JADE
+0.2030668353893581,0.39266420251913686,0.010659456253051758,True,,BreastCancer,7,0.2,dense,SOBI
+0.2790041988331456,0.49143452950728206,0.06258940696716309,True,,BreastCancer,7,0.1,single-channel,Proposed IRLS-l12
+0.3106110423365105,0.30187390229185224,0.0041882991790771484,True,,BreastCancer,7,0.1,single-channel,FastICA-exp
+0.2795879299346045,0.3862773717003,0.002755403518676758,True,,BreastCancer,7,0.1,single-channel,FastICA-deflation-cube
+0.2791148342918298,0.3972998215466666,0.020823001861572266,True,,BreastCancer,7,0.1,single-channel,Picard-nonorthogonal
+0.2799658335185445,0.40067853322635677,0.004927635192871094,True,,BreastCancer,7,0.1,single-channel,JADE
+0.3125736516565215,0.43761381849475,0.007332324981689453,True,,BreastCancer,7,0.1,single-channel,SOBI
+0.19553283237945318,0.42422820983850384,0.035636186599731445,True,,BreastCancer,7,0.2,single-channel,Proposed IRLS-l12
+0.21032342586113534,0.35412739681218186,0.004566192626953125,True,,BreastCancer,7,0.2,single-channel,FastICA-exp
+0.20892771940127472,0.3546118975248639,0.003213644027709961,True,,BreastCancer,7,0.2,single-channel,FastICA-deflation-cube
+0.2098178137766777,0.3548451708238251,0.016633033752441406,True,,BreastCancer,7,0.2,single-channel,Picard-nonorthogonal
+0.21017654432935307,0.3548600108393671,0.0030956268310546875,True,,BreastCancer,7,0.2,single-channel,JADE
+0.20403055345242263,0.37400164498309735,0.012556076049804688,True,,BreastCancer,7,0.2,single-channel,SOBI
+0.6340690386199197,0.3291417810195021,0.07865142822265625,True,,BreastCancer,7,0.1,coherent,Proposed IRLS-l12
+0.7323933166688568,0.24591256373957565,0.056046247482299805,True,,BreastCancer,7,0.1,coherent,FastICA-exp
+0.7844508159578651,0.15328073085465097,0.005352973937988281,True,,BreastCancer,7,0.1,coherent,FastICA-deflation-cube
+0.7729092897682126,0.1758064062918196,0.04643893241882324,True,,BreastCancer,7,0.1,coherent,Picard-nonorthogonal
+0.7799716265170183,0.16293838247475984,0.006241798400878906,True,,BreastCancer,7,0.1,coherent,JADE
+0.6384212578642506,0.397768201971146,0.006150722503662109,True,,BreastCancer,7,0.1,coherent,SOBI
+0.5533996501488538,0.4540342804732743,0.0854647159576416,True,,BreastCancer,7,0.2,coherent,Proposed IRLS-l12
+0.584052043731892,0.43522360062357324,0.03968620300292969,True,,BreastCancer,7,0.2,coherent,FastICA-exp
+0.6430351832396084,0.3472335755876847,0.020529747009277344,True,,BreastCancer,7,0.2,coherent,FastICA-deflation-cube
+0.6321388623928123,0.3268370224839008,0.02927708625793457,True,,BreastCancer,7,0.2,coherent,Picard-nonorthogonal
+0.652501899745488,0.28991448308679557,0.005358457565307617,True,,BreastCancer,7,0.2,coherent,JADE
+0.5394320021589696,0.5396164753138577,0.010999917984008789,True,,BreastCancer,7,0.2,coherent,SOBI
+0.2921525063702791,0.4780333343750243,0.08143281936645508,True,,BreastCancer,8,0.1,dense,Proposed IRLS-l12
+0.21462724078414525,0.3964152254515857,0.0082855224609375,True,,BreastCancer,8,0.1,dense,FastICA-exp
+0.21182518708214162,0.42452048842065826,0.007011890411376953,True,,BreastCancer,8,0.1,dense,FastICA-deflation-cube
+0.2185640727386417,0.47568081045106325,0.027130842208862305,True,,BreastCancer,8,0.1,dense,Picard-nonorthogonal
+0.22451946856305421,0.3607512854520703,0.010920524597167969,True,,BreastCancer,8,0.1,dense,JADE
+0.23315417911428998,0.43176681084955115,0.006692171096801758,True,,BreastCancer,8,0.1,dense,SOBI
+0.17326040707316004,0.2162982022021139,0.04834890365600586,True,,BreastCancer,8,0.2,dense,Proposed IRLS-l12
+0.1603181801259929,0.4175899198249516,0.006560087203979492,True,,BreastCancer,8,0.2,dense,FastICA-exp
+0.16976326188261887,0.3993560530131176,0.0057184696197509766,True,,BreastCancer,8,0.2,dense,FastICA-deflation-cube
+0.17347339359246394,0.4029188558949621,0.03405404090881348,True,,BreastCancer,8,0.2,dense,Picard-nonorthogonal
+0.17000179401536197,0.3714597039641389,0.008458852767944336,True,,BreastCancer,8,0.2,dense,JADE
+0.16386289879456775,0.4204099279157715,0.005288839340209961,True,,BreastCancer,8,0.2,dense,SOBI
+0.32824990187175046,0.22210892089741022,0.04074883460998535,True,,BreastCancer,8,0.1,single-channel,Proposed IRLS-l12
+0.2544396289600056,0.3634019383297201,0.003731250762939453,True,,BreastCancer,8,0.1,single-channel,FastICA-exp
+0.26361945996102193,0.42808472553596283,0.002648591995239258,True,,BreastCancer,8,0.1,single-channel,FastICA-deflation-cube
+0.26022183663371795,0.425651126822986,0.03417181968688965,True,,BreastCancer,8,0.1,single-channel,Picard-nonorthogonal
+0.2615529554565274,0.4239942943035498,0.003370523452758789,True,,BreastCancer,8,0.1,single-channel,JADE
+0.2555539349975823,0.31290024749932266,0.007475376129150391,True,,BreastCancer,8,0.1,single-channel,SOBI
+0.21120575873260367,0.38206200611138846,0.0631871223449707,True,,BreastCancer,8,0.2,single-channel,Proposed IRLS-l12
+0.20376476190615816,0.42019870103167933,0.005406379699707031,True,,BreastCancer,8,0.2,single-channel,FastICA-exp
+0.20308941680193807,0.4218903208125848,0.0029642581939697266,True,,BreastCancer,8,0.2,single-channel,FastICA-deflation-cube
+0.20351364632345628,0.4291839964147394,0.017426490783691406,True,,BreastCancer,8,0.2,single-channel,Picard-nonorthogonal
+0.20334544903000604,0.42240427418122,0.0029702186584472656,True,,BreastCancer,8,0.2,single-channel,JADE
+0.21051176425328655,0.42623674842600484,0.01036691665649414,True,,BreastCancer,8,0.2,single-channel,SOBI
+0.5857415509149255,0.41660621616446286,0.05767965316772461,True,,BreastCancer,8,0.1,coherent,Proposed IRLS-l12
+0.6871861050201683,0.31505257248801993,0.04058074951171875,True,,BreastCancer,8,0.1,coherent,FastICA-exp
+0.70044763467083,0.24362286446682865,0.02147531509399414,True,,BreastCancer,8,0.1,coherent,FastICA-deflation-cube
+0.6638413314079837,0.25304401761967277,0.01844000816345215,True,,BreastCancer,8,0.1,coherent,Picard-nonorthogonal
+0.705846554654368,0.2592809665646613,0.003945112228393555,True,,BreastCancer,8,0.1,coherent,JADE
+0.6016242491982612,0.4461026704377592,0.007489919662475586,True,,BreastCancer,8,0.1,coherent,SOBI
+0.5771063033282225,0.3722346608366346,0.03849911689758301,True,,BreastCancer,8,0.2,coherent,Proposed IRLS-l12
+0.6590553337015673,0.2760866610665583,0.04018115997314453,True,,BreastCancer,8,0.2,coherent,FastICA-exp
+0.655728760119004,0.2803666467594312,0.004797220230102539,True,,BreastCancer,8,0.2,coherent,FastICA-deflation-cube
+0.6643088469756926,0.30880928721389705,0.04781985282897949,True,,BreastCancer,8,0.2,coherent,Picard-nonorthogonal
+0.6644964968660936,0.2637731211608006,0.007479429244995117,True,,BreastCancer,8,0.2,coherent,JADE
+0.5640229390992126,0.5268020922564276,0.011370420455932617,True,,BreastCancer,8,0.2,coherent,SOBI
+0.24436697438817415,0.329476727718727,0.27498412132263184,True,,BreastCancer,9,0.1,dense,Proposed IRLS-l12
+0.27020224031682594,0.3867477910335307,0.009877204895019531,True,,BreastCancer,9,0.1,dense,FastICA-exp
+0.2290696695730304,0.3981069262598543,0.006020784378051758,True,,BreastCancer,9,0.1,dense,FastICA-deflation-cube
+0.2334830383446846,0.3753727907984473,0.017392635345458984,True,,BreastCancer,9,0.1,dense,Picard-nonorthogonal
+0.22833092026468624,0.4396544757078786,0.00766444206237793,True,,BreastCancer,9,0.1,dense,JADE
+0.23553197802073528,0.47392858096158913,0.010542869567871094,True,,BreastCancer,9,0.1,dense,SOBI
+0.18083648420704548,0.21678588793086942,0.04037928581237793,True,,BreastCancer,9,0.2,dense,Proposed IRLS-l12
+0.20076438142816527,0.5255978489780435,0.008826732635498047,True,,BreastCancer,9,0.2,dense,FastICA-exp
+0.20145605478772946,0.497466707908705,0.006861448287963867,True,,BreastCancer,9,0.2,dense,FastICA-deflation-cube
+0.19987738804605135,0.5023684208633945,0.028269290924072266,True,,BreastCancer,9,0.2,dense,Picard-nonorthogonal
+0.18364920361098508,0.48356733716683403,0.012257099151611328,True,,BreastCancer,9,0.2,dense,JADE
+0.19735330941287138,0.3737715601639615,0.00583338737487793,True,,BreastCancer,9,0.2,dense,SOBI
+0.2588125323645695,0.20439077463399985,0.046571969985961914,True,,BreastCancer,9,0.1,single-channel,Proposed IRLS-l12
+0.20374485514934032,0.40983476446899625,0.005567789077758789,True,,BreastCancer,9,0.1,single-channel,FastICA-exp
+0.20248192202668397,0.3621485920266267,0.0026655197143554688,True,,BreastCancer,9,0.1,single-channel,FastICA-deflation-cube
+0.2039704741248244,0.36047953221387835,0.025132417678833008,True,,BreastCancer,9,0.1,single-channel,Picard-nonorthogonal
+0.20464117906921736,0.35982618515845033,0.0035698413848876953,True,,BreastCancer,9,0.1,single-channel,JADE
+0.22583143094695252,0.321705611457271,0.00518345832824707,True,,BreastCancer,9,0.1,single-channel,SOBI
+0.24814753158800604,0.32510019719296457,0.3207728862762451,True,,BreastCancer,9,0.2,single-channel,Proposed IRLS-l12
+0.22698493434993,0.3596558407895749,0.0035233497619628906,True,,BreastCancer,9,0.2,single-channel,FastICA-exp
+0.22619734714436737,0.363312900563777,0.0028994083404541016,True,,BreastCancer,9,0.2,single-channel,FastICA-deflation-cube
+0.2269968016512797,0.36184203504129275,0.01620173454284668,True,,BreastCancer,9,0.2,single-channel,Picard-nonorthogonal
+0.22718767007786989,0.36252394116406267,0.003293275833129883,True,,BreastCancer,9,0.2,single-channel,JADE
+0.21760797897491263,0.3713469679363395,0.007159709930419922,True,,BreastCancer,9,0.2,single-channel,SOBI
+0.641993667342604,0.333548758280384,0.0415494441986084,True,,BreastCancer,9,0.1,coherent,Proposed IRLS-l12
+0.67242677933539,0.2805122697282676,0.0029675960540771484,True,,BreastCancer,9,0.1,coherent,FastICA-exp
+0.7774583832052484,0.23772515319090065,0.0035598278045654297,True,,BreastCancer,9,0.1,coherent,FastICA-deflation-cube
+0.6607132296840985,0.27444958604538366,0.024487972259521484,True,,BreastCancer,9,0.1,coherent,Picard-nonorthogonal
+0.7824482840234019,0.20138037512450652,0.004370450973510742,True,,BreastCancer,9,0.1,coherent,JADE
+0.6531358712002774,0.42682304077431094,0.0062906742095947266,True,,BreastCancer,9,0.1,coherent,SOBI
+0.62600449214509,0.31380445507183186,0.060308218002319336,True,,BreastCancer,9,0.2,coherent,Proposed IRLS-l12
+0.7391983730240842,0.1466456454120967,0.040982723236083984,True,,BreastCancer,9,0.2,coherent,FastICA-exp
+0.7566456658415659,0.14169362850602335,0.020760774612426758,True,,BreastCancer,9,0.2,coherent,FastICA-deflation-cube
+0.7563760167554879,0.12085303902413858,0.025332212448120117,True,,BreastCancer,9,0.2,coherent,Picard-nonorthogonal
+0.759091410274201,0.14363607613679213,0.0043070316314697266,True,,BreastCancer,9,0.2,coherent,JADE
+0.5672764334683136,0.5357984985128048,0.010388374328613281,True,,BreastCancer,9,0.2,coherent,SOBI
+0.2580213008927651,0.2475305892679514,0.09064626693725586,True,,Diabetes,0,0.1,dense,Proposed IRLS-l12
+0.22499580498937935,0.40531113067285174,0.015563011169433594,True,,Diabetes,0,0.1,dense,FastICA-exp
+0.22725728364640782,0.4603053235093079,0.006962299346923828,True,,Diabetes,0,0.1,dense,FastICA-deflation-cube
+0.20599725465399002,0.36345552389754987,0.03484177589416504,True,,Diabetes,0,0.1,dense,Picard-nonorthogonal
+0.23396419199738716,0.5287555525966032,0.014885425567626953,True,,Diabetes,0,0.1,dense,JADE
+0.22666956189465837,0.47360322250876197,0.013732194900512695,True,,Diabetes,0,0.1,dense,SOBI
+0.17050594685354645,0.40113847924759927,0.04208970069885254,True,,Diabetes,0,0.2,dense,Proposed IRLS-l12
+0.22017139010830689,0.27431245153589334,0.011205911636352539,True,,Diabetes,0,0.2,dense,FastICA-exp
+0.22880696080195104,0.5123053771286166,0.0044100284576416016,True,,Diabetes,0,0.2,dense,FastICA-deflation-cube
+0.22533923512136775,0.4550920745624927,0.03736090660095215,True,,Diabetes,0,0.2,dense,Picard-nonorthogonal
+0.22430064216720597,0.44564219510482284,0.0054972171783447266,True,,Diabetes,0,0.2,dense,JADE
+0.21483515678091675,0.5459947163366715,0.021567106246948242,True,,Diabetes,0,0.2,dense,SOBI
+0.24848917689317726,0.3113315572953401,0.16046380996704102,True,,Diabetes,0,0.1,single-channel,Proposed IRLS-l12
+0.22428669988866287,0.30899810479633194,0.006650447845458984,True,,Diabetes,0,0.1,single-channel,FastICA-exp
+0.2267863091638514,0.33986565537643904,0.0027747154235839844,True,,Diabetes,0,0.1,single-channel,FastICA-deflation-cube
+0.22942743066206878,0.33962563625932196,0.022527456283569336,True,,Diabetes,0,0.1,single-channel,Picard-nonorthogonal
+0.2295106993499835,0.34130060840465315,0.003031015396118164,True,,Diabetes,0,0.1,single-channel,JADE
+0.23738918289171457,0.4230995234482098,0.007600545883178711,True,,Diabetes,0,0.1,single-channel,SOBI
+0.19504709896565314,0.22423581254403685,0.12763452529907227,True,,Diabetes,0,0.2,single-channel,Proposed IRLS-l12
+0.1746768132858831,0.4048285807227292,0.00424504280090332,True,,Diabetes,0,0.2,single-channel,FastICA-exp
+0.1787127877612308,0.4133415640988982,0.00299072265625,True,,Diabetes,0,0.2,single-channel,FastICA-deflation-cube
+0.1746147620673847,0.4068428835429504,0.013109207153320312,True,,Diabetes,0,0.2,single-channel,Picard-nonorthogonal
+0.174705069167239,0.4083528010066839,0.003446340560913086,True,,Diabetes,0,0.2,single-channel,JADE
+0.1449303351004311,0.4320579039642755,0.008932352066040039,True,,Diabetes,0,0.2,single-channel,SOBI
+0.634914009249497,0.30585682170134876,0.0740816593170166,True,,Diabetes,0,0.1,coherent,Proposed IRLS-l12
+0.5350278352788224,0.4037400442540623,0.04868721961975098,True,,Diabetes,0,0.1,coherent,FastICA-exp
+0.6254963253977832,0.334189885131713,0.011630773544311523,True,,Diabetes,0,0.1,coherent,FastICA-deflation-cube
+0.596627972389041,0.3583691577532284,0.10266590118408203,True,,Diabetes,0,0.1,coherent,Picard-nonorthogonal
+0.6338208601821755,0.3119425596619333,0.007345676422119141,True,,Diabetes,0,0.1,coherent,JADE
+0.5449153246008682,0.40737668351655076,0.008272409439086914,True,,Diabetes,0,0.1,coherent,SOBI
+0.5404989320285535,0.41651507646511216,0.05082368850708008,True,,Diabetes,0,0.2,coherent,Proposed IRLS-l12
+0.5659815654300154,0.4206101902150259,0.043567657470703125,True,,Diabetes,0,0.2,coherent,FastICA-exp
+0.5548654816776409,0.43250032094447083,0.005636692047119141,True,,Diabetes,0,0.2,coherent,FastICA-deflation-cube
+0.5996430005391055,0.36902414961113383,0.025255203247070312,True,,Diabetes,0,0.2,coherent,Picard-nonorthogonal
+0.6353918616477505,0.29042435114995147,0.0047452449798583984,True,,Diabetes,0,0.2,coherent,JADE
+0.565326605803376,0.4155222450826881,0.0077381134033203125,True,,Diabetes,0,0.2,coherent,SOBI
+0.32581540838357165,0.272343688218004,0.04761958122253418,True,,Diabetes,1,0.1,dense,Proposed IRLS-l12
+0.2663366768573273,0.36814042205248537,0.008493900299072266,True,,Diabetes,1,0.1,dense,FastICA-exp
+0.24371996276090396,0.4175317565293578,0.006574869155883789,True,,Diabetes,1,0.1,dense,FastICA-deflation-cube
+0.24775619720759412,0.36706632975344283,0.032332658767700195,True,,Diabetes,1,0.1,dense,Picard-nonorthogonal
+0.2671142261148467,0.40022100871264266,0.0066106319427490234,True,,Diabetes,1,0.1,dense,JADE
+0.26350556269765885,0.4296238310004421,0.006487131118774414,True,,Diabetes,1,0.1,dense,SOBI
+0.17147234343668538,0.21124148616375943,0.1576063632965088,True,,Diabetes,1,0.2,dense,Proposed IRLS-l12
+0.17100864100988353,0.498402065288602,0.02476644515991211,True,,Diabetes,1,0.2,dense,FastICA-exp
+0.16721038128715074,0.3782746805080272,0.004010200500488281,True,,Diabetes,1,0.2,dense,FastICA-deflation-cube
+0.16708812358158584,0.4335890459633454,0.04946136474609375,True,,Diabetes,1,0.2,dense,Picard-nonorthogonal
+0.1765516080511256,0.36987625817590575,0.0051763057708740234,True,,Diabetes,1,0.2,dense,JADE
+0.15436478333508868,0.5144415292123226,0.00736236572265625,True,,Diabetes,1,0.2,dense,SOBI
+0.24397065243822036,0.37307516790094,0.056984663009643555,True,,Diabetes,1,0.1,single-channel,Proposed IRLS-l12
+0.21252667820886048,0.49846605247204856,0.005654811859130859,True,,Diabetes,1,0.1,single-channel,FastICA-exp
+0.22441953877055046,0.45428599318669083,0.0031251907348632812,True,,Diabetes,1,0.1,single-channel,FastICA-deflation-cube
+0.22218684202580832,0.4531946324769939,0.029733657836914062,True,,Diabetes,1,0.1,single-channel,Picard-nonorthogonal
+0.22168067565071156,0.4549689227150758,0.004679679870605469,True,,Diabetes,1,0.1,single-channel,JADE
+0.2563203751179297,0.43112619791779216,0.007437705993652344,True,,Diabetes,1,0.1,single-channel,SOBI
+0.17434212491352863,0.4024919590803462,0.04574108123779297,True,,Diabetes,1,0.2,single-channel,Proposed IRLS-l12
+0.18849700621236887,0.430647716442022,0.004869699478149414,True,,Diabetes,1,0.2,single-channel,FastICA-exp
+0.18862143233767928,0.43205881543370983,0.002781391143798828,True,,Diabetes,1,0.2,single-channel,FastICA-deflation-cube
+0.18831350253363968,0.43246986853369185,0.011473417282104492,True,,Diabetes,1,0.2,single-channel,Picard-nonorthogonal
+0.18828028181381498,0.42656830368898857,0.0029320716857910156,True,,Diabetes,1,0.2,single-channel,JADE
+0.19394790936186124,0.4529593235670061,0.009898185729980469,True,,Diabetes,1,0.2,single-channel,SOBI
+0.6765721348947084,0.29197818056630703,0.06687784194946289,True,,Diabetes,1,0.1,coherent,Proposed IRLS-l12
+0.7147205998547791,0.26097600489606865,0.008550643920898438,True,,Diabetes,1,0.1,coherent,FastICA-exp
+0.6310321254449136,0.36405729341820126,0.01048421859741211,True,,Diabetes,1,0.1,coherent,FastICA-deflation-cube
+0.6343712752232229,0.30323100000653813,0.09379220008850098,True,,Diabetes,1,0.1,coherent,Picard-nonorthogonal
+0.6763966590002166,0.2790049954042463,0.003913164138793945,True,,Diabetes,1,0.1,coherent,JADE
+0.5863160911378398,0.40233247899099417,0.05256175994873047,True,,Diabetes,1,0.1,coherent,SOBI
+0.6422139848176105,0.2962193574119694,0.055068016052246094,True,,Diabetes,1,0.2,coherent,Proposed IRLS-l12
+0.6500875323557832,0.27880176604952267,0.04199576377868652,True,,Diabetes,1,0.2,coherent,FastICA-exp
+0.6003331112892962,0.38455480966470607,0.028012752532958984,True,,Diabetes,1,0.2,coherent,FastICA-deflation-cube
+0.6803476620091264,0.21209595648835683,0.05021524429321289,True,,Diabetes,1,0.2,coherent,Picard-nonorthogonal
+0.5823550751403154,0.4024082040213626,0.009498119354248047,True,,Diabetes,1,0.2,coherent,JADE
+0.5652439643796516,0.47160486053754463,0.016942977905273438,True,,Diabetes,1,0.2,coherent,SOBI
+0.37162929271921474,0.2998965872366518,0.08369183540344238,True,,Diabetes,2,0.1,dense,Proposed IRLS-l12
+0.23422366304206693,0.41534360170192863,0.004987239837646484,True,,Diabetes,2,0.1,dense,FastICA-exp
+0.23934174017031906,0.43097778556860283,0.005698442459106445,True,,Diabetes,2,0.1,dense,FastICA-deflation-cube
+0.2473333361747362,0.4975584881790452,0.030173540115356445,True,,Diabetes,2,0.1,dense,Picard-nonorthogonal
+0.2581289286108557,0.512556507084061,0.005562543869018555,True,,Diabetes,2,0.1,dense,JADE
+0.24609212906209038,0.40425287006102045,0.012902021408081055,True,,Diabetes,2,0.1,dense,SOBI
+0.1980281307920886,0.3449826239011524,0.10330343246459961,True,,Diabetes,2,0.2,dense,Proposed IRLS-l12
+0.2064433512904217,0.4658688356738977,0.015222311019897461,True,,Diabetes,2,0.2,dense,FastICA-exp
+0.19819604182838038,0.5042468322707188,0.009314298629760742,True,,Diabetes,2,0.2,dense,FastICA-deflation-cube
+0.2109425058978876,0.4048289668249206,0.028426647186279297,True,,Diabetes,2,0.2,dense,Picard-nonorthogonal
+0.2047469110203663,0.5192599462229459,0.00601649284362793,True,,Diabetes,2,0.2,dense,JADE
+0.20052995114003264,0.42629679281540767,0.0054552555084228516,True,,Diabetes,2,0.2,dense,SOBI
+0.26648824949642885,0.31118056941538635,0.14027857780456543,True,,Diabetes,2,0.1,single-channel,Proposed IRLS-l12
+0.2532847031744916,0.3858250209944085,0.007509708404541016,True,,Diabetes,2,0.1,single-channel,FastICA-exp
+0.27486075783190883,0.33749004677785727,0.002608776092529297,True,,Diabetes,2,0.1,single-channel,FastICA-deflation-cube
+0.2751313269894256,0.35077016128961097,0.017057418823242188,True,,Diabetes,2,0.1,single-channel,Picard-nonorthogonal
+0.27396495650437513,0.3498119584718134,0.0034067630767822266,True,,Diabetes,2,0.1,single-channel,JADE
+0.27382919422197505,0.28542473337192503,0.00993967056274414,True,,Diabetes,2,0.1,single-channel,SOBI
+0.18551748858989875,0.3573395974602342,0.03895759582519531,True,,Diabetes,2,0.2,single-channel,Proposed IRLS-l12
+0.14725560566268509,0.3959226939554006,0.005368947982788086,True,,Diabetes,2,0.2,single-channel,FastICA-exp
+0.14548941369281043,0.39908936676800943,0.002886533737182617,True,,Diabetes,2,0.2,single-channel,FastICA-deflation-cube
+0.14706383244247606,0.3985302907767633,0.013358831405639648,True,,Diabetes,2,0.2,single-channel,Picard-nonorthogonal
+0.14660538973943854,0.396166397444805,0.0037975311279296875,True,,Diabetes,2,0.2,single-channel,JADE
+0.16353850128989839,0.4857197549165589,0.007398128509521484,True,,Diabetes,2,0.2,single-channel,SOBI
+0.5750293453281087,0.33643510195619875,0.05709099769592285,True,,Diabetes,2,0.1,coherent,Proposed IRLS-l12
+0.649384802136585,0.28503061292299303,0.041259050369262695,True,,Diabetes,2,0.1,coherent,FastICA-exp
+0.5829111647424321,0.40249814316553634,0.04472970962524414,True,,Diabetes,2,0.1,coherent,FastICA-deflation-cube
+0.5540926846293857,0.3970171103738923,0.045246124267578125,True,,Diabetes,2,0.1,coherent,Picard-nonorthogonal
+0.6438654079103614,0.2901323723469975,0.005558013916015625,True,,Diabetes,2,0.1,coherent,JADE
+0.5887701305375097,0.49372402436849416,0.00827336311340332,True,,Diabetes,2,0.1,coherent,SOBI
+0.661596590635627,0.2909368089214978,0.08312773704528809,True,,Diabetes,2,0.2,coherent,Proposed IRLS-l12
+0.6570077577745679,0.29416165119135673,0.002760648727416992,True,,Diabetes,2,0.2,coherent,FastICA-exp
+0.6944999012565922,0.24223367905265264,0.023212432861328125,True,,Diabetes,2,0.2,coherent,FastICA-deflation-cube
+0.6567308788959372,0.2958862665682772,0.05016589164733887,True,,Diabetes,2,0.2,coherent,Picard-nonorthogonal
+0.6372816289344677,0.27409608164106636,0.0056972503662109375,True,,Diabetes,2,0.2,coherent,JADE
+0.6422734561898725,0.39656684289604405,0.005925178527832031,True,,Diabetes,2,0.2,coherent,SOBI
+0.29348493162857964,0.29596829870117436,0.11605024337768555,True,,Diabetes,3,0.1,dense,Proposed IRLS-l12
+0.2616741287442962,0.43409025959658304,0.008369922637939453,True,,Diabetes,3,0.1,dense,FastICA-exp
+0.28711506371011447,0.21426819297948274,0.004826784133911133,True,,Diabetes,3,0.1,dense,FastICA-deflation-cube
+0.29137537995914187,0.21886914572971872,0.020606517791748047,True,,Diabetes,3,0.1,dense,Picard-nonorthogonal
+0.2911924901394872,0.20948922242723328,0.008190393447875977,True,,Diabetes,3,0.1,dense,JADE
+0.21640562362195914,0.35768200171478576,0.011998414993286133,True,,Diabetes,3,0.1,dense,SOBI
+0.1306897963722799,0.34808215324896097,0.07019376754760742,True,,Diabetes,3,0.2,dense,Proposed IRLS-l12
+0.1862001509249128,0.44407921053625027,0.0064237117767333984,True,,Diabetes,3,0.2,dense,FastICA-exp
+0.18766211601398425,0.35353108015488494,0.00526738166809082,True,,Diabetes,3,0.2,dense,FastICA-deflation-cube
+0.18384185368461448,0.37482152075244113,0.014055490493774414,True,,Diabetes,3,0.2,dense,Picard-nonorthogonal
+0.19373233266228898,0.37851419081452586,0.008740663528442383,True,,Diabetes,3,0.2,dense,JADE
+0.19982471593833417,0.36109331373934606,0.009963750839233398,True,,Diabetes,3,0.2,dense,SOBI
+0.3004596312443496,0.2275729060154644,0.04973316192626953,True,,Diabetes,3,0.1,single-channel,Proposed IRLS-l12
+0.26973583254295913,0.37941054198511637,0.006663084030151367,True,,Diabetes,3,0.1,single-channel,FastICA-exp
+0.2982145500637438,0.4882279567995919,0.0025267601013183594,True,,Diabetes,3,0.1,single-channel,FastICA-deflation-cube
+0.29703473544835646,0.48529077675069826,0.02329850196838379,True,,Diabetes,3,0.1,single-channel,Picard-nonorthogonal
+0.2963139442887889,0.48144270565226394,0.003880023956298828,True,,Diabetes,3,0.1,single-channel,JADE
+0.2682883671757358,0.4823533338304259,0.00705718994140625,True,,Diabetes,3,0.1,single-channel,SOBI
+0.18876363154695422,0.29323220893068297,0.05118966102600098,True,,Diabetes,3,0.2,single-channel,Proposed IRLS-l12
+0.17429329550582126,0.4074926816472564,0.007656574249267578,True,,Diabetes,3,0.2,single-channel,FastICA-exp
+0.17451692440514582,0.4130956236470077,0.00274658203125,True,,Diabetes,3,0.2,single-channel,FastICA-deflation-cube
+0.17404185180735324,0.4068053357572314,0.028141498565673828,True,,Diabetes,3,0.2,single-channel,Picard-nonorthogonal
+0.17262139308538332,0.41124666264199583,0.0044400691986083984,True,,Diabetes,3,0.2,single-channel,JADE
+0.16622291893178312,0.36947629982800184,0.007117748260498047,True,,Diabetes,3,0.2,single-channel,SOBI
+0.6524132855910643,0.31939012433571246,0.08195900917053223,True,,Diabetes,3,0.1,coherent,Proposed IRLS-l12
+0.6366570735393182,0.31991432586948076,0.04076051712036133,True,,Diabetes,3,0.1,coherent,FastICA-exp
+0.5926004290290687,0.37781833152294314,0.00481414794921875,True,,Diabetes,3,0.1,coherent,FastICA-deflation-cube
+0.6490458097883062,0.30782527517030844,0.1208808422088623,True,,Diabetes,3,0.1,coherent,Picard-nonorthogonal
+0.5669824712221677,0.42528342476033903,0.005140542984008789,True,,Diabetes,3,0.1,coherent,JADE
+0.6037644638568758,0.35291407600270885,0.00759434700012207,True,,Diabetes,3,0.1,coherent,SOBI
+0.7637864370437647,0.24086849635240215,0.078094482421875,True,,Diabetes,3,0.2,coherent,Proposed IRLS-l12
+0.6039653693738833,0.3644449688507056,0.00795292854309082,True,,Diabetes,3,0.2,coherent,FastICA-exp
+0.6491903667912851,0.3102540441887546,0.004166841506958008,True,,Diabetes,3,0.2,coherent,FastICA-deflation-cube
+0.6201636975606166,0.34975165575397715,0.029169559478759766,True,,Diabetes,3,0.2,coherent,Picard-nonorthogonal
+0.6625853079735917,0.28661302398605204,0.007535696029663086,True,,Diabetes,3,0.2,coherent,JADE
+0.6593904913976179,0.3718102059501003,0.0077495574951171875,True,,Diabetes,3,0.2,coherent,SOBI
+0.25954766741494495,0.4577516852274218,0.1854076385498047,True,,Diabetes,4,0.1,dense,Proposed IRLS-l12
+0.22728333740464338,0.3807828959110853,0.009897470474243164,True,,Diabetes,4,0.1,dense,FastICA-exp
+0.24325561627888953,0.45666553411020966,0.006522655487060547,True,,Diabetes,4,0.1,dense,FastICA-deflation-cube
+0.21766626431439376,0.4545233482184807,0.021207332611083984,True,,Diabetes,4,0.1,dense,Picard-nonorthogonal
+0.22937149017816577,0.5453427623986183,0.00847315788269043,True,,Diabetes,4,0.1,dense,JADE
+0.20970205250087628,0.41427749922655027,0.00917196273803711,True,,Diabetes,4,0.1,dense,SOBI
+0.21950898737208874,0.3043349643115153,0.03646707534790039,True,,Diabetes,4,0.2,dense,Proposed IRLS-l12
+0.17174319681455963,0.4194279722756864,0.011329889297485352,True,,Diabetes,4,0.2,dense,FastICA-exp
+0.18241295415854938,0.3744602425642173,0.004541158676147461,True,,Diabetes,4,0.2,dense,FastICA-deflation-cube
+0.17955912260426263,0.3889335794287352,0.025547504425048828,True,,Diabetes,4,0.2,dense,Picard-nonorthogonal
+0.17754140177989836,0.3762943718320077,0.009425163269042969,True,,Diabetes,4,0.2,dense,JADE
+0.15030945450779276,0.3739278554100406,0.014625787734985352,True,,Diabetes,4,0.2,dense,SOBI
+0.24870895667681095,0.3191435569883807,0.09341120719909668,True,,Diabetes,4,0.1,single-channel,Proposed IRLS-l12
+0.2869854491528484,0.41295418971222303,0.0066378116607666016,True,,Diabetes,4,0.1,single-channel,FastICA-exp
+0.2619988916867143,0.4733682054549687,0.0025599002838134766,True,,Diabetes,4,0.1,single-channel,FastICA-deflation-cube
+0.26768090834211344,0.4609082377836158,0.017779827117919922,True,,Diabetes,4,0.1,single-channel,Picard-nonorthogonal
+0.26668900116283806,0.46904601451207206,0.003238677978515625,True,,Diabetes,4,0.1,single-channel,JADE
+0.2808850094547196,0.41546363693195404,0.0257570743560791,True,,Diabetes,4,0.1,single-channel,SOBI
+0.2115931874059719,0.2919477533071485,0.19945168495178223,True,,Diabetes,4,0.2,single-channel,Proposed IRLS-l12
+0.20230819424980678,0.4253822875752796,0.0027947425842285156,True,,Diabetes,4,0.2,single-channel,FastICA-exp
+0.20219835593270127,0.4077736177359692,0.0026154518127441406,True,,Diabetes,4,0.2,single-channel,FastICA-deflation-cube
+0.20136935802445027,0.40976875878103913,0.014923095703125,True,,Diabetes,4,0.2,single-channel,Picard-nonorthogonal
+0.202158942884514,0.4077744840739312,0.004168272018432617,True,,Diabetes,4,0.2,single-channel,JADE
+0.1869193327955609,0.4184158891535702,0.010899543762207031,True,,Diabetes,4,0.2,single-channel,SOBI
+0.5491781757679821,0.36323296220636253,0.08503937721252441,True,,Diabetes,4,0.1,coherent,Proposed IRLS-l12
+0.5376599083323124,0.4438860980295825,0.0038466453552246094,True,,Diabetes,4,0.1,coherent,FastICA-exp
+0.5656778796536723,0.48778293740004,0.03635287284851074,True,,Diabetes,4,0.1,coherent,FastICA-deflation-cube
+0.5501865821180102,0.43709440321645054,0.07303953170776367,True,,Diabetes,4,0.1,coherent,Picard-nonorthogonal
+0.5591227170637347,0.44420951036966977,0.006800651550292969,True,,Diabetes,4,0.1,coherent,JADE
+0.6827789675614786,0.3412017130134303,0.0076446533203125,True,,Diabetes,4,0.1,coherent,SOBI
+0.5964350696948155,0.3618441143247436,0.10123181343078613,True,,Diabetes,4,0.2,coherent,Proposed IRLS-l12
+0.585949839390355,0.41332191996218803,0.04535794258117676,True,,Diabetes,4,0.2,coherent,FastICA-exp
+0.6015895269633645,0.3944308242031574,0.040309906005859375,True,,Diabetes,4,0.2,coherent,FastICA-deflation-cube
+0.6404378704876433,0.303222244483112,0.10820722579956055,True,,Diabetes,4,0.2,coherent,Picard-nonorthogonal
+0.6219758309313133,0.38222545329806745,0.005888462066650391,True,,Diabetes,4,0.2,coherent,JADE
+0.6937216663363384,0.33454324148469744,0.006515979766845703,True,,Diabetes,4,0.2,coherent,SOBI
+0.30416320230325994,0.33665687805670397,0.11543822288513184,True,,Diabetes,5,0.1,dense,Proposed IRLS-l12
+0.24477242882341663,0.43199090905964865,0.009227752685546875,True,,Diabetes,5,0.1,dense,FastICA-exp
+0.27579878429134974,0.4488804053945703,0.006136894226074219,True,,Diabetes,5,0.1,dense,FastICA-deflation-cube
+0.276323699833072,0.4558472510409383,0.03365015983581543,True,,Diabetes,5,0.1,dense,Picard-nonorthogonal
+0.2738473471657169,0.4470605069650616,0.006114959716796875,True,,Diabetes,5,0.1,dense,JADE
+0.2521282418797621,0.3969862900676947,0.015448331832885742,True,,Diabetes,5,0.1,dense,SOBI
+0.20635535163746135,0.28755458296664077,0.14447999000549316,True,,Diabetes,5,0.2,dense,Proposed IRLS-l12
+0.2089782384839641,0.3983100267654346,0.009190082550048828,True,,Diabetes,5,0.2,dense,FastICA-exp
+0.22022366828407985,0.3987698742126578,0.006554603576660156,True,,Diabetes,5,0.2,dense,FastICA-deflation-cube
+0.20939483153003757,0.38062035965900354,0.02435755729675293,True,,Diabetes,5,0.2,dense,Picard-nonorthogonal
+0.21678712050883417,0.38141289797372346,0.006308794021606445,True,,Diabetes,5,0.2,dense,JADE
+0.19566967932972523,0.4195297035799029,0.007857561111450195,True,,Diabetes,5,0.2,dense,SOBI
+0.2807059408160256,0.3682158650958686,0.03446459770202637,True,,Diabetes,5,0.1,single-channel,Proposed IRLS-l12
+0.20683322851605732,0.3458839793496843,0.008007049560546875,True,,Diabetes,5,0.1,single-channel,FastICA-exp
+0.21266793173650061,0.2863491722670574,0.0028841495513916016,True,,Diabetes,5,0.1,single-channel,FastICA-deflation-cube
+0.21186281326702883,0.28447967504467553,0.018634796142578125,True,,Diabetes,5,0.1,single-channel,Picard-nonorthogonal
+0.21221560909871698,0.2875665013495249,0.003648042678833008,True,,Diabetes,5,0.1,single-channel,JADE
+0.21531385038640663,0.4048460308987602,0.009206533432006836,True,,Diabetes,5,0.1,single-channel,SOBI
+0.21404991466456197,0.35719956474053904,0.027925729751586914,True,,Diabetes,5,0.2,single-channel,Proposed IRLS-l12
+0.1947449471730033,0.4211037363522331,0.0034313201904296875,True,,Diabetes,5,0.2,single-channel,FastICA-exp
+0.1948998339854901,0.3888841115875804,0.002828359603881836,True,,Diabetes,5,0.2,single-channel,FastICA-deflation-cube
+0.19560813537051686,0.38562780336989927,0.020694494247436523,True,,Diabetes,5,0.2,single-channel,Picard-nonorthogonal
+0.19502618123274634,0.38577989445926486,0.003166675567626953,True,,Diabetes,5,0.2,single-channel,JADE
+0.21500346461507097,0.41036596793346936,0.00951075553894043,True,,Diabetes,5,0.2,single-channel,SOBI
+0.5767706715774189,0.37789099431538314,0.08709931373596191,True,,Diabetes,5,0.1,coherent,Proposed IRLS-l12
+0.5877977952504924,0.3447882777570448,0.0046346187591552734,True,,Diabetes,5,0.1,coherent,FastICA-exp
+0.629874285941032,0.3537075135309425,0.023197174072265625,True,,Diabetes,5,0.1,coherent,FastICA-deflation-cube
+0.5574179363139816,0.3920066287060918,0.05743145942687988,True,,Diabetes,5,0.1,coherent,Picard-nonorthogonal
+0.6467593260615341,0.33838790519162903,0.008266448974609375,True,,Diabetes,5,0.1,coherent,JADE
+0.6110505071204976,0.46845949484851346,0.006964921951293945,True,,Diabetes,5,0.1,coherent,SOBI
+0.6769215448527539,0.29133779338554056,0.11569809913635254,True,,Diabetes,5,0.2,coherent,Proposed IRLS-l12
+0.5346337722335963,0.4008753230263906,0.03718066215515137,True,,Diabetes,5,0.2,coherent,FastICA-exp
+0.5947014458874126,0.358385248964447,0.0052835941314697266,True,,Diabetes,5,0.2,coherent,FastICA-deflation-cube
+0.5386515745942788,0.38453566392333266,0.04319596290588379,True,,Diabetes,5,0.2,coherent,Picard-nonorthogonal
+0.5778155444229258,0.3871306837541657,0.007512092590332031,True,,Diabetes,5,0.2,coherent,JADE
+0.6258613521403509,0.396508532142393,0.020249128341674805,True,,Diabetes,5,0.2,coherent,SOBI
+0.24549713550841998,0.4176164948993719,0.10428524017333984,True,,Diabetes,6,0.1,dense,Proposed IRLS-l12
+0.19888615617640518,0.3912106271601129,0.017352819442749023,True,,Diabetes,6,0.1,dense,FastICA-exp
+0.23332857199226878,0.37347013330209555,0.004290342330932617,True,,Diabetes,6,0.1,dense,FastICA-deflation-cube
+0.23339247397998603,0.36466879052042833,0.04172158241271973,True,,Diabetes,6,0.1,dense,Picard-nonorthogonal
+0.23166303572623184,0.3838213608608291,0.005166530609130859,True,,Diabetes,6,0.1,dense,JADE
+0.24523844627176708,0.4118028115702628,0.011874198913574219,True,,Diabetes,6,0.1,dense,SOBI
+0.20902333649459467,0.28829169535081556,0.3343691825866699,True,,Diabetes,6,0.2,dense,Proposed IRLS-l12
+0.1990790173344767,0.42299693280947237,0.010466575622558594,True,,Diabetes,6,0.2,dense,FastICA-exp
+0.19985052805730516,0.42165446904210724,0.004073619842529297,True,,Diabetes,6,0.2,dense,FastICA-deflation-cube
+0.20287870874821395,0.4402076248934508,0.031172752380371094,True,,Diabetes,6,0.2,dense,Picard-nonorthogonal
+0.20561333774638907,0.4568256807336503,0.005548000335693359,True,,Diabetes,6,0.2,dense,JADE
+0.17190465354103726,0.49538769907856806,0.00715184211730957,True,,Diabetes,6,0.2,dense,SOBI
+0.2600949075330745,0.39306765463030624,0.11550712585449219,True,,Diabetes,6,0.1,single-channel,Proposed IRLS-l12
+0.22810474387251944,0.4290626801587812,0.0061206817626953125,True,,Diabetes,6,0.1,single-channel,FastICA-exp
+0.23448107696353362,0.46058752976878636,0.0028884410858154297,True,,Diabetes,6,0.1,single-channel,FastICA-deflation-cube
+0.22920463883632985,0.43266861059769546,0.011185407638549805,True,,Diabetes,6,0.1,single-channel,Picard-nonorthogonal
+0.23288241357409487,0.44559152126140156,0.003182649612426758,True,,Diabetes,6,0.1,single-channel,JADE
+0.23589021548836317,0.4799093604039032,0.00558161735534668,True,,Diabetes,6,0.1,single-channel,SOBI
+0.1639747831178593,0.4229312228793457,0.037383317947387695,True,,Diabetes,6,0.2,single-channel,Proposed IRLS-l12
+0.15056449338956107,0.4267418300149403,0.003259420394897461,True,,Diabetes,6,0.2,single-channel,FastICA-exp
+0.1400489999763785,0.3984401839378821,0.0022878646850585938,True,,Diabetes,6,0.2,single-channel,FastICA-deflation-cube
+0.13894455903900244,0.39692804947376636,0.007916450500488281,True,,Diabetes,6,0.2,single-channel,Picard-nonorthogonal
+0.13876993429052678,0.39775440877286206,0.002995729446411133,True,,Diabetes,6,0.2,single-channel,JADE
+0.17976263142900564,0.4457052041983406,0.007120370864868164,True,,Diabetes,6,0.2,single-channel,SOBI
+0.6432764762229648,0.3114568158283984,0.044817447662353516,True,,Diabetes,6,0.1,coherent,Proposed IRLS-l12
+0.6442756908964027,0.33516056376517367,0.0440523624420166,True,,Diabetes,6,0.1,coherent,FastICA-exp
+0.57299346909291,0.458267260496497,0.007425785064697266,True,,Diabetes,6,0.1,coherent,FastICA-deflation-cube
+0.624886522881784,0.3981217156221401,0.06607985496520996,True,,Diabetes,6,0.1,coherent,Picard-nonorthogonal
+0.6067682524188973,0.36139572275416176,0.009705543518066406,True,,Diabetes,6,0.1,coherent,JADE
+0.6533464905031792,0.4161339519280457,0.016061782836914062,True,,Diabetes,6,0.1,coherent,SOBI
+0.5921005389857719,0.3777502138819454,0.1250743865966797,True,,Diabetes,6,0.2,coherent,Proposed IRLS-l12
+0.5269221951677391,0.4407736663974903,0.041734933853149414,True,,Diabetes,6,0.2,coherent,FastICA-exp
+0.6742267899897301,0.25320610579856534,0.02219843864440918,True,,Diabetes,6,0.2,coherent,FastICA-deflation-cube
+0.6053460732595823,0.36794491352703834,0.08575892448425293,True,,Diabetes,6,0.2,coherent,Picard-nonorthogonal
+0.5677006188052293,0.4308749968028945,0.0069408416748046875,True,,Diabetes,6,0.2,coherent,JADE
+0.5791498661728725,0.4528706387748416,0.007715702056884766,True,,Diabetes,6,0.2,coherent,SOBI
+0.20086470811747872,0.42138075907460415,0.17539596557617188,True,,Diabetes,7,0.1,dense,Proposed IRLS-l12
+0.23215138463305096,0.4536751539580955,0.010215044021606445,True,,Diabetes,7,0.1,dense,FastICA-exp
+0.22546729275329286,0.426313369376558,0.0037870407104492188,True,,Diabetes,7,0.1,dense,FastICA-deflation-cube
+0.2174573237156538,0.4639378452321569,0.01573967933654785,True,,Diabetes,7,0.1,dense,Picard-nonorthogonal
+0.22872320310833533,0.48320507121419043,0.006694793701171875,True,,Diabetes,7,0.1,dense,JADE
+0.25688078772308104,0.38422099809644084,0.009694814682006836,True,,Diabetes,7,0.1,dense,SOBI
+0.1297148248113857,0.5109267769043777,0.11827659606933594,True,,Diabetes,7,0.2,dense,Proposed IRLS-l12
+0.14787122054241822,0.39969115749197376,0.005152702331542969,True,,Diabetes,7,0.2,dense,FastICA-exp
+0.14442186091619796,0.45553942923575585,0.005877017974853516,True,,Diabetes,7,0.2,dense,FastICA-deflation-cube
+0.14825201630676083,0.40775915870058554,0.013401269912719727,True,,Diabetes,7,0.2,dense,Picard-nonorthogonal
+0.13850468851593986,0.4668919987784269,0.008690357208251953,True,,Diabetes,7,0.2,dense,JADE
+0.14419830414325324,0.43119128360021736,0.009142637252807617,True,,Diabetes,7,0.2,dense,SOBI
+0.29353613378849086,0.353660126085609,0.26824378967285156,True,,Diabetes,7,0.1,single-channel,Proposed IRLS-l12
+0.24750398654290695,0.41677130746313384,0.005042076110839844,True,,Diabetes,7,0.1,single-channel,FastICA-exp
+0.240726624349832,0.37021574568708127,0.0033104419708251953,True,,Diabetes,7,0.1,single-channel,FastICA-deflation-cube
+0.2361652562063395,0.38515151151996957,0.01366567611694336,True,,Diabetes,7,0.1,single-channel,Picard-nonorthogonal
+0.23628271804963666,0.3897531946226307,0.0033164024353027344,True,,Diabetes,7,0.1,single-channel,JADE
+0.24792111896050084,0.49454655721421925,0.009450912475585938,True,,Diabetes,7,0.1,single-channel,SOBI
+0.20148444767701656,0.4317336004034657,0.03248405456542969,True,,Diabetes,7,0.2,single-channel,Proposed IRLS-l12
+0.195134186009573,0.34446912482925,0.004251003265380859,True,,Diabetes,7,0.2,single-channel,FastICA-exp
+0.19623990308715977,0.3434313052582217,0.0026445388793945312,True,,Diabetes,7,0.2,single-channel,FastICA-deflation-cube
+0.1944946641199769,0.34516289842235554,0.014040470123291016,True,,Diabetes,7,0.2,single-channel,Picard-nonorthogonal
+0.19420526202314536,0.3461035760323008,0.0032045841217041016,True,,Diabetes,7,0.2,single-channel,JADE
+0.2109221536412415,0.43208324838092727,0.008980274200439453,True,,Diabetes,7,0.2,single-channel,SOBI
+0.6083166736225196,0.3682559591312745,0.08532428741455078,True,,Diabetes,7,0.1,coherent,Proposed IRLS-l12
+0.5953222962346375,0.3922373364343471,0.0049130916595458984,True,,Diabetes,7,0.1,coherent,FastICA-exp
+0.5561175021873417,0.3637250363614325,0.0317838191986084,True,,Diabetes,7,0.1,coherent,FastICA-deflation-cube
+0.5833040640255227,0.35278421674728644,0.0932619571685791,True,,Diabetes,7,0.1,coherent,Picard-nonorthogonal
+0.5437416372611817,0.37165814406637915,0.005204916000366211,True,,Diabetes,7,0.1,coherent,JADE
+0.6441282930480763,0.4469933081652062,0.01706528663635254,True,,Diabetes,7,0.1,coherent,SOBI
+0.5620779742568833,0.3402737168602347,0.05744361877441406,True,,Diabetes,7,0.2,coherent,Proposed IRLS-l12
+0.47612526453600745,0.5318527906669596,0.04629254341125488,True,,Diabetes,7,0.2,coherent,FastICA-exp
+0.5215077855357316,0.48992682618268474,0.04644441604614258,True,,Diabetes,7,0.2,coherent,FastICA-deflation-cube
+0.5099621189027287,0.4697737754149866,0.04155278205871582,True,,Diabetes,7,0.2,coherent,Picard-nonorthogonal
+0.5180899220876213,0.4698736834173549,0.009508609771728516,True,,Diabetes,7,0.2,coherent,JADE
+0.610157047480282,0.35909021347804726,0.01348567008972168,True,,Diabetes,7,0.2,coherent,SOBI
+0.3013847276351228,0.18458027601281696,0.0580751895904541,True,,Diabetes,8,0.1,dense,Proposed IRLS-l12
+0.23523395073036485,0.3897328207105873,0.00748896598815918,True,,Diabetes,8,0.1,dense,FastICA-exp
+0.22025602270060718,0.36276187282259853,0.00756382942199707,True,,Diabetes,8,0.1,dense,FastICA-deflation-cube
+0.22304647643789832,0.3499315633328348,0.022671222686767578,True,,Diabetes,8,0.1,dense,Picard-nonorthogonal
+0.22028134975495886,0.3513198187951436,0.010451555252075195,True,,Diabetes,8,0.1,dense,JADE
+0.22692163353205458,0.5138072406524866,0.01704549789428711,True,,Diabetes,8,0.1,dense,SOBI
+0.19078076258302118,0.39622644646764416,0.36563873291015625,True,,Diabetes,8,0.2,dense,Proposed IRLS-l12
+0.20840186965879237,0.47476829245326807,0.007504940032958984,True,,Diabetes,8,0.2,dense,FastICA-exp
+0.20203443425493023,0.41845880140824326,0.005502939224243164,True,,Diabetes,8,0.2,dense,FastICA-deflation-cube
+0.20627612962757985,0.3369974361249808,0.02219986915588379,True,,Diabetes,8,0.2,dense,Picard-nonorthogonal
+0.22843986951242976,0.325072088733776,0.00912618637084961,True,,Diabetes,8,0.2,dense,JADE
+0.22869646433143434,0.47426590269305036,0.0060231685638427734,True,,Diabetes,8,0.2,dense,SOBI
+0.27906155757973317,0.26452569543380994,0.1292881965637207,True,,Diabetes,8,0.1,single-channel,Proposed IRLS-l12
+0.2435135464820947,0.3763098425075732,0.0037648677825927734,True,,Diabetes,8,0.1,single-channel,FastICA-exp
+0.2218699367337936,0.4251904893334785,0.003983497619628906,True,,Diabetes,8,0.1,single-channel,FastICA-deflation-cube
+0.2204223501517995,0.4209075217398016,0.01142263412475586,True,,Diabetes,8,0.1,single-channel,Picard-nonorthogonal
+0.22057156663871763,0.425223094226436,0.003407001495361328,True,,Diabetes,8,0.1,single-channel,JADE
+0.21584616665426246,0.40167836147835645,0.010668039321899414,True,,Diabetes,8,0.1,single-channel,SOBI
+0.21556345359876322,0.29952964966218854,0.03727078437805176,True,,Diabetes,8,0.2,single-channel,Proposed IRLS-l12
+0.21058472431751127,0.4047446387362822,0.003831148147583008,True,,Diabetes,8,0.2,single-channel,FastICA-exp
+0.1860365751453606,0.4188651257488387,0.002704620361328125,True,,Diabetes,8,0.2,single-channel,FastICA-deflation-cube
+0.18555725462528358,0.4247339590326723,0.018166303634643555,True,,Diabetes,8,0.2,single-channel,Picard-nonorthogonal
+0.18638803633112802,0.4201636303327394,0.002761363983154297,True,,Diabetes,8,0.2,single-channel,JADE
+0.1839637649387716,0.35026908048396665,0.008437395095825195,True,,Diabetes,8,0.2,single-channel,SOBI
+0.525639504984152,0.472254354161951,0.034337520599365234,True,,Diabetes,8,0.1,coherent,Proposed IRLS-l12
+0.6145319318583085,0.31340782564612923,0.041100263595581055,True,,Diabetes,8,0.1,coherent,FastICA-exp
+0.5932505910432109,0.31307899190633337,0.020189285278320312,True,,Diabetes,8,0.1,coherent,FastICA-deflation-cube
+0.6740587365832242,0.24301945747386808,0.05346798896789551,True,,Diabetes,8,0.1,coherent,Picard-nonorthogonal
+0.6838291418199546,0.21873937937500107,0.004785299301147461,True,,Diabetes,8,0.1,coherent,JADE
+0.6022408715537091,0.44012856607628414,0.006711006164550781,True,,Diabetes,8,0.1,coherent,SOBI
+0.6015354085594569,0.2838353791255284,0.04497647285461426,True,,Diabetes,8,0.2,coherent,Proposed IRLS-l12
+0.6758176210461471,0.2087685870841296,0.0064508914947509766,True,,Diabetes,8,0.2,coherent,FastICA-exp
+0.636318873110627,0.2570140085866454,0.003671884536743164,True,,Diabetes,8,0.2,coherent,FastICA-deflation-cube
+0.6146468068533376,0.3074264563762987,0.039789438247680664,True,,Diabetes,8,0.2,coherent,Picard-nonorthogonal
+0.5843709979811096,0.36817108031801055,0.013989686965942383,True,,Diabetes,8,0.2,coherent,JADE
+0.623929972471216,0.4052122457921527,0.0049359798431396484,True,,Diabetes,8,0.2,coherent,SOBI
+0.21661096243956424,0.24028260543487345,0.048458099365234375,True,,Diabetes,9,0.1,dense,Proposed IRLS-l12
+0.20863209598142313,0.3344325316830167,0.005769014358520508,True,,Diabetes,9,0.1,dense,FastICA-exp
+0.19264761392687388,0.3859095233482555,0.005601644515991211,True,,Diabetes,9,0.1,dense,FastICA-deflation-cube
+0.18987978153445118,0.3772920630258656,0.04147148132324219,True,,Diabetes,9,0.1,dense,Picard-nonorthogonal
+0.19182581786905611,0.3839213971205095,0.0063245296478271484,True,,Diabetes,9,0.1,dense,JADE
+0.19753143592651257,0.4435171131537121,0.007000923156738281,True,,Diabetes,9,0.1,dense,SOBI
+0.2067339259605542,0.28381998801768776,0.042380332946777344,True,,Diabetes,9,0.2,dense,Proposed IRLS-l12
+0.19672777104323477,0.3997508719290397,0.0074923038482666016,True,,Diabetes,9,0.2,dense,FastICA-exp
+0.21625412384281745,0.40291462545744416,0.004963874816894531,True,,Diabetes,9,0.2,dense,FastICA-deflation-cube
+0.2150316454389042,0.44130953926588956,0.03490304946899414,True,,Diabetes,9,0.2,dense,Picard-nonorthogonal
+0.22534133755142388,0.37138460411225155,0.007673978805541992,True,,Diabetes,9,0.2,dense,JADE
+0.22552933667382388,0.3749866925997515,0.011818408966064453,True,,Diabetes,9,0.2,dense,SOBI
+0.26374552462245476,0.24822555744455252,0.08370208740234375,True,,Diabetes,9,0.1,single-channel,Proposed IRLS-l12
+0.25305592077678385,0.27775086623552553,0.0037107467651367188,True,,Diabetes,9,0.1,single-channel,FastICA-exp
+0.23146234079081668,0.345573425179436,0.002778291702270508,True,,Diabetes,9,0.1,single-channel,FastICA-deflation-cube
+0.23244540766373406,0.3516825398679677,0.014391899108886719,True,,Diabetes,9,0.1,single-channel,Picard-nonorthogonal
+0.23291609836730282,0.35360339211308706,0.003705739974975586,True,,Diabetes,9,0.1,single-channel,JADE
+0.262212526361625,0.32088471135655433,0.026612043380737305,True,,Diabetes,9,0.1,single-channel,SOBI
+0.16601547587066104,0.3957148067086369,0.0666196346282959,True,,Diabetes,9,0.2,single-channel,Proposed IRLS-l12
+0.2152023676502548,0.43007977535455255,0.0028960704803466797,True,,Diabetes,9,0.2,single-channel,FastICA-exp
+0.1978174834062761,0.3785997194265479,0.0025076866149902344,True,,Diabetes,9,0.2,single-channel,FastICA-deflation-cube
+0.19873441290246913,0.37476362310774225,0.027590513229370117,True,,Diabetes,9,0.2,single-channel,Picard-nonorthogonal
+0.19842274549632877,0.3777667145856686,0.0032765865325927734,True,,Diabetes,9,0.2,single-channel,JADE
+0.23045089594534957,0.3262839992959571,0.01192784309387207,True,,Diabetes,9,0.2,single-channel,SOBI
+0.6829669764676983,0.296277996231564,0.08295512199401855,True,,Diabetes,9,0.1,coherent,Proposed IRLS-l12
+0.692556843098305,0.2783780828876702,0.002872467041015625,True,,Diabetes,9,0.1,coherent,FastICA-exp
+0.6850256230287762,0.32973152086993845,0.003936052322387695,True,,Diabetes,9,0.1,coherent,FastICA-deflation-cube
+0.7565823843829762,0.21944620765058437,0.05616903305053711,True,,Diabetes,9,0.1,coherent,Picard-nonorthogonal
+0.7770007202256639,0.16163233015458753,0.005235433578491211,True,,Diabetes,9,0.1,coherent,JADE
+0.6266166888979212,0.4435621480805548,0.009632587432861328,True,,Diabetes,9,0.1,coherent,SOBI
+0.6103187794058134,0.25676665420038225,0.03572535514831543,True,,Diabetes,9,0.2,coherent,Proposed IRLS-l12
+0.58842446511593,0.39190006678137523,0.004736185073852539,True,,Diabetes,9,0.2,coherent,FastICA-exp
+0.6179660930615872,0.37629614981793774,0.005200386047363281,True,,Diabetes,9,0.2,coherent,FastICA-deflation-cube
+0.654434477449885,0.2567624640632054,0.15141868591308594,True,,Diabetes,9,0.2,coherent,Picard-nonorthogonal
+0.6582006580399844,0.2527764843433937,0.0072057247161865234,True,,Diabetes,9,0.2,coherent,JADE
+0.7178167264282771,0.2794731475080145,0.020003318786621094,True,,Diabetes,9,0.2,coherent,SOBI
+0.29006321722839334,0.25762008966702377,0.1409611701965332,True,,NaturalImages,0,0.1,dense,Proposed IRLS-l12
+0.23289986509479385,0.3549427844346001,0.007498741149902344,True,,NaturalImages,0,0.1,dense,FastICA-exp
+0.25027987135564117,0.4811149619169727,0.004860401153564453,True,,NaturalImages,0,0.1,dense,FastICA-deflation-cube
+0.23750120482557585,0.29132313156020373,0.024800777435302734,True,,NaturalImages,0,0.1,dense,Picard-nonorthogonal
+0.2464868043189342,0.460430886412999,0.018421649932861328,True,,NaturalImages,0,0.1,dense,JADE
+0.2348732141273316,0.40216354357217143,0.017601490020751953,True,,NaturalImages,0,0.1,dense,SOBI
+0.1810693937619305,0.3380642701337625,0.09188342094421387,True,,NaturalImages,0,0.2,dense,Proposed IRLS-l12
+0.21681854400549044,0.3945588350921997,0.0060999393463134766,True,,NaturalImages,0,0.2,dense,FastICA-exp
+0.19578086403840672,0.4639911377666457,0.006094694137573242,True,,NaturalImages,0,0.2,dense,FastICA-deflation-cube
+0.20538042032308926,0.47842549855551797,0.017720460891723633,True,,NaturalImages,0,0.2,dense,Picard-nonorthogonal
+0.2065396360092187,0.46483330357487257,0.010155439376831055,True,,NaturalImages,0,0.2,dense,JADE
+0.17346398055243517,0.5049440646374853,0.008311033248901367,True,,NaturalImages,0,0.2,dense,SOBI
+0.31973942165360836,0.13178959616842387,0.05586051940917969,True,,NaturalImages,0,0.1,single-channel,Proposed IRLS-l12
+0.2849417563296013,0.2953945022080945,0.012188911437988281,True,,NaturalImages,0,0.1,single-channel,FastICA-exp
+0.2670754332711251,0.2831196998055364,0.003072500228881836,True,,NaturalImages,0,0.1,single-channel,FastICA-deflation-cube
+0.270109239710863,0.2822465498700425,0.0330502986907959,True,,NaturalImages,0,0.1,single-channel,Picard-nonorthogonal
+0.2695084695851896,0.27916153994860143,0.0033731460571289062,True,,NaturalImages,0,0.1,single-channel,JADE
+0.2625027948482863,0.34590036199850654,0.010225772857666016,True,,NaturalImages,0,0.1,single-channel,SOBI
+0.2554329531511782,0.3395454333330015,0.24987292289733887,True,,NaturalImages,0,0.2,single-channel,Proposed IRLS-l12
+0.19559608532204673,0.3970688960254366,0.00919485092163086,True,,NaturalImages,0,0.2,single-channel,FastICA-exp
+0.19445257037797845,0.39795832753791494,0.0027937889099121094,True,,NaturalImages,0,0.2,single-channel,FastICA-deflation-cube
+0.19515141777759973,0.39675992256560877,0.015102863311767578,True,,NaturalImages,0,0.2,single-channel,Picard-nonorthogonal
+0.19525975793363823,0.3932775526065903,0.006285667419433594,True,,NaturalImages,0,0.2,single-channel,JADE
+0.23626598267886784,0.4796519732964669,0.02090597152709961,True,,NaturalImages,0,0.2,single-channel,SOBI
+0.6307093165909837,0.3226434375674287,0.07517004013061523,True,,NaturalImages,0,0.1,coherent,Proposed IRLS-l12
+0.656159061714193,0.34109143018074656,0.00478053092956543,True,,NaturalImages,0,0.1,coherent,FastICA-exp
+0.6547238528375059,0.33315409807960955,0.0037381649017333984,True,,NaturalImages,0,0.1,coherent,FastICA-deflation-cube
+0.6586756987237589,0.3357349555133385,0.019494056701660156,True,,NaturalImages,0,0.1,coherent,Picard-nonorthogonal
+0.6477340442884473,0.31948563389684914,0.0043714046478271484,True,,NaturalImages,0,0.1,coherent,JADE
+0.7217318897245757,0.3242491884157733,0.007638454437255859,True,,NaturalImages,0,0.1,coherent,SOBI
+0.6908580937711692,0.18663935866063608,0.038901567459106445,True,,NaturalImages,0,0.2,coherent,Proposed IRLS-l12
+0.6962993807513953,0.2639599563772851,0.0036771297454833984,True,,NaturalImages,0,0.2,coherent,FastICA-exp
+0.7198256283963442,0.2630130727725102,0.02225947380065918,True,,NaturalImages,0,0.2,coherent,FastICA-deflation-cube
+0.6876717719106178,0.2505806635503413,0.07114577293395996,True,,NaturalImages,0,0.2,coherent,Picard-nonorthogonal
+0.6968461270812911,0.23427835225382315,0.007226705551147461,True,,NaturalImages,0,0.2,coherent,JADE
+0.6358409282750204,0.3992814385522339,0.014434576034545898,True,,NaturalImages,0,0.2,coherent,SOBI
+0.3403506911544264,0.15251502411200626,0.10375165939331055,True,,NaturalImages,1,0.1,dense,Proposed IRLS-l12
+0.2892891202525505,0.4334835413940475,0.007985830307006836,True,,NaturalImages,1,0.1,dense,FastICA-exp
+0.28801494009659906,0.4976486014488522,0.004342555999755859,True,,NaturalImages,1,0.1,dense,FastICA-deflation-cube
+0.2805314447186221,0.48118716901484443,0.024465084075927734,True,,NaturalImages,1,0.1,dense,Picard-nonorthogonal
+0.3107917024072565,0.4570511056330937,0.014414072036743164,True,,NaturalImages,1,0.1,dense,JADE
+0.31119663088569105,0.42093764622396285,0.007600069046020508,True,,NaturalImages,1,0.1,dense,SOBI
+0.21923043029878753,0.27023119426577447,0.07078337669372559,True,,NaturalImages,1,0.2,dense,Proposed IRLS-l12
+0.18995968736712363,0.43809391255267227,0.00849771499633789,True,,NaturalImages,1,0.2,dense,FastICA-exp
+0.19465679453021068,0.39404639475647274,0.0038213729858398438,True,,NaturalImages,1,0.2,dense,FastICA-deflation-cube
+0.2091323517914295,0.4583652101617659,0.01768350601196289,True,,NaturalImages,1,0.2,dense,Picard-nonorthogonal
+0.1968432738804063,0.39636463587946125,0.007456064224243164,True,,NaturalImages,1,0.2,dense,JADE
+0.19782470237877364,0.4744545037449951,0.03876543045043945,True,,NaturalImages,1,0.2,dense,SOBI
+0.3131679292952418,0.2026731510602025,0.07309818267822266,True,,NaturalImages,1,0.1,single-channel,Proposed IRLS-l12
+0.311786657409854,0.3998115710501911,0.005410671234130859,True,,NaturalImages,1,0.1,single-channel,FastICA-exp
+0.28405636542927043,0.4083902890114485,0.0029795169830322266,True,,NaturalImages,1,0.1,single-channel,FastICA-deflation-cube
+0.282858752835871,0.4049706428371544,0.007639884948730469,True,,NaturalImages,1,0.1,single-channel,Picard-nonorthogonal
+0.2862466673216297,0.4033658737165423,0.0038547515869140625,True,,NaturalImages,1,0.1,single-channel,JADE
+0.31139734742825625,0.4137315576630069,0.005397796630859375,True,,NaturalImages,1,0.1,single-channel,SOBI
+0.20368017050589868,0.3981353657122506,0.036046504974365234,True,,NaturalImages,1,0.2,single-channel,Proposed IRLS-l12
+0.20794230352103762,0.4160375887288789,0.0051157474517822266,True,,NaturalImages,1,0.2,single-channel,FastICA-exp
+0.2104605037454783,0.41096209649509907,0.0027244091033935547,True,,NaturalImages,1,0.2,single-channel,FastICA-deflation-cube
+0.20759662417975283,0.4178869553130009,0.02132701873779297,True,,NaturalImages,1,0.2,single-channel,Picard-nonorthogonal
+0.20777391710590729,0.4178194722234192,0.002826690673828125,True,,NaturalImages,1,0.2,single-channel,JADE
+0.21312581305352082,0.45027373896621314,0.008070707321166992,True,,NaturalImages,1,0.2,single-channel,SOBI
+0.7111430315951236,0.19046288911873302,0.04680466651916504,True,,NaturalImages,1,0.1,coherent,Proposed IRLS-l12
+0.7175924619209387,0.1900273919859255,0.0031185150146484375,True,,NaturalImages,1,0.1,coherent,FastICA-exp
+0.726943916081559,0.21125466031162787,0.003311634063720703,True,,NaturalImages,1,0.1,coherent,FastICA-deflation-cube
+0.7156065683698875,0.18098542288414374,0.025383949279785156,True,,NaturalImages,1,0.1,coherent,Picard-nonorthogonal
+0.732603164277757,0.20083992324771877,0.004780292510986328,True,,NaturalImages,1,0.1,coherent,JADE
+0.5491555244514357,0.4161045754275345,0.005667209625244141,True,,NaturalImages,1,0.1,coherent,SOBI
+0.7137930343022555,0.278795269496095,0.11211395263671875,True,,NaturalImages,1,0.2,coherent,Proposed IRLS-l12
+0.7341524751374335,0.16191618124285398,0.004259824752807617,True,,NaturalImages,1,0.2,coherent,FastICA-exp
+0.7284253242073555,0.18206538490089424,0.0037457942962646484,True,,NaturalImages,1,0.2,coherent,FastICA-deflation-cube
+0.7336493936392692,0.17765593792948048,0.03983163833618164,True,,NaturalImages,1,0.2,coherent,Picard-nonorthogonal
+0.7378116057490437,0.2058311575129772,0.004671812057495117,True,,NaturalImages,1,0.2,coherent,JADE
+0.5650338157062217,0.35808046105732316,0.008108139038085938,True,,NaturalImages,1,0.2,coherent,SOBI
+0.36464256262328026,0.25421555918447813,0.0720067024230957,True,,NaturalImages,2,0.1,dense,Proposed IRLS-l12
+0.22172852502737958,0.42888134888532126,0.008854150772094727,True,,NaturalImages,2,0.1,dense,FastICA-exp
+0.26372626670863125,0.4091786809822877,0.0036661624908447266,True,,NaturalImages,2,0.1,dense,FastICA-deflation-cube
+0.25664381888222215,0.524324404508819,0.023026227951049805,True,,NaturalImages,2,0.1,dense,Picard-nonorthogonal
+0.26398199743590633,0.5239938021101738,0.0067195892333984375,True,,NaturalImages,2,0.1,dense,JADE
+0.25537237243588995,0.3745997184284561,0.007572650909423828,True,,NaturalImages,2,0.1,dense,SOBI
+0.20301833208900896,0.2656684082152801,0.05176258087158203,True,,NaturalImages,2,0.2,dense,Proposed IRLS-l12
+0.14024445571686994,0.4109611943231089,0.004951000213623047,True,,NaturalImages,2,0.2,dense,FastICA-exp
+0.1525768922138644,0.4914010289232865,0.005656719207763672,True,,NaturalImages,2,0.2,dense,FastICA-deflation-cube
+0.14894429853449137,0.5147749272848235,0.014563322067260742,True,,NaturalImages,2,0.2,dense,Picard-nonorthogonal
+0.1487638396194516,0.4955363971906806,0.006594657897949219,True,,NaturalImages,2,0.2,dense,JADE
+0.15826697259757205,0.4168615033410525,0.025454044342041016,True,,NaturalImages,2,0.2,dense,SOBI
+0.3761458134921566,0.27177501414108124,0.09431791305541992,True,,NaturalImages,2,0.1,single-channel,Proposed IRLS-l12
+0.3167249601463659,0.3708538888345958,0.006887674331665039,True,,NaturalImages,2,0.1,single-channel,FastICA-exp
+0.3171935615068654,0.3637537910043842,0.0028748512268066406,True,,NaturalImages,2,0.1,single-channel,FastICA-deflation-cube
+0.31539426935913356,0.3757374451065571,0.013022661209106445,True,,NaturalImages,2,0.1,single-channel,Picard-nonorthogonal
+0.31618508791798206,0.38312041332032953,0.003204822540283203,True,,NaturalImages,2,0.1,single-channel,JADE
+0.2620234595105681,0.415377317295084,0.012794971466064453,True,,NaturalImages,2,0.1,single-channel,SOBI
+0.20749178166279503,0.36413756389624385,0.04709053039550781,True,,NaturalImages,2,0.2,single-channel,Proposed IRLS-l12
+0.2132318557517499,0.3684364986420704,0.005105257034301758,True,,NaturalImages,2,0.2,single-channel,FastICA-exp
+0.21418223663365624,0.3717305443502838,0.0026035308837890625,True,,NaturalImages,2,0.2,single-channel,FastICA-deflation-cube
+0.21289669315195625,0.370554150938737,0.020483016967773438,True,,NaturalImages,2,0.2,single-channel,Picard-nonorthogonal
+0.21237966755455653,0.36590701955931976,0.003972768783569336,True,,NaturalImages,2,0.2,single-channel,JADE
+0.22271908696149537,0.39971461736540015,0.01058197021484375,True,,NaturalImages,2,0.2,single-channel,SOBI
+0.631876295641178,0.2731413553100227,0.09162354469299316,True,,NaturalImages,2,0.1,coherent,Proposed IRLS-l12
+0.6865131458992835,0.2614016753789567,0.009981632232666016,True,,NaturalImages,2,0.1,coherent,FastICA-exp
+0.6627030593157953,0.24085201064825928,0.0033652782440185547,True,,NaturalImages,2,0.1,coherent,FastICA-deflation-cube
+0.6981219260047025,0.2602490573966773,0.018979310989379883,True,,NaturalImages,2,0.1,coherent,Picard-nonorthogonal
+0.6493029728823035,0.2680620228050187,0.005879878997802734,True,,NaturalImages,2,0.1,coherent,JADE
+0.6136854516232623,0.4255321392686461,0.017154693603515625,True,,NaturalImages,2,0.1,coherent,SOBI
+0.7172109267153072,0.1861468895687322,0.07682156562805176,True,,NaturalImages,2,0.2,coherent,Proposed IRLS-l12
+0.7017383102313821,0.2719191884560974,0.04143643379211426,True,,NaturalImages,2,0.2,coherent,FastICA-exp
+0.6933154911410775,0.26788193921726117,0.005357503890991211,True,,NaturalImages,2,0.2,coherent,FastICA-deflation-cube
+0.7175904169269034,0.29936231333459107,0.06451225280761719,True,,NaturalImages,2,0.2,coherent,Picard-nonorthogonal
+0.6921051853328929,0.286111206762675,0.004235982894897461,True,,NaturalImages,2,0.2,coherent,JADE
+0.6999399903851576,0.3314461766533078,0.0074176788330078125,True,,NaturalImages,2,0.2,coherent,SOBI
+0.32868534850241116,0.1945253899670533,0.0770268440246582,True,,NaturalImages,3,0.1,dense,Proposed IRLS-l12
+0.2617809662547684,0.3159689163566533,0.009280920028686523,True,,NaturalImages,3,0.1,dense,FastICA-exp
+0.2611732428951784,0.2824836460778419,0.006367921829223633,True,,NaturalImages,3,0.1,dense,FastICA-deflation-cube
+0.2774983749764194,0.22707690815230816,0.017661571502685547,True,,NaturalImages,3,0.1,dense,Picard-nonorthogonal
+0.2791160217526099,0.20417286058667045,0.00781393051147461,True,,NaturalImages,3,0.1,dense,JADE
+0.24924182227563324,0.484440010129075,0.011742830276489258,True,,NaturalImages,3,0.1,dense,SOBI
+0.13257878594043518,0.27903280502189826,0.147749662399292,True,,NaturalImages,3,0.2,dense,Proposed IRLS-l12
+0.2280390323928138,0.35101228663042716,0.01069784164428711,True,,NaturalImages,3,0.2,dense,FastICA-exp
+0.245797510887743,0.32124325889913374,0.00444483757019043,True,,NaturalImages,3,0.2,dense,FastICA-deflation-cube
+0.22816346776433388,0.33731771794666565,0.016349077224731445,True,,NaturalImages,3,0.2,dense,Picard-nonorthogonal
+0.2302645354354401,0.34394089584507076,0.0063419342041015625,True,,NaturalImages,3,0.2,dense,JADE
+0.2060107796152646,0.3387461728445987,0.013558626174926758,True,,NaturalImages,3,0.2,dense,SOBI
+0.4412360392415445,0.14291742910752125,0.036679744720458984,True,,NaturalImages,3,0.1,single-channel,Proposed IRLS-l12
+0.289148391311153,0.44136857039569133,0.004678010940551758,True,,NaturalImages,3,0.1,single-channel,FastICA-exp
+0.28788509174929705,0.45669549449864044,0.0042150020599365234,True,,NaturalImages,3,0.1,single-channel,FastICA-deflation-cube
+0.2880769438386735,0.4616401128139892,0.019513607025146484,True,,NaturalImages,3,0.1,single-channel,Picard-nonorthogonal
+0.2882680301988366,0.4562915548141159,0.004362821578979492,True,,NaturalImages,3,0.1,single-channel,JADE
+0.25878639776620327,0.3854357937106167,0.0054852962493896484,True,,NaturalImages,3,0.1,single-channel,SOBI
+0.17928892927449974,0.2973820897137364,0.08229899406433105,True,,NaturalImages,3,0.2,single-channel,Proposed IRLS-l12
+0.22385425625890015,0.38901843020808313,0.006444692611694336,True,,NaturalImages,3,0.2,single-channel,FastICA-exp
+0.22454439464727352,0.38379485072299035,0.0026578903198242188,True,,NaturalImages,3,0.2,single-channel,FastICA-deflation-cube
+0.22379682663159822,0.3912178934270823,0.016557693481445312,True,,NaturalImages,3,0.2,single-channel,Picard-nonorthogonal
+0.22474811350881058,0.38700021984384925,0.003619670867919922,True,,NaturalImages,3,0.2,single-channel,JADE
+0.2333269666109774,0.358353991039371,0.0072290897369384766,True,,NaturalImages,3,0.2,single-channel,SOBI
+0.7658923219266415,0.16514467302714347,0.08027291297912598,True,,NaturalImages,3,0.1,coherent,Proposed IRLS-l12
+0.7669270491470673,0.1636649989242297,0.0028896331787109375,True,,NaturalImages,3,0.1,coherent,FastICA-exp
+0.7688369552555225,0.17523318595471074,0.0028388500213623047,True,,NaturalImages,3,0.1,coherent,FastICA-deflation-cube
+0.7644931142688658,0.14947446473598047,0.04465198516845703,True,,NaturalImages,3,0.1,coherent,Picard-nonorthogonal
+0.7569076969774703,0.19642693025348892,0.004025459289550781,True,,NaturalImages,3,0.1,coherent,JADE
+0.6966555681137535,0.2596213612291505,0.00510406494140625,True,,NaturalImages,3,0.1,coherent,SOBI
+0.761697609765206,0.23339948150307058,0.11484766006469727,True,,NaturalImages,3,0.2,coherent,Proposed IRLS-l12
+0.6980951436351033,0.26052821427097017,0.003818988800048828,True,,NaturalImages,3,0.2,coherent,FastICA-exp
+0.74300147044687,0.30117345237438264,0.00399470329284668,True,,NaturalImages,3,0.2,coherent,FastICA-deflation-cube
+0.6600751498206007,0.34203584931599024,0.04085493087768555,True,,NaturalImages,3,0.2,coherent,Picard-nonorthogonal
+0.7443094521460063,0.30570347421267635,0.004957437515258789,True,,NaturalImages,3,0.2,coherent,JADE
+0.7248091461748254,0.33431518553437956,0.013504981994628906,True,,NaturalImages,3,0.2,coherent,SOBI
+0.2467567224987242,0.2618950762159698,0.06158161163330078,True,,NaturalImages,4,0.1,dense,Proposed IRLS-l12
+0.2287867947535208,0.3839265529411234,0.0060787200927734375,True,,NaturalImages,4,0.1,dense,FastICA-exp
+0.2153849593111933,0.33761023792167244,0.004741668701171875,True,,NaturalImages,4,0.1,dense,FastICA-deflation-cube
+0.2184738269847272,0.3432008807519355,0.027798175811767578,True,,NaturalImages,4,0.1,dense,Picard-nonorthogonal
+0.21730046204493042,0.3849958649752257,0.007949113845825195,True,,NaturalImages,4,0.1,dense,JADE
+0.22525755786403331,0.35200896023566186,0.008229732513427734,True,,NaturalImages,4,0.1,dense,SOBI
+0.1513201869265814,0.4116524946146523,0.07094168663024902,True,,NaturalImages,4,0.2,dense,Proposed IRLS-l12
+0.16543916274866025,0.4240722424711311,0.01276850700378418,True,,NaturalImages,4,0.2,dense,FastICA-exp
+0.17722270717183414,0.3372282724787783,0.006543159484863281,True,,NaturalImages,4,0.2,dense,FastICA-deflation-cube
+0.17834640120989617,0.41448309466780797,0.019517183303833008,True,,NaturalImages,4,0.2,dense,Picard-nonorthogonal
+0.17544867018198967,0.3686711324654618,0.006577968597412109,True,,NaturalImages,4,0.2,dense,JADE
+0.14323387761405684,0.3531097130140977,0.013355255126953125,True,,NaturalImages,4,0.2,dense,SOBI
+0.14601145418657496,0.24958742622175362,0.04713273048400879,True,,NaturalImages,4,0.1,single-channel,Proposed IRLS-l12
+0.21665888131058356,0.3769637181157746,0.007436037063598633,True,,NaturalImages,4,0.1,single-channel,FastICA-exp
+0.19785897094603683,0.4674056595879786,0.002974987030029297,True,,NaturalImages,4,0.1,single-channel,FastICA-deflation-cube
+0.2007584321799772,0.4610957003640328,0.024098634719848633,True,,NaturalImages,4,0.1,single-channel,Picard-nonorthogonal
+0.20127380134642497,0.4619681426175175,0.0032744407653808594,True,,NaturalImages,4,0.1,single-channel,JADE
+0.2356333340918419,0.36656982717513875,0.011565446853637695,True,,NaturalImages,4,0.1,single-channel,SOBI
+0.15283845371601051,0.2908617731783245,0.05613970756530762,True,,NaturalImages,4,0.2,single-channel,Proposed IRLS-l12
+0.1525808633384473,0.4014391092597595,0.003282308578491211,True,,NaturalImages,4,0.2,single-channel,FastICA-exp
+0.14073150712519308,0.4074404807122554,0.002923250198364258,True,,NaturalImages,4,0.2,single-channel,FastICA-deflation-cube
+0.14186809956020444,0.4163117542768949,0.028148412704467773,True,,NaturalImages,4,0.2,single-channel,Picard-nonorthogonal
+0.14172484202764998,0.4081174747952926,0.0028619766235351562,True,,NaturalImages,4,0.2,single-channel,JADE
+0.14683153073885985,0.4648032337142637,0.006437540054321289,True,,NaturalImages,4,0.2,single-channel,SOBI
+0.6546571219043701,0.3454920598924657,0.06540656089782715,True,,NaturalImages,4,0.1,coherent,Proposed IRLS-l12
+0.6789647616799445,0.28383119749871044,0.021414756774902344,True,,NaturalImages,4,0.1,coherent,FastICA-exp
+0.6479055433206357,0.3085078339665833,0.004845380783081055,True,,NaturalImages,4,0.1,coherent,FastICA-deflation-cube
+0.7466439552743985,0.2812512595321716,0.0246737003326416,True,,NaturalImages,4,0.1,coherent,Picard-nonorthogonal
+0.644303715079112,0.2924644293539664,0.005339860916137695,True,,NaturalImages,4,0.1,coherent,JADE
+0.6062997992169198,0.45471880356097716,0.009905815124511719,True,,NaturalImages,4,0.1,coherent,SOBI
+0.7423420802266025,0.19290708148527197,0.05422520637512207,True,,NaturalImages,4,0.2,coherent,Proposed IRLS-l12
+0.7153323323978381,0.24534530593365816,0.0039021968841552734,True,,NaturalImages,4,0.2,coherent,FastICA-exp
+0.657376032173308,0.3044880941921749,0.006865501403808594,True,,NaturalImages,4,0.2,coherent,FastICA-deflation-cube
+0.7265776038497368,0.20140891969015043,0.12185072898864746,True,,NaturalImages,4,0.2,coherent,Picard-nonorthogonal
+0.6693094948576812,0.3058501929000778,0.005759477615356445,True,,NaturalImages,4,0.2,coherent,JADE
+0.5839753929420988,0.43016803340659615,0.011590957641601562,True,,NaturalImages,4,0.2,coherent,SOBI
+0.2767508821075108,0.2525494473845296,0.09210753440856934,True,,NaturalImages,5,0.1,dense,Proposed IRLS-l12
+0.24664614460946668,0.35071556044855584,0.009556770324707031,True,,NaturalImages,5,0.1,dense,FastICA-exp
+0.21346506359577413,0.4484122477017317,0.0057909488677978516,True,,NaturalImages,5,0.1,dense,FastICA-deflation-cube
+0.21152919566658274,0.46386315453666327,0.03395700454711914,True,,NaturalImages,5,0.1,dense,Picard-nonorthogonal
+0.21276174498094286,0.4561796810091924,0.005932807922363281,True,,NaturalImages,5,0.1,dense,JADE
+0.2014613228525227,0.34140997281237234,0.011179685592651367,True,,NaturalImages,5,0.1,dense,SOBI
+0.1678113148686292,0.16871503903615243,0.1269981861114502,True,,NaturalImages,5,0.2,dense,Proposed IRLS-l12
+0.18045901001938902,0.455297212149304,0.010101079940795898,True,,NaturalImages,5,0.2,dense,FastICA-exp
+0.19025939443575912,0.4224330429243066,0.008571624755859375,True,,NaturalImages,5,0.2,dense,FastICA-deflation-cube
+0.19209517850775842,0.401551638364643,0.023494482040405273,True,,NaturalImages,5,0.2,dense,Picard-nonorthogonal
+0.19788478893468134,0.4411324875575355,0.01654338836669922,True,,NaturalImages,5,0.2,dense,JADE
+0.18050071519821204,0.38996034493672893,0.011664628982543945,True,,NaturalImages,5,0.2,dense,SOBI
+0.23970988315299113,0.2391123125775521,0.08942961692810059,True,,NaturalImages,5,0.1,single-channel,Proposed IRLS-l12
+0.24354320913388622,0.3476435141422833,0.006406545639038086,True,,NaturalImages,5,0.1,single-channel,FastICA-exp
+0.22668916513580287,0.2648372440608793,0.002362966537475586,True,,NaturalImages,5,0.1,single-channel,FastICA-deflation-cube
+0.22766869737899792,0.266656784057702,0.012401819229125977,True,,NaturalImages,5,0.1,single-channel,Picard-nonorthogonal
+0.22776964474336822,0.2702037064560307,0.0033490657806396484,True,,NaturalImages,5,0.1,single-channel,JADE
+0.2310731728671566,0.3953610256882471,0.0071718692779541016,True,,NaturalImages,5,0.1,single-channel,SOBI
+0.2015989673238475,0.3311450100314855,0.0328679084777832,True,,NaturalImages,5,0.2,single-channel,Proposed IRLS-l12
+0.185862047288976,0.37387413812285786,0.009193181991577148,True,,NaturalImages,5,0.2,single-channel,FastICA-exp
+0.18611958522647432,0.3732443612580981,0.003975629806518555,True,,NaturalImages,5,0.2,single-channel,FastICA-deflation-cube
+0.18563185943264163,0.3733385279718463,0.011532068252563477,True,,NaturalImages,5,0.2,single-channel,Picard-nonorthogonal
+0.1858972726807548,0.3732869115023571,0.0029587745666503906,True,,NaturalImages,5,0.2,single-channel,JADE
+0.1763983174026961,0.4384532764061005,0.008022785186767578,True,,NaturalImages,5,0.2,single-channel,SOBI
+0.7321657743514834,0.1606035288637458,0.0451359748840332,True,,NaturalImages,5,0.1,coherent,Proposed IRLS-l12
+0.6609909094816917,0.2680982585399005,0.004920005798339844,True,,NaturalImages,5,0.1,coherent,FastICA-exp
+0.6601713004987493,0.26275198905746466,0.02727961540222168,True,,NaturalImages,5,0.1,coherent,FastICA-deflation-cube
+0.6686091326373885,0.3679345512147404,0.0448610782623291,True,,NaturalImages,5,0.1,coherent,Picard-nonorthogonal
+0.6696227394919763,0.23918793226691387,0.0038268566131591797,True,,NaturalImages,5,0.1,coherent,JADE
+0.5665381105613518,0.43725676246736045,0.014516353607177734,True,,NaturalImages,5,0.1,coherent,SOBI
+0.7787152754092549,0.16570029167097075,0.08905506134033203,True,,NaturalImages,5,0.2,coherent,Proposed IRLS-l12
+0.7014033971553432,0.25321585590544915,0.004563570022583008,True,,NaturalImages,5,0.2,coherent,FastICA-exp
+0.7214992035664933,0.20451654387450988,0.0032112598419189453,True,,NaturalImages,5,0.2,coherent,FastICA-deflation-cube
+0.757706469189775,0.21735365720130123,0.044594526290893555,True,,NaturalImages,5,0.2,coherent,Picard-nonorthogonal
+0.6819510847340474,0.27770378246389643,0.005646705627441406,True,,NaturalImages,5,0.2,coherent,JADE
+0.5627871054305665,0.4576263412255418,0.007418394088745117,True,,NaturalImages,5,0.2,coherent,SOBI
+0.30279881695563515,0.22963815216208947,0.08461546897888184,True,,NaturalImages,6,0.1,dense,Proposed IRLS-l12
+0.2777782402125476,0.33642977237462474,0.016870975494384766,True,,NaturalImages,6,0.1,dense,FastICA-exp
+0.2610965176043336,0.43451003721903875,0.006237506866455078,True,,NaturalImages,6,0.1,dense,FastICA-deflation-cube
+0.2802228313432966,0.3915637782234862,0.013564348220825195,True,,NaturalImages,6,0.1,dense,Picard-nonorthogonal
+0.25533809927027884,0.4415067864209295,0.007632017135620117,True,,NaturalImages,6,0.1,dense,JADE
+0.26900414353985336,0.31534257615065,0.006315946578979492,True,,NaturalImages,6,0.1,dense,SOBI
+0.17914736417416138,0.3042864552341574,0.048871755599975586,True,,NaturalImages,6,0.2,dense,Proposed IRLS-l12
+0.2277930297486192,0.4676978615356022,0.012897729873657227,True,,NaturalImages,6,0.2,dense,FastICA-exp
+0.24525560937977525,0.38609749309353003,0.004426002502441406,True,,NaturalImages,6,0.2,dense,FastICA-deflation-cube
+0.23943303889959452,0.4266522565106337,0.014016151428222656,True,,NaturalImages,6,0.2,dense,Picard-nonorthogonal
+0.24644373815336884,0.4208460394901274,0.005249500274658203,True,,NaturalImages,6,0.2,dense,JADE
+0.2300329368164895,0.44588258618341936,0.015603303909301758,True,,NaturalImages,6,0.2,dense,SOBI
+0.34658698805089116,0.1921283004498836,0.041188955307006836,True,,NaturalImages,6,0.1,single-channel,Proposed IRLS-l12
+0.2645523226318428,0.4050679619437668,0.010127544403076172,True,,NaturalImages,6,0.1,single-channel,FastICA-exp
+0.2613340909149224,0.44317432123471023,0.0026063919067382812,True,,NaturalImages,6,0.1,single-channel,FastICA-deflation-cube
+0.26369195630396486,0.41318695074158984,0.020358562469482422,True,,NaturalImages,6,0.1,single-channel,Picard-nonorthogonal
+0.26511590716588246,0.42026220964033334,0.0034530162811279297,True,,NaturalImages,6,0.1,single-channel,JADE
+0.31337241162021534,0.40268675255456676,0.006050586700439453,True,,NaturalImages,6,0.1,single-channel,SOBI
+0.18521852829589341,0.4193490378474792,0.030526399612426758,True,,NaturalImages,6,0.2,single-channel,Proposed IRLS-l12
+0.2230529188696984,0.40555601254880375,0.003209352493286133,True,,NaturalImages,6,0.2,single-channel,FastICA-exp
+0.20849188368697086,0.4079231336232746,0.0025849342346191406,True,,NaturalImages,6,0.2,single-channel,FastICA-deflation-cube
+0.20369714523123644,0.4112431584691253,0.00952768325805664,True,,NaturalImages,6,0.2,single-channel,Picard-nonorthogonal
+0.20609901013709014,0.40836003331568477,0.003292083740234375,True,,NaturalImages,6,0.2,single-channel,JADE
+0.2126788812473083,0.37231289327635175,0.007366180419921875,True,,NaturalImages,6,0.2,single-channel,SOBI
+0.7448828355340611,0.1774243045359814,0.04170417785644531,True,,NaturalImages,6,0.1,coherent,Proposed IRLS-l12
+0.7294208222140324,0.17613834423141256,0.002740144729614258,True,,NaturalImages,6,0.1,coherent,FastICA-exp
+0.7539039475159601,0.20638436574650978,0.024059295654296875,True,,NaturalImages,6,0.1,coherent,FastICA-deflation-cube
+0.7399772089024559,0.1951897948886719,0.0376896858215332,True,,NaturalImages,6,0.1,coherent,Picard-nonorthogonal
+0.7250390084940445,0.21863644910515498,0.004702329635620117,True,,NaturalImages,6,0.1,coherent,JADE
+0.6309238534409529,0.4502235325109239,0.004843711853027344,True,,NaturalImages,6,0.1,coherent,SOBI
+0.7646561222284041,0.15746330334922382,0.10495257377624512,True,,NaturalImages,6,0.2,coherent,Proposed IRLS-l12
+0.7775249623094792,0.14853111950370096,0.003383159637451172,True,,NaturalImages,6,0.2,coherent,FastICA-exp
+0.7962854599551381,0.19813247337004913,0.0028831958770751953,True,,NaturalImages,6,0.2,coherent,FastICA-deflation-cube
+0.8134602364950384,0.16918820377541494,0.02085423469543457,True,,NaturalImages,6,0.2,coherent,Picard-nonorthogonal
+0.8033234381182075,0.14881293528392114,0.005362510681152344,True,,NaturalImages,6,0.2,coherent,JADE
+0.5978330006488262,0.44295698669767375,0.006232261657714844,True,,NaturalImages,6,0.2,coherent,SOBI
+0.29112571819720323,0.2935928296872609,0.04996085166931152,True,,NaturalImages,7,0.1,dense,Proposed IRLS-l12
+0.30107963152835704,0.4045389771943417,0.006523609161376953,True,,NaturalImages,7,0.1,dense,FastICA-exp
+0.3231052174898693,0.4782498927364358,0.004791736602783203,True,,NaturalImages,7,0.1,dense,FastICA-deflation-cube
+0.3230952983376313,0.449617677295519,0.027546167373657227,True,,NaturalImages,7,0.1,dense,Picard-nonorthogonal
+0.32256747479204717,0.46130762247640755,0.008843183517456055,True,,NaturalImages,7,0.1,dense,JADE
+0.3031856623379305,0.39050928014798914,0.014481306076049805,True,,NaturalImages,7,0.1,dense,SOBI
+0.23609818997997506,0.19120417044797827,0.053904056549072266,True,,NaturalImages,7,0.2,dense,Proposed IRLS-l12
+0.2552363456188793,0.35382779667680975,0.010079145431518555,True,,NaturalImages,7,0.2,dense,FastICA-exp
+0.23328117053963257,0.4306255099044227,0.005765438079833984,True,,NaturalImages,7,0.2,dense,FastICA-deflation-cube
+0.2511542889902575,0.3475065508026347,0.04512786865234375,True,,NaturalImages,7,0.2,dense,Picard-nonorthogonal
+0.24234098252238007,0.35746372881242094,0.011930227279663086,True,,NaturalImages,7,0.2,dense,JADE
+0.261020815233106,0.43982570805052124,0.01641392707824707,True,,NaturalImages,7,0.2,dense,SOBI
+0.35945786677506397,0.10959414720791569,0.09762215614318848,True,,NaturalImages,7,0.1,single-channel,Proposed IRLS-l12
+0.22895771923504907,0.3251314187196188,0.006882429122924805,True,,NaturalImages,7,0.1,single-channel,FastICA-exp
+0.2593520552077695,0.4202501736693166,0.0037283897399902344,True,,NaturalImages,7,0.1,single-channel,FastICA-deflation-cube
+0.2517990135963523,0.41419341409155497,0.015049934387207031,True,,NaturalImages,7,0.1,single-channel,Picard-nonorthogonal
+0.25252237202001865,0.42416750948849663,0.003447294235229492,True,,NaturalImages,7,0.1,single-channel,JADE
+0.2258601490796967,0.5252167252416579,0.017305612564086914,True,,NaturalImages,7,0.1,single-channel,SOBI
+0.2437243242219333,0.3603938950574064,0.14226555824279785,True,,NaturalImages,7,0.2,single-channel,Proposed IRLS-l12
+0.19556575745663748,0.333812691678289,0.005318641662597656,True,,NaturalImages,7,0.2,single-channel,FastICA-exp
+0.195950743714169,0.3353041430375011,0.004111528396606445,True,,NaturalImages,7,0.2,single-channel,FastICA-deflation-cube
+0.19507271768331652,0.3340389924764793,0.0189971923828125,True,,NaturalImages,7,0.2,single-channel,Picard-nonorthogonal
+0.1954141429291349,0.334424772602793,0.003255605697631836,True,,NaturalImages,7,0.2,single-channel,JADE
+0.19842907473835064,0.4356782373549365,0.010108232498168945,True,,NaturalImages,7,0.2,single-channel,SOBI
+0.7635547772926797,0.15212999340256664,0.05462813377380371,True,,NaturalImages,7,0.1,coherent,Proposed IRLS-l12
+0.7618129444580509,0.17753246447340248,0.004007577896118164,True,,NaturalImages,7,0.1,coherent,FastICA-exp
+0.7631119091984802,0.1437601005575144,0.0037696361541748047,True,,NaturalImages,7,0.1,coherent,FastICA-deflation-cube
+0.7623811178051136,0.1741663293545868,0.021073341369628906,True,,NaturalImages,7,0.1,coherent,Picard-nonorthogonal
+0.6986163112989767,0.26124164521432985,0.004758119583129883,True,,NaturalImages,7,0.1,coherent,JADE
+0.5913586749888297,0.44909650347635066,0.015877723693847656,True,,NaturalImages,7,0.1,coherent,SOBI
+0.7233825055341925,0.1691329462320335,0.055139780044555664,True,,NaturalImages,7,0.2,coherent,Proposed IRLS-l12
+0.7653493572736415,0.13601226391786853,0.0068280696868896484,True,,NaturalImages,7,0.2,coherent,FastICA-exp
+0.7482390776206468,0.165755155510045,0.004533052444458008,True,,NaturalImages,7,0.2,coherent,FastICA-deflation-cube
+0.7590494152871703,0.1530640833794657,0.07425427436828613,True,,NaturalImages,7,0.2,coherent,Picard-nonorthogonal
+0.7921642230352993,0.21474766877138043,0.009311199188232422,True,,NaturalImages,7,0.2,coherent,JADE
+0.5557608595209317,0.47140171386467145,0.010943412780761719,True,,NaturalImages,7,0.2,coherent,SOBI
+0.38866472252830575,0.17620218789753803,0.04622483253479004,True,,NaturalImages,8,0.1,dense,Proposed IRLS-l12
+0.2362070194963934,0.45501399949285093,0.005116701126098633,True,,NaturalImages,8,0.1,dense,FastICA-exp
+0.23107349376053393,0.3915335472993687,0.005052804946899414,True,,NaturalImages,8,0.1,dense,FastICA-deflation-cube
+0.2562270554353224,0.45126394380788837,0.03555011749267578,True,,NaturalImages,8,0.1,dense,Picard-nonorthogonal
+0.23828911199885142,0.36499966471931866,0.010029792785644531,True,,NaturalImages,8,0.1,dense,JADE
+0.2565898586836918,0.43951092483561693,0.005479097366333008,True,,NaturalImages,8,0.1,dense,SOBI
+0.1627318579392266,0.3492027893786866,0.1086583137512207,True,,NaturalImages,8,0.2,dense,Proposed IRLS-l12
+0.19808184694433717,0.3515756515097118,0.007870674133300781,True,,NaturalImages,8,0.2,dense,FastICA-exp
+0.20793803888494108,0.2947142104986849,0.005284786224365234,True,,NaturalImages,8,0.2,dense,FastICA-deflation-cube
+0.20801495994601424,0.32555892902150363,0.023109912872314453,True,,NaturalImages,8,0.2,dense,Picard-nonorthogonal
+0.1990698364845585,0.30547034075194607,0.006883859634399414,True,,NaturalImages,8,0.2,dense,JADE
+0.19369281282809306,0.41198951262024763,0.005057573318481445,True,,NaturalImages,8,0.2,dense,SOBI
+0.3254336750635249,0.19907885706139475,0.08541131019592285,True,,NaturalImages,8,0.1,single-channel,Proposed IRLS-l12
+0.3476415675336553,0.24827184953225245,0.00452113151550293,True,,NaturalImages,8,0.1,single-channel,FastICA-exp
+0.34464263636998915,0.3752630308623613,0.0028047561645507812,True,,NaturalImages,8,0.1,single-channel,FastICA-deflation-cube
+0.3434454418895516,0.368494849843717,0.016452550888061523,True,,NaturalImages,8,0.1,single-channel,Picard-nonorthogonal
+0.3452928654443786,0.37113995935211586,0.003941535949707031,True,,NaturalImages,8,0.1,single-channel,JADE
+0.2715420983534002,0.33027552105585906,0.022771596908569336,True,,NaturalImages,8,0.1,single-channel,SOBI
+0.22589170769785677,0.26190743811191486,0.25571656227111816,True,,NaturalImages,8,0.2,single-channel,Proposed IRLS-l12
+0.1921263792081837,0.4126065921286871,0.009688138961791992,True,,NaturalImages,8,0.2,single-channel,FastICA-exp
+0.19265107307976864,0.4106713689955244,0.004637479782104492,True,,NaturalImages,8,0.2,single-channel,FastICA-deflation-cube
+0.1916176528283348,0.41574276248779507,0.030589818954467773,True,,NaturalImages,8,0.2,single-channel,Picard-nonorthogonal
+0.1915382402685467,0.41337415722627335,0.0038008689880371094,True,,NaturalImages,8,0.2,single-channel,JADE
+0.19038146737210426,0.351607977929412,0.00884556770324707,True,,NaturalImages,8,0.2,single-channel,SOBI
+0.7156206871008634,0.21772604132971035,0.0737769603729248,True,,NaturalImages,8,0.1,coherent,Proposed IRLS-l12
+0.6887586501964787,0.20187237724828008,0.0029554367065429688,True,,NaturalImages,8,0.1,coherent,FastICA-exp
+0.6709361310959567,0.2858626405489891,0.0033702850341796875,True,,NaturalImages,8,0.1,coherent,FastICA-deflation-cube
+0.6932082053819102,0.2175109410554982,0.04978632926940918,True,,NaturalImages,8,0.1,coherent,Picard-nonorthogonal
+0.6774263872436039,0.248565970521684,0.005941152572631836,True,,NaturalImages,8,0.1,coherent,JADE
+0.5860437270314641,0.48018208253437145,0.00823664665222168,True,,NaturalImages,8,0.1,coherent,SOBI
+0.676527917500682,0.2589618001510089,0.08722424507141113,True,,NaturalImages,8,0.2,coherent,Proposed IRLS-l12
+0.6492147464785585,0.25944649473054904,0.0027065277099609375,True,,NaturalImages,8,0.2,coherent,FastICA-exp
+0.6574372762860363,0.20835288189800774,0.0033521652221679688,True,,NaturalImages,8,0.2,coherent,FastICA-deflation-cube
+0.6342056855700635,0.2983029751465258,0.0488133430480957,True,,NaturalImages,8,0.2,coherent,Picard-nonorthogonal
+0.6332502883617194,0.2610785809277748,0.004488229751586914,True,,NaturalImages,8,0.2,coherent,JADE
+0.6261342023024217,0.3423870019751596,0.018449068069458008,True,,NaturalImages,8,0.2,coherent,SOBI
+0.3585013197829706,0.13796629028727722,0.08830571174621582,True,,NaturalImages,9,0.1,dense,Proposed IRLS-l12
+0.23036140030164115,0.4307108127188751,0.014772176742553711,True,,NaturalImages,9,0.1,dense,FastICA-exp
+0.21655668972693132,0.4031737032460702,0.006613492965698242,True,,NaturalImages,9,0.1,dense,FastICA-deflation-cube
+0.23945155538584154,0.37883600990751576,0.017950773239135742,True,,NaturalImages,9,0.1,dense,Picard-nonorthogonal
+0.2207160560381584,0.39653424957479516,0.0072078704833984375,True,,NaturalImages,9,0.1,dense,JADE
+0.21926624653552867,0.349360742898383,0.018337488174438477,True,,NaturalImages,9,0.1,dense,SOBI
+0.22477316853802662,0.2180054008042896,0.09373950958251953,True,,NaturalImages,9,0.2,dense,Proposed IRLS-l12
+0.21398290824924704,0.5167393487864229,0.013306379318237305,True,,NaturalImages,9,0.2,dense,FastICA-exp
+0.22066891549957196,0.49655055939666826,0.005978822708129883,True,,NaturalImages,9,0.2,dense,FastICA-deflation-cube
+0.2095265290271445,0.4956906899188132,0.027667522430419922,True,,NaturalImages,9,0.2,dense,Picard-nonorthogonal
+0.21667517519626678,0.501519861161713,0.013114690780639648,True,,NaturalImages,9,0.2,dense,JADE
+0.20156010646253225,0.327545713544935,0.006201982498168945,True,,NaturalImages,9,0.2,dense,SOBI
+0.28398547056429774,0.24207896492015873,0.05744051933288574,True,,NaturalImages,9,0.1,single-channel,Proposed IRLS-l12
+0.24575888402575466,0.27037277473426186,0.004548788070678711,True,,NaturalImages,9,0.1,single-channel,FastICA-exp
+0.21425449368617794,0.3643923471615221,0.0026547908782958984,True,,NaturalImages,9,0.1,single-channel,FastICA-deflation-cube
+0.21493890558411607,0.3586592786668418,0.02198338508605957,True,,NaturalImages,9,0.1,single-channel,Picard-nonorthogonal
+0.21459883764829052,0.35801375853510864,0.003637075424194336,True,,NaturalImages,9,0.1,single-channel,JADE
+0.2374774505593328,0.3937798551760547,0.01654672622680664,True,,NaturalImages,9,0.1,single-channel,SOBI
+0.230961737518918,0.2871286098091212,0.09889698028564453,True,,NaturalImages,9,0.2,single-channel,Proposed IRLS-l12
+0.24151848576720653,0.3613423212320262,0.00336456298828125,True,,NaturalImages,9,0.2,single-channel,FastICA-exp
+0.24019191846850324,0.3658188051153564,0.002855062484741211,True,,NaturalImages,9,0.2,single-channel,FastICA-deflation-cube
+0.24116201125288309,0.3638968918588407,0.009048938751220703,True,,NaturalImages,9,0.2,single-channel,Picard-nonorthogonal
+0.2397435677636477,0.3631401753463265,0.0031032562255859375,True,,NaturalImages,9,0.2,single-channel,JADE
+0.1980023573260975,0.3691818269661358,0.007241487503051758,True,,NaturalImages,9,0.2,single-channel,SOBI
+0.6932168275940555,0.23538128820497076,0.06318926811218262,True,,NaturalImages,9,0.1,coherent,Proposed IRLS-l12
+0.6405146916193168,0.25000367771237536,0.0033690929412841797,True,,NaturalImages,9,0.1,coherent,FastICA-exp
+0.6905121905474816,0.24191918277100957,0.003572225570678711,True,,NaturalImages,9,0.1,coherent,FastICA-deflation-cube
+0.6430863321159256,0.2766299062644536,0.04683685302734375,True,,NaturalImages,9,0.1,coherent,Picard-nonorthogonal
+0.6664864051878927,0.2501182468962346,0.0037446022033691406,True,,NaturalImages,9,0.1,coherent,JADE
+0.5998421026991556,0.49509546829974865,0.007111549377441406,True,,NaturalImages,9,0.1,coherent,SOBI
+0.7396000319917941,0.13770065780160629,0.060129404067993164,True,,NaturalImages,9,0.2,coherent,Proposed IRLS-l12
+0.7294859061943216,0.14724628175839918,0.004158973693847656,True,,NaturalImages,9,0.2,coherent,FastICA-exp
+0.6358910526016472,0.2671346416095985,0.0055866241455078125,True,,NaturalImages,9,0.2,coherent,FastICA-deflation-cube
+0.7158033096670184,0.20491186378109214,0.03767275810241699,True,,NaturalImages,9,0.2,coherent,Picard-nonorthogonal
+0.7256108622068873,0.1710774512433046,0.006130218505859375,True,,NaturalImages,9,0.2,coherent,JADE
+0.519231752694983,0.5025418633747616,0.02414703369140625,True,,NaturalImages,9,0.2,coherent,SOBI

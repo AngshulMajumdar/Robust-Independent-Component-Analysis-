@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying article when using this code or results."
+title: "Robust ICA Made Easy: IRLS with l1,2 Data Fidelity — Reproducibility Package"
+type: software
+authors:
+  - family-names: Majumdar
+    given-names: Angshul
+version: 1.0.0
+date-released: 2026-07-22
+license: CC-BY-4.0

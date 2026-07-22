@@ -1,0 +1,15 @@
+name: robust-ica-mir
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy=2.3.5
+  - pandas=2.2.3
+  - scipy
+  - scikit-learn=1.8.0
+  - scikit-image
+  - joblib
+  - statsmodels
+  - pip
+  - pip:
+      - python-picard>=0.8

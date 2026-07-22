@@ -1,0 +1,8 @@
+{
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "cpu_count": 56,
+  "total_runs": 2750,
+  "n_batches": 10,
+  "protocol": "5 real-source datasets; 8 sensors; 5 sources; n=150; dense samplewise contamination; magnitude 10x median clean sample norm; 10 seeds; 5 contamination levels"
+}
